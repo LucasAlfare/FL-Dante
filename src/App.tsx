@@ -3,6 +3,7 @@ import MarkdownRenderer from './components/MarkdownRenderer';
 import Header from './components/Header';
 import Sidebar from './components/Sidebar';
 import Footer from './components/Footer';
+import SupportPanel from './components/SupportPanel';
 import ChapterProvider from './services/ChapterProvider';
 import type { BookType } from './services/ChapterProvider';
 
@@ -12,6 +13,7 @@ function App() {
   const [error, setError] = useState<string | null>(null);
   const [globalChapter, setGlobalChapter] = useState<number>(1);
   const [isSidebarOpen, setIsSidebarOpen] = useState<boolean>(false);
+  const [isSupportPanelOpen, setIsSupportPanelOpen] = useState<boolean>(true);
 
   const getBookAndChapterFromGlobal = (globalChapter: number): { book: string, chapter: number } => {
     if (globalChapter <= 34) {
@@ -99,7 +101,9 @@ function App() {
           currentChapter={getBookAndChapterFromGlobal(globalChapter).chapter}
           onNavigate={handleNavigate}
         />
-        <main className="flex-1 overflow-hidden">
+        <main className={`flex-1 overflow-hidden transition-all duration-300 ${
+          isSupportPanelOpen ? 'mr-80' : 'mr-0'
+        }`}>
           <MarkdownRenderer 
             content={content} 
             className="prose prose-lg max-w-none h-full overflow-y-auto p-8" 
@@ -112,6 +116,10 @@ function App() {
         totalChapters={globalChapter}
         onPrevious={handlePrevious}
         onNext={handleNext}
+      />
+      <SupportPanel 
+        isOpen={isSupportPanelOpen}
+        onToggle={() => setIsSupportPanelOpen(!isSupportPanelOpen)}
       />
     </div>
   )
