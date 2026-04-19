@@ -1,3 +1,5 @@
+import { toRoman } from '../utils/romanNumerals';
+
 interface HeaderProps {
   currentBook?: string;
   currentChapter?: number;
@@ -15,7 +17,7 @@ function Header({ currentBook = "Inferno", currentChapter = 1 }: HeaderProps) {
         {/* Conteúdo dinâmico no centro */}
         <div className="flex-1 text-center">
           <h2 className="text-lg font-medium">
-            {currentBook} · Canto {currentChapter}
+            {currentBook} · Canto {toRoman(currentChapter)}
           </h2>
         </div>
         

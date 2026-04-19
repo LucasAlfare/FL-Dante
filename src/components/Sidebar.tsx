@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { toRoman } from '../utils/romanNumerals';
 
 interface SidebarProps {
   isOpen: boolean;
@@ -100,7 +101,7 @@ function Sidebar({ isOpen, onToggle, currentBook, currentChapter, onNavigate }: 
                                 : ''
                             }`}
                           >
-                            Canto {chapter}
+                            Canto {toRoman(chapter)}
                           </button>
                         ))}
                       </div>
