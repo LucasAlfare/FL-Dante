@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import { toRoman } from '../utils/romanNumerals';
+import { bookFontClasses } from '../utils/fontStyles';
 
 interface SidebarProps {
   isOpen: boolean;
@@ -90,7 +91,7 @@ function Sidebar({ isOpen, onToggle, currentBook, currentChapter, onNavigate }: 
                         <circle cx="12" cy="12" r="6" />
                       )}
                     </svg>
-                    <span className="font-medium">{book.title}</span>
+                    <span className={`font-medium ${bookFontClasses.base}`}>{book.title}</span>
                   </button>
                   
                   {expandedBooks.has(book.id) && (
@@ -100,7 +101,7 @@ function Sidebar({ isOpen, onToggle, currentBook, currentChapter, onNavigate }: 
                           <button
                             key={chapter}
                             onClick={() => handleChapterClick(book.id, chapter)}
-                            className={`w-full px-8 py-2 text-left text-sm ${
+                            className={`w-full px-8 py-2 text-left text-sm ${bookFontClasses.base} ${bookFontClasses.sizes.sm} ${
                               currentBook === book.id && currentChapter === chapter 
                                 ? 'font-medium' 
                                 : ''

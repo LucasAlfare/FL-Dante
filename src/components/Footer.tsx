@@ -1,3 +1,5 @@
+import { bookFontClasses } from '../utils/fontStyles';
+
 interface FooterProps {
   currentBook: string;
   currentChapter: number;
@@ -21,7 +23,7 @@ const Footer = ({ currentBook, currentChapter, totalChapters, onPrevious, onNext
         {/* Previous button */}
         <button 
           onClick={onPrevious}
-          className="flex items-center gap-2 px-4 py-2 font-serif text-sm disabled:opacity-50"
+          className={`flex items-center gap-2 px-4 py-2 ${bookFontClasses.base} ${bookFontClasses.sizes.sm} disabled:opacity-50`}
           disabled={totalChapters <= 1}
         >
           <span className="text-xs">←</span>
@@ -31,7 +33,7 @@ const Footer = ({ currentBook, currentChapter, totalChapters, onPrevious, onNext
         {/* Chapter indicator */}
         <div className="flex items-center gap-3">
           <span className="text-xs">‹</span>
-          <span className="font-serif text-sm">
+          <span className={`${bookFontClasses.base} ${bookFontClasses.sizes.sm}`}>
             Canto {currentChapter} de {getBookTotalChapters(currentBook)}
           </span>
           <span className="text-xs">›</span>
@@ -40,7 +42,7 @@ const Footer = ({ currentBook, currentChapter, totalChapters, onPrevious, onNext
         {/* Next button */}
         <button 
           onClick={onNext}
-          className="flex items-center gap-2 px-4 py-2 font-serif text-sm disabled:opacity-50"
+          className={`flex items-center gap-2 px-4 py-2 ${bookFontClasses.base} ${bookFontClasses.sizes.sm} disabled:opacity-50`}
           disabled={totalChapters >= 100}
         >
           <span>Próximo canto</span>

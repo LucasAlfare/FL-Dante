@@ -1,4 +1,5 @@
 import { toRoman } from '../utils/romanNumerals';
+import { bookFontClasses } from '../utils/fontStyles';
 
 interface HeaderProps {
   currentBook?: string;
@@ -11,12 +12,12 @@ function Header({ currentBook = "Inferno", currentChapter = 1 }: HeaderProps) {
       <div className="flex items-center justify-between">
         {/* Título à esquerda */}
         <div className="flex-shrink-0">
-          <h1 className="text-2xl font-bold">Divina Comédia</h1>
+          <h1 className={`text-2xl font-bold ${bookFontClasses.base}`}>Divina Comédia</h1>
         </div>
         
         {/* Conteúdo dinâmico no centro */}
         <div className="flex-1 text-center">
-          <h2 className="text-lg font-medium">
+          <h2 className={`text-lg font-medium ${bookFontClasses.base}`}>
             {currentBook} · Canto {toRoman(currentChapter)}
           </h2>
         </div>

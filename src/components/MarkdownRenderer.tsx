@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactMarkdown from 'react-markdown';
+import { bookFontFamily } from '../utils/fontStyles';
 
 interface MarkdownRendererProps {
   content: string;
@@ -11,7 +12,7 @@ const MarkdownRenderer: React.FC<MarkdownRendererProps> = ({
   className = "" 
 }) => {
   const bookStyle: React.CSSProperties = {
-    fontFamily: 'Georgia, "Times New Roman", serif',
+    fontFamily: bookFontFamily,
     fontSize: '18px',
     lineHeight: '1.8',
     textAlign: 'justify' as const,
@@ -32,7 +33,7 @@ const MarkdownRenderer: React.FC<MarkdownRendererProps> = ({
         }
 
         .markdown-book h1 {
-          font-family: 'Playfair Display', Georgia, serif;
+          font-family: 'Playfair Display', ${bookFontFamily};
           font-size: 2.5em;
           text-align: center;
           margin: 0 0 2em 0;
@@ -41,7 +42,7 @@ const MarkdownRenderer: React.FC<MarkdownRendererProps> = ({
         }
         
         .markdown-book h2 {
-          font-family: 'Playfair Display', Georgia, serif;
+          font-family: 'Playfair Display', ${bookFontFamily};
           font-size: 1.8em;
           text-align: center;
           margin: 2em 0 1.5em 0;
@@ -50,7 +51,7 @@ const MarkdownRenderer: React.FC<MarkdownRendererProps> = ({
         }
         
         .markdown-book h3 {
-          font-family: 'Playfair Display', Georgia, serif;
+          font-family: 'Playfair Display', ${bookFontFamily};
           font-size: 1.4em;
           text-align: center;
           margin: 1.5em 0 1em 0;
