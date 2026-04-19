@@ -66,6 +66,14 @@ const MarkdownRenderer: React.FC<MarkdownRendererProps> = ({
           widows: 3;
         }
         
+        .markdown-book p:first-of-type::first-letter {
+          font-size: 3em;
+          float: left;
+          line-height: 0.8;
+          margin-right: 0.01em;
+          font-weight: 600;
+        }
+        
         .markdown-book p:first-of-type {
           font-weight: 300;
         }
