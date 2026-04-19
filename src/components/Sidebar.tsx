@@ -70,27 +70,32 @@ function Sidebar({ isOpen, onToggle, currentBook, currentChapter, onNavigate }: 
             
             <div className="space-y-2">
               {books.map((book) => (
+                // preciso que cada "livro" não tenha a "barra de scroll" aparecendo quando expandido!
                 <div key={book.id}>
                   <button
                     onClick={() => toggleBook(book.id)}
-                    className="w-full px-4 py-3 text-left flex items-center justify-between"
+                    className="w-full px-4 py-3 text-left flex items-center"
                   >
-                    <span className="font-medium">{book.title}</span>
                     <svg 
-                      className={`w-4 h-4 transition-transform duration-200 ${
-                        expandedBooks.has(book.id) ? 'rotate-90' : ''
-                      }`} 
-                      fill="none" 
-                      stroke="currentColor" 
+                      className="w-4 h-4 mr-3 transition-all duration-200"
+                      fill="currentColor" 
                       viewBox="0 0 24 24"
                     >
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                      {/* nessa parte preciso que o icone seja uma bolinha e quando ativado que seja um diamante */}
+                      {expandedBooks.has(book.id) ? (
+                        // Diamond shape when expanded
+                        <path d="M12 2L2 12L12 22L22 12L12 2Z" />
+                      ) : (
+                        // Circle shape when collapsed
+                        <circle cx="12" cy="12" r="6" />
+                      )}
                     </svg>
+                    <span className="font-medium">{book.title}</span>
                   </button>
                   
                   {expandedBooks.has(book.id) && (
-                    <div className="border-t">
-                      <div className="max-h-64 overflow-y-auto">
+                    <div>
+                      <div className="max-h-64 overflow-y-auto scrollbar-hide">
                         {Array.from({ length: book.chapters }, (_, i) => i + 1).map((chapter) => (
                           <button
                             key={chapter}
