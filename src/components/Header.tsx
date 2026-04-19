@@ -1,5 +1,6 @@
 import { toRoman } from '../utils/romanNumerals';
 import { bookFontClasses } from '../utils/fontStyles';
+import TypographicOrnament from './TypographicOrnament';
 
 interface HeaderProps {
   currentBook?: string;
@@ -12,14 +13,22 @@ function Header({ currentBook = "Inferno", currentChapter = 1 }: HeaderProps) {
       <div className="flex items-center justify-between">
         {/* Título à esquerda */}
         <div className="flex-shrink-0">
-          <h1 className={`text-2xl font-bold ${bookFontClasses.base}`}>Divina Comédia</h1>
+          <div className="flex items-center gap-3">
+            <TypographicOrnament direction="left" className="text-gray-600" />
+            <h1 className={`text-2xl font-bold ${bookFontClasses.base}`}>Divina Comédia</h1>
+            <TypographicOrnament direction="right" className="text-gray-600" />
+          </div>
         </div>
         
         {/* Conteúdo dinâmico no centro */}
         <div className="flex-1 text-center">
-          <h2 className={`text-lg font-medium ${bookFontClasses.base}`}>
-            {currentBook} · Canto {toRoman(currentChapter)}
-          </h2>
+          <div className="flex items-center justify-center gap-2">
+            <TypographicOrnament direction="left" className="text-gray-500 w-6 h-3" />
+            <h2 className={`text-lg font-medium ${bookFontClasses.base}`}>
+              {currentBook} · Canto {toRoman(currentChapter)}
+            </h2>
+            <TypographicOrnament direction="right" className="text-gray-500 w-6 h-3" />
+          </div>
         </div>
         
         {/* Ícones de interação à direita */}
