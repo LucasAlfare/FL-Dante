@@ -15,7 +15,7 @@ function App() {
       try {
         setLoading(true);
         const chapterProvider = new ChapterProvider();
-        const chapterContent = await chapterProvider.getChapter('inferno', 1);
+        const chapterContent = await chapterProvider.getChapter('inferno', currentChapter);
         setContent(chapterContent);
         setError(null);
       } catch (err) {
