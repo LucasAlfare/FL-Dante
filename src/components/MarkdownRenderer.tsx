@@ -19,11 +19,18 @@ const MarkdownRenderer: React.FC<MarkdownRendererProps> = ({
     margin: '0 auto',
     padding: '40px 60px',
     textIndent: '2em',
+    scrollbarWidth: 'none', // Firefox
+    msOverflowStyle: 'none', // IE and Edge
   };
 
   return (
     <div className={className} style={bookStyle}>
       <style>{`
+        /* Hide scrollbar for Chrome, Safari and Opera */
+        .markdown-book::-webkit-scrollbar {
+          display: none;
+        }
+
         .markdown-book h1 {
           font-family: 'Playfair Display', Georgia, serif;
           font-size: 2.5em;
