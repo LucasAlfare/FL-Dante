@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import MarkdownRenderer from './components/MarkdownRenderer';
 import Header from './components/Header';
-import Sidebar from './components/Sidebar';
+import Sidebar from './components/NavigationBar';
 import Footer from './components/Footer';
 import SupportPanel from './components/SupportPanel';
 import ChapterProvider from './services/ChapterProvider';
