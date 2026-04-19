@@ -1,4 +1,6 @@
 
+import { bookFontClasses } from '../utils/fontStyles';
+
 interface SupportPanelProps {
   isOpen: boolean;
   onToggle: () => void;
@@ -32,7 +34,7 @@ const SupportPanel = ({ isOpen, onToggle }: SupportPanelProps) => {
       <aside className={`fixed right-0 top-16 bottom-16 w-80 bg-white border-l border-gray-200 overflow-y-auto z-10 transition-transform duration-300 ${
         isOpen ? 'translate-x-0' : 'translate-x-full'
       }`}>
-      <div className="p-6 font-serif text-sm">
+      <div className={`p-6 ${bookFontClasses.base} ${bookFontClasses.sizes.sm}`}>
         {/* Top divider */}
         <div className="flex items-center justify-center py-4">
           <div className="flex-1 h-px bg-gray-300"></div>

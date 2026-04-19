@@ -101,13 +101,20 @@ function App() {
           currentChapter={getBookAndChapterFromGlobal(globalChapter).chapter}
           onNavigate={handleNavigate}
         />
-        <main className={`flex-1 overflow-hidden transition-all duration-300 ${
-          isSupportPanelOpen ? 'mr-80' : 'mr-0'
-        }`}>
-          <MarkdownRenderer 
-            content={content} 
-            className="prose prose-lg max-w-none h-full overflow-y-auto p-8" 
-          />
+        <main className="flex-1 overflow-hidden">
+          <div 
+            style={{
+              paddingLeft: isSidebarOpen ? '16rem' : '2rem',
+              paddingRight: isSupportPanelOpen ? '20rem' : '2rem',
+              transition: 'padding 0.3s ease-in-out',
+              height: '100%'
+            }}
+          >
+            <MarkdownRenderer 
+              content={content} 
+              className="prose prose-lg max-w-none h-full overflow-y-auto p-8" 
+            />
+          </div>
         </main>
       </div>
       <Footer 
