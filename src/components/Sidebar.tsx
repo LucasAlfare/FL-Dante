@@ -1,0 +1,119 @@
+import { useState } from 'react';
+
+interface SidebarProps {
+  isOpen: boolean;
+  onToggle: () => void;
+  currentBook: string;
+  currentChapter: number;
+  onNavigate: (book: string, chapter: number) => void;
+}
+
+interface Book {
+  id: string;
+  title: string;
+  chapters: number;
+}
+
+const books: Book[] = [
+  { id: 'inferno', title: 'Inferno', chapters: 34 },
+  { id: 'purgatory', title: 'Purgatório', chapters: 33 },
+  { id: 'paradise', title: 'Paraíso', chapters: 33 }
+];
+
+function Sidebar({ isOpen, onToggle, currentBook, currentChapter, onNavigate }: SidebarProps) {
+  const [expandedBooks, setExpandedBooks] = useState<Set<string>>(new Set([currentBook]));
+
+  const toggleBook = (bookId: string) => {
+    const newExpanded = new Set(expandedBooks);
+    if (newExpanded.has(bookId)) {
+      newExpanded.delete(bookId);
+    } else {
+      newExpanded.add(bookId);
+    }
+    setExpandedBooks(newExpanded);
+  };
+
+  const handleChapterClick = (book: string, chapter: number) => {
+    onNavigate(book, chapter);
+  };
+
+  return (
+    <>
+      {/* Toggle Button */}
+      <button
+        onClick={onToggle}
+        className={`fixed left-4 top-20 z-50 p-3 rounded-lg transition-all duration-300 ${
+          isOpen ? 'translate-x-64' : 'translate-x-0'
+        }`}
+        title={isOpen ? 'Fechar sidebar' : 'Abrir sidebar'}
+      >
+        <svg 
+          className="w-6 h-6" 
+          fill="none" 
+          stroke="currentColor" 
+        >
+          {isOpen ? (
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+          ) : (
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h16" />
+          )}
+        </svg>
+      </button>
+
+      {/* Sidebar */}
+      <div className={`fixed left-0 h-[calc(100vh-8rem)] transition-transform duration-300 z-40 ${
+        isOpen ? 'translate-x-0' : '-translate-x-full'
+      }`}>
+        <div className="w-64 h-full overflow-y-auto">
+          <div className="p-4">
+            
+            <div className="space-y-2">
+              {books.map((book) => (
+                <div key={book.id}>
+                  <button
+                    onClick={() => toggleBook(book.id)}
+                    className="w-full px-4 py-3 text-left flex items-center justify-between"
+                  >
+                    <span className="font-medium">{book.title}</span>
+                    <svg 
+                      className={`w-4 h-4 transition-transform duration-200 ${
+                        expandedBooks.has(book.id) ? 'rotate-90' : ''
+                      }`} 
+                      fill="none" 
+                      stroke="currentColor" 
+                      viewBox="0 0 24 24"
+                    >
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                    </svg>
+                  </button>
+                  
+                  {expandedBooks.has(book.id) && (
+                    <div className="border-t">
+                      <div className="max-h-64 overflow-y-auto">
+                        {Array.from({ length: book.chapters }, (_, i) => i + 1).map((chapter) => (
+                          <button
+                            key={chapter}
+                            onClick={() => handleChapterClick(book.id, chapter)}
+                            className={`w-full px-8 py-2 text-left text-sm ${
+                              currentBook === book.id && currentChapter === chapter 
+                                ? 'font-medium' 
+                                : ''
+                            }`}
+                          >
+                            Canto {chapter}
+                          </button>
+                        ))}
+                      </div>
+                    </div>
+                  )}
+                </div>
+              ))}
+            </div>
+          </div>
+        </div>
+      </div>
+    </>
+  );
+}
+
+export default Sidebar;
