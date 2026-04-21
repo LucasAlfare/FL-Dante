@@ -1,61 +1,11 @@
-import { bookFontClasses } from '../utils/fontStyles';
-import TypographicOrnament from './TypographicOrnament';
+import React from 'react';
 
-interface FooterProps {
-  currentBook: string;
-  currentChapter: number;
-  totalChapters: number;
-  onPrevious: () => void;
-  onNext: () => void;
-}
-
-const Footer = ({ currentBook, currentChapter, totalChapters, onPrevious, onNext }: FooterProps) => {
-  const getBookTotalChapters = (book: string): number => {
-    const chapterCounts: { [key: string]: number } = {
-      'inferno': 34,
-      'purgatory': 33,
-      'paradise': 34
-    };
-    return chapterCounts[book] || 34;
-  };
+const Footer: React.FC = () => {
   return (
-    <footer className="border-t border-gray-200 px-6 py-4">
-      <div className="flex items-center justify-between">
-        {/* Previous button */}
-        <button 
-          onClick={onPrevious}
-          className={`flex items-center gap-2 px-4 py-2 ${bookFontClasses.base} ${bookFontClasses.sizes.sm} disabled:opacity-50`}
-          disabled={totalChapters <= 1}
-        >
-          <span className="text-xs">←</span>
-          <span>Canto anterior</span>
-        </button>
-
-        {/* Chapter indicator */}
-        <div className="flex items-center gap-3">
-          <span className="text-xs">‹</span>
-          <div className="flex items-center gap-2">
-            <TypographicOrnament direction="left" className="text-gray-500 w-5 h-2.5" />
-            <span className={`${bookFontClasses.base} ${bookFontClasses.sizes.sm}`}>
-              Canto {currentChapter} de {getBookTotalChapters(currentBook)}
-            </span>
-            <TypographicOrnament direction="right" className="text-gray-500 w-5 h-2.5" />
-          </div>
-          <span className="text-xs">›</span>
-        </div>
-
-        {/* Next button */}
-        <button 
-          onClick={onNext}
-          className={`flex items-center gap-2 px-4 py-2 ${bookFontClasses.base} ${bookFontClasses.sizes.sm} disabled:opacity-50`}
-          disabled={totalChapters >= 100}
-        >
-          <span>Próximo canto</span>
-          <span className="text-xs">→</span>
-        </button>
-      </div>
+    <footer className="w-full h-14 bg-gray-700 flex items-center justify-center">
+      <p className="text-white text-sm">Footer</p>
     </footer>
-  )
-}
+  );
+};
 
-export default Footer
+export default Footer;
