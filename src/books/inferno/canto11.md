@@ -10,6 +10,26 @@ summary = ' '
 weight = 11
 +++
 
+> Dante e Virgílio param na beira do abismo para se acostumar com o fedor. Virgílio explica a estrutura do Inferno: os pecados são divididos em incontinência (círculos superiores), violência (próximos círculos) e fraude (círculos inferiores). Ele detalha as subdivisões e explica por que a usura ofende a ordem natural divina.
+
+---
+
+> **A estrutura moral do Inferno**: Virgílio apresenta a classificação aristotélica dos pecados - incontinência (falta de controle sobre os apetites), violência (uso da força contra outros, si mesmo ou Deus), e fraude (engano que corrompe a confiança).
+
+> **A referência ao Papa Anastácio**: Inscrição em um túmulo que menciona o papa Anastácio II, considerado herege por apoiar o monofisismo, mostrando que até líderes religiosos podem cair na heresia.
+
+> **Violência contra Deus**: Inclui blasfêmia, sodomita e usura - pecados que violam a ordem divina e natural de formas diferentes.
+
+> **A usura como violência**: Explicação filosófica de que a usura ofende a Deus porque segue um caminho artificial, desprezando a natureza e o trabalho humano que devem seguir o fluxo divino da criação.
+
+> **A referência à Ética**: Menção à Ética a Nicômaco de Aristóteles, mostrando como Dante baseia a estrutura do Inferno na filosofia clássica adaptada à teologia cristã.
+
+> **As três disposições que o céu não quer**: Incontinência, malícia (fraude) e bestialidade (violência), formando a base da classificação dos pecados.
+
+> **A arte como neta de Deus**: Conceito filosófico que a arte humana (trabalho, criatividade) segue a natureza, que segue o intelecto divino, estabelecendo uma hierarquia divina-natureza-arte.
+
+> **Referências astronômicas**: Menção aos Peixes e ao Carro (constelações) para marcar o tempo, mostrando o conhecimento astronômico de Dante e a importância do tempo cósmico na jornada.
+
 O cheiro me atingiu antes mesmo que eu pudesse processar o que meus olhos viam. Uma parede de fedor subia do abismo, tão densa e podre que parecia ter consistência, como se pudesse ser cortada com uma faca. Nos encontrávamos no limite extremo de uma alta borda formada por grandes pedras quebradas dispostas em círculo, e abaixo de nós se estendia um amontoado de sofrimento ainda mais cruel do que tudo o que havíamos visto até então. Meus pulmões queimavam. Minha garganta se contraía em espasmos involuntários.
 
 — Precisamos descer devagar — Virgílio disse, recuando alguns passos. — Deixa teu sentido se acostumar um pouco com esse hálito horrível. Depois, não teremos que nos preocupar.

@@ -10,6 +10,22 @@ summary = ' '
 weight = 3
 +++
 
+> Dante e Virgílio chegam ao portão do Inferno, onde leem a famosa inscrição "Deixai toda esperança, vós que entrais". Encontram as almas dos neutros e covardes no Ante-Inferno, perseguidas por vespas, e depois testemunham a travessia do rio Aqueronte com Caronte, o barqueiro dos mortos. Dante desmaia ao final.
+
+---
+
+> **A inscrição do portão**: "Deixai toda esperança, vós que entrais" representa a natureza irreversível da condenação eterna. As três frases iniciais ("Por mim se vai...") refletem a Santíssima Trindade, mostrando que o Inferno faz parte do plano divino.
+
+> **Os neutros (covardes)**: Almas que não tomaram partido nem por Deus nem pelo mal, representando a indecisão moral. São perseguidos por vespas (símbolo da culpa) e bebidas por vermes, simbolizando a autopunição daqueles que se recusaram a escolher.
+
+> **Caronte**: O barqueiro mitológico grego adaptado à teologia cristã. Sua recusa inicial em levar Dante (vivo) enfatiza a ordem natural do universo - os vivos não pertencem ao reino dos mortos.
+
+> **O rio Aqueronte**: Um dos quatro rios do Inferno, representa a fronteira entre o mundo dos vivos e o reino dos mortos. A travessia simboliza a passagem irreversível da vida para a morte espiritual.
+
+> **O desmaio de Dante**: Representa o choque psicológico e espiritual de confrontar a realidade do pecado e da condenação. É um recurso narrativo que permite a transição para o primeiro círculo.
+
+> **Simbolismo das folhas caídas**: A comparação das almas caindo no rio como folhas no outono simboliza a inevitabilidade da morte e o ciclo natural da vida, mas aplicado à condenação espiritual.
+
 A escuridão já me pesava nos ombros quando avistamos a entrada. Não era um portal comum, desses que se abrem para salões ou masmorras — era uma coisa viva, esculpida na própria rocha do abismo, e sobre ela, gravadas em letras que pareciam queimar com uma luz sombria, li as palavras que paralisariam qualquer homem:
 
 “Por mim se vai para a cidade dolente, por mim se vai para a eterna dor, por mim se vai entre a perdida gente.”

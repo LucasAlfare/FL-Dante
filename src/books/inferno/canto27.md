@@ -4,11 +4,31 @@ title = 'Canto XXVII'
 
 type = 'docs'
 
-prev = 'divina_comedia/inferno/canto26'
-next = 'divina_comedia/inferno/canto28'
+prev = 'divina/comedia/inferno/canto26'
+next = 'divina/comedia/inferno/canto28'
 summary = ' '
 weight = 27
 +++
+
+> Uma chama fala com Dante, revelando ser Guido de Montefeltro, que deu conselhos fraudulentos ao Papa Bonifácio VIII. Ele narra como o papa o persuadiu a aconselhar a destruição de Palestrina com falsa promessa de absolvição. No momento da morte, São Francisco foi impedido por um demônio de levá-lo, pois não se pode arrepender e pecar simultaneamente.
+
+---
+
+> **Guido de Montefeltro**: Condottiero romanhola que se tornou franciscano mas foi tentado de volta ao pecado por Bonifácio VIII, representando a fraude espiritual e política.
+
+> **A absolvição falsa**: Bonifácio VIII promete absolver Guido antecipadamente por um pecado que ainda cometerá, mostrando a corrupção do papado e a manipulação religiosa.
+
+> **A lógica do demônio**: "Quem não se arrepende não pode ser absoluto, e não se pode arrepender e querer ao mesmo tempo" - explicação teológica sobre a impossibilidade de arrependimento sincero quando se planeja continuar pecando.
+
+> **A referência a Constantino**: Comparação com Constantino e Silvestre, mostrando como Bonifácio perverteu a relação entre poder secular e religioso.
+
+> **A guerra do Latrão**: Bonifácio lutando contra cristãos, não contra infiéis, mostrando a corrupção da Igreja que combate seus próprios fiéis.
+
+> **As chaves do céu**: Bonifácio afirma ter "as duas chaves" que seu antecessor não prezou, representando o abuso do poder papal.
+
+> **A situação da Romanha**: Dante descreve a situação política caótica da Romanha, mostrando seu conhecimento dos assuntos contemporâneos.
+
+> **A transformação em chama**: Os conselheiros fraudulentos são punidos como chamas porque usaram palavras para enganar, agora são consumidos pelo fogo de suas próprias palavras.
 
 A chama anterior já se erguia vertical, quieta, sem mais palavras, e se afastava de nós com a permissão do meu doce guia quando uma outra, que vinha atrás dela, fez com que meus olhos se voltassem para o seu topo. Um som confuso escapava de lá, um ruído que não parecia humano.
 

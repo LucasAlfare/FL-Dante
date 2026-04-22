@@ -1,6 +1,6 @@
 +++
 date = '2026-04-17T21:45:38-03:00'
-title = 'Canto XIII'
+title = 'Canto XVIII'
 
 type = 'docs'
 
@@ -9,6 +9,28 @@ next = 'divina_comedia/inferno/canto19'
 summary = ' '
 weight = 18
 +++
+
+> Em Malebolge, Dante explora as primeiras duas bolgias dos fraudulentos. Na primeira, os rufiões e sedutores são chicoteados por demônios. Ele encontra Venedico Caccianemico e Jasão. Na segunda bolgia, os aduladores estão imersos em excrementos, incluindo Alessio Interminei e a cortesã Taís.
+
+---
+
+> **Malebolge**: Estrutura em forma de anel com dez valas concêntricas, cada uma para um tipo diferente de fraude. A arquitetura organizada mostra a precisão da justiça divina contra o engano.
+
+> **Primeira bolgia - Rufiões e sedutores**: Pecadores que exploraram a sexualidade alheia para proveito próprio, chicoteados por demônios - simbolizando como usaram a força para dominar outros.
+
+> **Venedico Caccianemico**: Bolonhês que vendeu a própria irmã Ghisolabella ao Marquês de Ferrara, exemplo de quem explorou laços familiares para ganho pessoal.
+
+> **Jasão**: Herói mitológico que enganou várias mulheres (Hipssípila, Isifile, Medéia), representando o sedutor profissional que usa promessas para explorar o amor alheio.
+
+> **Segunda bolgia - Aduladores**: Pecadores que usaram palavras falsas para proveito, imersos em excrementos - simbolizando como suas palavras eram "sujeira" espiritual.
+
+> **Alessio Interminei**: De Lucca, condenado por lisonjas excessivas, mostrando como a adulação é uma forma de fraude que corrompe a verdade.
+
+> **Taís**: Cortesã mitológica famosa por responder "Muito grandes" sobre os favores que fez, representando a prostituição que vende ilusões por dinheiro.
+
+> **A referência ao Jubileu**: Comparação com a multidão em Roma durante o Ano Santo, mostrando como Dante usa experiências contemporâneas para descrever cenas infernais.
+
+> **A simbologia do excremento**: Os aduladores afogados em imundície representam como suas palavras falsas poluíram as relações humanas e a verdade.
 
 Quando Gerião nos deixou naquela margem de pedra, ainda sentia no corpo a tensão da descida, como se meu peito tivesse sido sacudido por dentro e deixado em outro lugar, mais pesado e mais cansado. À nossa frente se abria Malebolge, um nome que parecia já carregar o gosto da ruína: um lugar de pedra cinzenta, áspera, ferrenha, cercado por uma muralha natural que o fechava como se o próprio Inferno tivesse sido talhado em defesa de algo ainda pior. No centro daquele campo maligno, um poço enorme se abria no vazio, largo e profundo, escuro como uma boca sem fundo. Eu o olhei e senti que ali havia uma ordem terrível, uma engenharia do castigo que não deixava espaço para engano. Tudo era dividido, medido, separado. A danação ali não era um caos bruto; era um sistema.
 

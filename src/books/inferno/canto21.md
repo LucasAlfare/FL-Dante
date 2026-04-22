@@ -10,6 +10,26 @@ summary = ' '
 weight = 21
 +++
 
+> Na quinta bolgia, Dante encontra os corruptos (barratários) imersos em pez fervente, guardados por demônios chamados Malebranche. Um demônio traz um pecador de Lucca, que é torturado pelos outros. Virgílio negocia com Malacoda, o líder dos demônios, que concorda em guiá-los até a próxima ponte, revelando que uma ponte está quebrada desde a época de Cristo.
+
+---
+
+> **A quinta bolgia - Barratários**: Pecadores que cometeram fraude política e financeira, imersos em pez fervente simbolizando como seus atos corruptos "grudaram" na sociedade.
+
+> **Os Malebranche**: "Maus garras" - demônios com nomes como Barbariccia, Scarmiglione, Alichino, etc., representando a violência e brutalidade que acompanha a corrupção.
+
+> **A referência a Santa Zita**: Padroeira de Lucca, mencionada ironicamente como "anciãos de Santa Zita", mostrando a corrupção até em cidades devotas.
+
+> **A crítica a Lucca**: "Lá todos são corruptos, exceto Bonturo" - ironia sobre a reputação de corrupção de Lucca, com Bonturo sendo talvez o mais corrupto de todos.
+
+> **A ponte quebrada**: Malacoda revela que a ponte está quebrada desde 1266 anos (data da crucificação de Cristo), mostrando como eventos divinos afetaram a estrutura do Inferno.
+
+> **A negociação de Virgílio**: Usa sua autoridade divina para negociar com os demônios, mostrando como a razão e a fé podem dominar o mal.
+
+> **O sinal do traseiro**: Os demônios fazem uma trombeta com o traseiro, mostrando sua natureza grotesca e desrespeitosa.
+
+> **O medo de Dante**: Sua reação de terror aos demônios mostra a realidade perigosa do Inferno, contrastando com a proteção de Virgílio.
+
 Seguíamos de ponte em ponte, conversando sobre coisas que minha Comédia não se importa em registrar, quando finalmente alcançamos o ponto mais alto da ponte. Foi então que paramos para observar a próxima fenda de Malebolge e todos os seus prantos inúteis. Lá embaixo, uma escuridão impressionante tomava conta de tudo.
 
 De repente, lembrei do Arsenal de Veneza no inverno: a pega espessa fervendo enquanto os operários calafetam os navios danificados que não podem navegar. Um constrói um barco novo, outro remenda as costelas da embarcação que fez muitas viagens. Quem martela na proa, quem na popa; uns fazem remos, outros torcem cabos; aqui se conserta a vela de mezena, ali o velacho. Exatamente assim, não por fogo, mas por arte divina, fervia lá embaixo uma pega espessa que revestia as duas margens. Eu via aquela massa escura, mas não distinguia nada além das bolhas que a fervura levantava — bolhas que inchavam e depois afundavam de volta.

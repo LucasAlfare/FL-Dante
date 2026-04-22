@@ -10,6 +10,26 @@ summary = ' '
 weight = 29
 +++
 
+> Na décima bolgia, Dante encontra os falsificadores sofrendo de doenças horríveis. Ele vê Geri del Bello, parente morto não vingado. Encontra dois alquimistas: um aretino que foi queimado por falsificar metais, e Capocchio, falsificador de moedas. Eles sofrem de doenças de pele que os fazem se coçar incessantemente.
+
+---
+
+> **A décima bolgia - Falsificadores**: Pecadores que falsificaram coisas materiais (metais, moedas, pessoas), punidos com doenças físicas que corrompem seus corpos como eles corromperam a matéria.
+
+> **Geri del Bello**: Parente de Dante morto violentamente sem vingança, representando a importância da vingança familiar na sociedade medieval e a lei do talião.
+
+> **Os alquimistas**: O aretino queimado por falsificar metais e Capocchio que falsificou moedas, mostrando diferentes tipos de falsificação material.
+
+> **A doença da pele**: As crostas e coceiras representam como a falsificação é uma "doença" que corrói a verdade e a sociedade.
+
+> **A crítica aos sieneses**: Dante critica a vaidade dos sieneses, mencionando vários personagens conhecidos por seu luxo e desperdício.
+
+> **A referência a Dédalo**: O alquimista compara-se a Dédalo, mostrando como a ambição de voar (transmutar metais) pode levar à destruição.
+
+> **O fedor intenso**: O cheiro das doenças representa como a falsificação polui moralmente a sociedade.
+
+> **A identificação com a natureza**: Capocchio se diz "bom macaco da natureza", ironicamente mostrando como imitou a natureza através da falsificação.
+
 A multidão de corpos e a paisagem de chagas abertas tinham embriagado meus olhos a tal ponto que eu ansiava por parar e chorar. Cada passo sobre a ponte de rocha revelava novas camadas de sofrimento, e eu me via fixando o abismo, incapaz de desviar o olhar daquela miséria sem fim.
 
 — Por que continua olhando? — a voz de Virgílio cortou meu transe como uma lâmina. — Por que sua visão insiste em se demorar lá embaixo, entre aquelas sombras tristes e mutiladas?

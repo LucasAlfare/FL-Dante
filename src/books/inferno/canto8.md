@@ -10,6 +10,26 @@ summary = ' '
 weight = 8
 +++
 
+> Dante e Virgílio cruzam o rio Estige com o barqueiro Flegiás. Encontram Filippo Argenti, um florentino orgulhoso que é atacado pelas outras almas. Chegam às portas da cidade de Dite (Dis), onde demônios se recusam a deixar Dante entrar. Virgílio vai sozinho negociar, mas é rejeitado, deixando Dante em desespero até o retorno do guia.
+
+---
+
+> **Flegiás**: Barqueiro do Estige, figura mitológica que representa a ira contra os deuses. Sua relutância em transportar Dante mostra a resistência do Inferno contra a presença de um vivo.
+
+> **Filippo Argenti**: Florentino histórico da família Adimini, inimigo político de Dante. Seu nome significa "argentino" (prateado), ironicamente contrastando com sua condição na lama. Representa o orgulho que leva à destruição.
+
+> **A cidade de Dite (Dis)**: Capital do Inferno, murada e guardada, representa o pecado mais grave. O nome vem de Dis Pater, deus romano do mundo subterrâneo, adaptado como nome do Inferno.
+
+> **Mesquitas vermelhas**: As estruturas em chamas representam a hipocrisia religiosa - mesquitas (não igrejas) mostram a falsidade, e o vermelho simboliza o fogo interior da culpa.
+
+> **A rejeição dos demônios**: "Quem é esse que, sem morte, anda pelo reino da gente morta?" - mostra a ordem natural que foi violada por Dante, criando um momento de crise e desespero.
+
+> **O abandono de Virgílio**: Momento crucial onde Dante fica sozinho, simbolizando a crise de fé e a necessidade de confiar na providência divina mesmo quando a razão (Virgílio) parece falhar.
+
+> **Crítica política**: A menção a Filippo Argenti continua a crítica de Dante aos seus inimigos políticos florentinos, mostrando como o Inferno é também um espaço de vingança poética.
+
+> **As portas sem tranca**: Virgílio menciona que os demônios já usaram essa arrogância antes, referindo-se à porta do Inferno que não tinha tranca, mostrando a presciência divina.
+
 Eu continuo, e devo dizer que muito antes de chegarmos ao pé da alta torre, nossos olhos já subiam ao topo. Lá vimos duas pequenas chamas serem colocadas, e uma terceira, mais distante, respondia ao sinal — tão longe que mal conseguíamos distinguir. Virei-me para o meu guia, aquele mar de toda sabedoria, e perguntei: — O que isso significa? O que aquela outra fogo responde? E quem são os que fizeram o sinal?
 
 Virgílio apontou para a frente. — Sobre as ondas sujas já podes ver o que espera, a menos que a fumaça do pântano o esconda.

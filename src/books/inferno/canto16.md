@@ -10,6 +10,26 @@ summary = ' '
 weight = 16
 +++
 
+> Três florentinos nobres - Guido Guerra, Tegghiaio Aldobrandi e Iacopo Rusticucci - abordam Dante na areia ardente. Eles perguntam sobre a situação de Florença e Dante critica a corrupção dos "novos ricos". Os três pedem que Dante fale sobre eles quando retornar ao mundo dos vivos. Virgílio então joga uma corda no abismo, e uma figura misteriosa começa a subir.
+
+---
+
+> **Os três florentinos nobres**: Figuras históricas respeitadas - Guido Guerra (neto de Gualdrada), Tegghiaio Aldobrandi (conselheiro sábio), e Iacopo Rusticucci - mostrando como pessoas de todas as classes sociais podem cair no mesmo pecado.
+
+> **A dança circular**: Os três giram enquanto falam, simbolizando a natureza perpétua e inescapável de seu castigo, e como estão presos em um ciclo de sofrimento.
+
+> **A crítica aos "novos ricos"**: Dante denuncia como a riqueza rápida gerou "soberba e descontrole" em Florença, continuando sua crítica à corrupção moral e econômica de sua cidade.
+
+> **O pedido de memória**: Os três pedem que Dante preserve suas memórias, mostrando a importância da reputação póstuma e o medo do esquecimento, mesmo na condenação.
+
+> **A corda amarrada à cintura**: Originalmente pensada para capturar a pantera, agora usada como sinal para o abismo, simbolizando como elementos da jornada inicial ganham novos significados.
+
+> **A figura que sobe**: Algo misterioso que responde ao sinal da corda, criando suspense e marcando a transição para a próxima seção do Inferno.
+
+> **A referência a Guglielmo Borsiere**: Recentemente chegado ao Inferno, trazendo notícias da corrupção de Florença, mostrando como o Inferno recebe continuamente novas almas.
+
+> **O barulho da água**: O som ensurdecedor do rio Flegetonte criando uma atmosfera de caos e transição, preparando para a chegada da próxima figura monstruosa.
+
 O som era um rugido constante, um trovão que parecia brotar das entranhas da própria terra. Já estávamos em um ponto onde o estrondo da água, despencando para o próximo nível do abismo, ecoava com uma vibração densa, semelhante ao zumbido frenético de um enxame de colmeias. Foi nesse cenário de ruído ensurdecedor que três vultos se destacaram da multidão que corria sob a chuva implacável de fogo. Eles vinham em nossa direção com uma urgência desesperada, rompendo a névoa de calor.
 
 — Pare! — gritou um deles, a voz competindo com o barulho da queda d'água. — Pelas suas vestes, você parece ser alguém da nossa terra depravada.

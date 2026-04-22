@@ -10,6 +10,26 @@ summary = ' '
 weight = 17
 +++
 
+> Virgílio apresenta Gerião, a personificação da fraude com rosto humano e corpo de serpente. Dante encontra os usurários sentados na areia, cada um com uma bolsa marcada com brasão familiar. Gerião os transporta em uma descida aterrorizante até Malebolge, o oitavo círculo dos fraudulentos.
+
+---
+
+> **Gerião**: Monstro híbrido que representa a fraude - rosto de homem justo (aparência enganadora) e corpo de serpente (natureza venenosa). Sua cauda com ferrão simboliza o dano final da fraude.
+
+> **Os usurários**: Violentos contra Deus através da usura, sentados na areia com bolsas coloridas. Os brasões (leão azul, oca branca, porca azul) representam famílias florentinas conhecidas pela atividade usurária.
+
+> **A crítica à usura**: Os usurários fixam os olhos nas bolsas com "fome melancólica", simbolizando como a avareza pelo dinheiro os consome mesmo após a morte.
+
+> **A descida em Gerião**: Viagem simbólica do mundo da violência (sétimo círculo) para o mundo da fraude (oitavo círculo), representando a degradação moral progressiva.
+
+> **A referência a Vitaliano**: Profecia sobre a chegada de outro usurário, mostrando como o Inferno continua recebendo almas e como a corrupção é contínua.
+
+> **O medo de Dante**: Comparado com os mitos de Faetonte e Ícaro, mostrando como esta descida é um dos momentos mais aterrorizantes da jornada.
+
+> **Malebolge**: "Males bolsos" - oitavo círculo dividido em dez valas, cada uma para um tipo diferente de fraude, mostrando a complexidade do engano humano.
+
+> **A engenharia do castigo**: A estrutura organizada de Malebolge mostra como a justiça divina é sistemática e precisa, não caótica.
+
 — Olhe para a fera com a cauda aguçada — começou meu guia, apontando para o abismo à nossa frente. — Ela ultrapassa montanhas, rompe muros e destrói exércitos. É ela quem infecta o mundo inteiro com seu hálito pútrido.
 
 Virgílio fez um sinal para que a criatura se aproximasse da borda de mármore onde terminava nosso caminho seguro. A personificação da fraude não hesitou. Ela deslizou até nós, repousando a cabeça e o tronco na margem, mas mantendo a cauda oculta no vazio. O rosto era o de um homem justo, com uma expressão serena e uma pele que inspirava confiança, mas o restante do corpo era puramente serpentino. Suas patas eram peludas até as axilas, e o dorso, o peito e as laterais eram cobertos por padrões complexos de nós e círculos, cores sobrepostas com uma sofisticação que nenhum tecelão turco ou tártaro jamais conseguiria replicar, nem mesmo Aracne em seu tear mais ambicioso.

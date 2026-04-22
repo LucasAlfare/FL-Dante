@@ -4,11 +4,31 @@ title = 'Canto XXXII'
 
 type = 'docs'
 
-prev = 'divina_comedia/inferno/canto31'
-next = 'divina_comedia/inferno/canto33'
+prev = 'divina/comedia/inferno/canto31'
+next = 'divina/comedia/inferno/canto33'
 summary = ' '
 weight = 32
 +++
+
+> No nono círculo, Cocito, um lago de gelo onde são punidos os traidores. Na zona Caina (traidores de parentes), Dante encontra Camicion de' Pazzi e outros. Na zona Antenora (traidores da pátria), ele pisa em Bocca degli Abati, que o insulta. Dante descobre outros traidores como Ugolino, que devora o crânio de Ruggieri.
+
+---
+
+> **Cocito**: Lago gelado no centro do Inferno, simbolizando o congelamento do amor e da lealdade, onde os traidores sofrem o oposto do fogo da paixão.
+
+> **Caina (primeira zona)**: Traidores de parentes, nomeados por Caim, punidos com os rostos virados para baixo, incapazes de chorar pois as lágrimas congelam.
+
+> **Antenora (segunda zona)**: Traidores da pátria, nomeados por Antenor, que traiu Troia, incluindo figuras como Bocca degli Abati.
+
+> **Bocca degli Abati**: Florentino que traiu sua cidade na batalha de Montaperti, representando a traição política.
+
+> **Ugolino della Gherardesca**: Conde que traiu sua cidade, agora devora o crânio do Arcebispo Ruggieri, que o traiou e deixou seus filhos morrerem de fome.
+
+> **A vingança de Ugolino**: Ele devora o crânio de seu inimigo, simbolizando como a traição gera um ciclo de violência e vingança.
+
+> **A referência a Montaperti**: Batalha de 1260 onde os gibelinos derrotaram os guelfos, evento traumático para Florença.
+
+> **O contrapasso**: Os traidores estão congelados porque congelaram os laços de amor e lealdade que deveriam ter mantido.
 
 Se eu tivesse versos ásperos e secos como o lugar em que me vi, eu poderia arrancar de mim mais fundo o que aquela visão me esmagava a dizer. Mas eu não tinha essa língua de ferro, e mesmo assim avancei, com receio e obstinação, porque não era uma empresa qualquer descrever o fundo do universo; não era coisa para palavras fáceis, nem para uma voz que chamasse pai ou mãe com doçura. Ainda assim, segui, pedindo em silêncio que aquelas forças antigas que haviam ajudado Anfião a erguer Tebas sustentassem também meu canto, para que o que eu via não traísse o que eu narrava.
 

@@ -1,14 +1,34 @@
 +++
 date = '2026-04-17T21:45:38-03:00'
-title = 'Canto XXIII'
+title = 'Canto XXVIII'
 
 type = 'docs'
 
-prev = 'divina_comedia/inferno/canto27'
-next = 'divina_comedia/inferno/canto29'
+prev = 'divina/comedia/inferno/canto27'
+next = 'divina/comedia/inferno/canto29'
 summary = ' '
 weight = 28
 +++
+
+> Na nona bolgia, Dante encontra os semeadores de discórdia horrivelmente mutilados. Maomé aparece com o corpo rasgado, Ali com o rosto fendido. Maomé adverte Frei Dolcino. Pier da Medicina profetiza a morte de Guido e Angiolello. Mosca, que disse "Coisa feita tem cabeça", aparece sem mãos. Bertram de Born carrega sua própria cabeça decepada.
+
+---
+
+> **A nona bolgia - Semeadores de discórdia**: Pecadores que dividiram pessoas e comunidades, punidos com a divisão física de seus corpos - lei do talião divina aplicada à sua forma.
+
+> **Maomé**: Profeta do Islã com o corpo rasgado do queixo ao ânus, representando como sua religião dividiu o cristianismo. Sua profecia sobre Frei Dolcino conecta o Inferno a eventos contemporâneos.
+
+> **Ali**: Companheiro de Maomé com o rosto fendido, simbolizando a divisão interna do Islã entre sunitas e xiitas.
+
+> **Pier da Medicina**: Médico que profetiza a traição e morte de dois cidadãos de Fano, mostrando como o conhecimento médico é usado para prever desgraças.
+
+> **Curio**: Político que aconselhou Júlio César a atravessar o Rubicão, com a língua cortada, simbolizando como suas palavras causaram a guerra civil.
+
+> **Mosca**: Florentino que disse "Coisa feita tem cabeça", frase que justificou o assassinato de Buondelmonte, iniciando as guerras civis de Florença.
+
+> **Bertram de Born**: Poeta que aconselhou o jovem Henrique II a se rebelar contra seu pai, carregando sua própria cabeça separada, simbolizando como separou pai e filho.
+
+> **O contrapasso**: Cada punição corresponde diretamente ao pecado - os que dividiram pessoas são fisicamente divididos.
 
 Nenhuma palavra solta seria suficiente para descrever o sangue e as feridas que vi na nona bolgia, mesmo que eu tentasse narrar tudo repetidas vezes. Qualquer língua, por mais eloquente que fosse, fracassaria diante daquele espetáculo, porque a mente humana tem limites estreitos demais para compreender tamanho horror.
 

@@ -10,6 +10,26 @@ summary = ' '
 weight = 22
 +++
 
+> Os Malebranche guiam Dante e Virgílio pela quinta bolgia. Um pecador navarrês é capturado e revela nomes de outros corruptos, incluindo Frei Gomita. O navarrês engana os demônios e escapa para o pez, enquanto dois demônios (Alichino e Calcabrina) brigam e caem no pez fervente.
+
+---
+
+> **O navarrês**: Pecador que serviu ao Rei Teobaldo e praticou barataria, representa os corruptos políticos que traíram seus senhores por dinheiro.
+
+> **Frei Gomita**: Monge de Gallura mencionado como corrupto que liberou prisioneiros em troca de dinheiro, mostrando a corrupção eclesiástica.
+
+> **Dom Miguel Zanche**: Governador de Logodoro citado como exemplo de corrupção política na Sardenha.
+
+> **A astúcia do navarrês**: Ele engana os demônios prometendo chamar outros toscanos, mas usa isso como distração para escapar, mostrando como os fraudulentos mantêm sua natureza enganadora mesmo no Inferno.
+
+> **A briga dos demônios**: Alichino e Calcabrina caem no pez, simbolizando como a violência e desconfiança entre os demônios os leva à destruição mútua.
+
+> **A comparação com o pato e falcão**: O navarrês mergulha no pez como um pato escapando do falcão, mostrando como a astúcia pode superar a força bruta.
+
+> **As asas engorduradas**: Os demônios não conseguem voar depois de cair no pez porque suas asas ficam cobertas de pez, simbolizando como o mal é contaminado por sua própria corrupção.
+
+> **A ironia dos demônios**: Eles que deveriam punir os fraudulentos são enganados por um deles, mostrando a natureza cômica e trágica do mal.
+
 Já havia visto cavaleiros moverem seu acampamento, começarem uma escaramuça e fazerem suas exibições, e às vezes partirem para salvar suas peles. Vi corredores na vossa terra, aretinos, e vi incursões, torneios e justas — tudo ao som de trombetas, sinos, tambores e sinais dos castelos, com instrumentos nossos e estrangeiros. Mas nunca vi cavaleiros ou soldados de infantaria se moverem com um chamado tão estranho quanto o que ouvi agora, nem navios guiados por estrela ou terra.
 
 Seguíamos com os dez demônios. *Que companhia feroz!* Mas, pensei, na igreja se está com os santos, na taverna com os glutões.

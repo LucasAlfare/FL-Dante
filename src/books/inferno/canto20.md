@@ -10,6 +10,26 @@ summary = ' '
 weight = 20
 +++
 
+> Na quarta bolgia, Dante encontra os adivinhos e magos com as cabeças viradas para trás, forçados a caminhar para trás. Entre eles estão Tiresias, Aronta, Manto e outros. Virgílio conta a verdadeira origem de Mântua e critica outras versões. Dante chora de piedade, mas é repreendido por Virgílio.
+
+---
+
+> **Os adivinhos**: Pecadores que tentaram ver o futuro, agora forçados a olhar apenas para trás - simbolizando como tentaram violar o tempo divino e agora são privados de ver o futuro.
+
+> **Tiresias**: Adivinho tebano que se transformou em mulher ao tocar serpentes, representando a curiosidade proibida e a manipulação da natureza.
+
+> **Manto**: Filha de Tiresias que fundou Mântua, Virgílio usa sua história para estabelecer a verdadeira origem de sua cidade natal, corrigindo versões falsas.
+
+> **A cabeça virada para trás**: Os adivinhos andam de costas porque quiseram ver demais à frente, agora só podem ver para trás - lei do talião divina.
+
+> **A repreensão de Virgílio**: "Aqui a piedade só vive quando está bem morta" - mostra que no Inferno a compaixão pode ser inadequada diante da justiça divina.
+
+> **A referência a Anfiarao**: Guerreiro que caiu na terra durante a guerra de Tebas, citado como exemplo de punição divina contra a presunção.
+
+> **Outros adivinhos**: Eurípilo (augur grego), Miguel Escoto (astrólogo), Guido Bonatti e Asdente (adivinhos italianos), mostrando a variedade de práticas adivinhatórias.
+
+> **A referência astronômica**: Menção à lua cheia e sua posição, mostrando o conhecimento cosmológico de Dante e marcando o tempo da jornada.
+
 Senti meus músculos doerem enquanto me preparava para compor novos versos, dando matéria ao vigésimo canto desta primeira cantiga dedicada aos que se afundaram na lama eterna. Estava completamente voltado a observar o fundo descoberto daquela fossa circular, que se banhava em lágrimas amargas — e então vi gente vindo pelo vale redondo, caminhando em silêncio e chorando, no mesmo passo compassado que as procissões litúrgicas fazem neste mundo.
 
 Quando baixei o olhar para enxergá-los melhor, algo monstruoso se revelou: cada um daqueles espectros tinha a cabeça completamente virada para trás, de modo que o rosto se torcia entre o queixo e o começo do peito. Caminhavam para trás porque a visão diante deles lhes fora roubada. Talvez por efeito de uma paralisia alguém se tenha retorcido assim por completo, mas eu nunca vi tal coisa, nem acredito que seja possível.

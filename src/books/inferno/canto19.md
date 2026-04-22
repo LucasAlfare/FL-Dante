@@ -10,6 +10,26 @@ summary = ' '
 weight = 19
 +++
 
+> Na terceira bolgia, Dante encontra os simoníacos (clérigos que venderam cargos eclesiásticos) presos de cabeça para baixo em buracos com os pés em chamas. Um papa confunde Dante com Bonifácio VIII e profetiza a vinda de Clemente V. Dante critica duramente a corrupção da Igreja e a Doação de Constantino.
+
+---
+
+> **Os simoníacos**: Clérigos que venderam coisas sagradas por dinheiro, presos de cabeça para baixo simbolizando a inversão de sua função espiritual - deveriam apontar para o céu, agora olham para o inferno.
+
+> **A referência a São João Batista**: Comparação dos buracos com os batistérios de Florença, mostrando como Dante usa experiências pessoais para descrever o Inferno.
+
+> **O papa não identificado**: Provavelmente Nicolau III, que confunde Dante com Bonifácio VIII, mostrando como os papas corruptos se esperam mutuamente no Inferno.
+
+> **Profecia sobre Clemente V**: Predição da chegada do papa francês que transferiria o papado para Avignon, mostrando o conhecimento político de Dante e sua crítica à interferência francesa na Igreja.
+
+> **A crítica à Igreja**: Dante faz um discurso poderoso contra a corrupção eclesiástica, citando a Bíblia e criticando como os papas transformaram ouro e prata em deuses.
+
+> **A Doação de Constantino**: Referência crítica ao documento que supostamente deu poder temporal ao papado, considerado por Dante como origem da corrupção da Igreja.
+
+> **A inversão do batismo**: Os buracos lembram batistérios, mas os pecadores estão invertidos, simbolizando como eles perverteram o sacramento do batismo.
+
+> **A queima dos pés**: Os pés em chamas representam como usaram os "pés" (meios, recursos) da Igreja para fins corruptos, agora punidos pelo fogo divino.
+
 —Simão Mago e seus miseráveis seguidores, que transformaram as coisas sagradas de Deus — que deveriam ser esposas da virtude — em objeto de rapina, prostituindo-se por ouro e prata: agora é justo que a trombeta soe contra vocês, porque estão na terceira bolgia.
 
 A voz de Virgílio ecoou com uma solenidade que fez a própria rocha vibrar. Eu me mantive em silêncio, processando a acusação. Simão Mago. O feiticeiro que tentou comprar o poder do Espírito Santo. Ali, diante de nós, se estendia o fosso reservado para os que mercadejaram com o sagrado.

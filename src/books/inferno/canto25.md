@@ -4,11 +4,31 @@ title = 'Canto XXV'
 
 type = 'docs'
 
-prev = 'divina_comedia/inferno/canto24'
-next = 'divina_comedia/inferno/canto26'
+prev = 'divina/comedia/inferno/canto24'
+next = 'divina/comedia/inferno/canto26'
 summary = ' '
 weight = 25
 +++
+
+> Vanni Fucci é punido por sua blasfêmia com serpentes que o amarram. Aparece Caco, um ladrão mítico coberto de serpentes. Três ladrões florentinos chegam, incluindo Cianfa. Uma serpente de seis patas ataca Agnello, e os dois se fundem em uma criatura híbrida. Outra serpente ataca Buoso, e eles se transformam um no outro.
+
+---
+
+> **A transformação contínua**: Os ladrões sofrem metamorfoses contínuas com serpentes, simbolizando como o roubo é uma violação da identidade e propriedade que resulta na perda da própria forma humana.
+
+> **Caco**: Gigante mítico que roubou o gado de Hércules, coberto de serpentes e com um dragão nas costas, representando o roubo em sua forma mais monstruosa.
+
+> **A fusão Agnelo-serpente**: A metamorfose mostra como o ladrão se torna indistinguível do veneno que representa, perdendo completamente sua identidade humana.
+
+> **A transformação reversa**: Buoso se transforma em serpente enquanto a serpente se transforma em Buoso, simbolizando a troca de identidades entre o ladrão e o roubo.
+
+> **Puccio Sciancato**: O único que permanece intocado, representando como alguns pecadores estão temporariamente poupados do castigo máximo.
+
+> **A referência a Gaville**: "O que a cidade de Gaville ainda chora" - provavelmente referência a outro ladrão que causou sofrimento à cidade.
+
+> **A simbologia da metamorfose**: As transformações representam a perda da forma humana como consequência de violar a ordem natural da propriedade.
+
+> **A referência a Ovídio**: Dante menciona que nem mesmo Ovídio descreveu transformações tão extremas, mostrando como o Inferno supera a imaginação poética clássica.
 
 Quando o ladrão terminou aquela última afronta, ergueu as duas mãos e me mostrou o gesto obsceno, como se quisesse lançar o próprio desprezo na cara de Deus. A blasfêmia atravessou o ar escuro do abismo como uma faísca suja, e no instante seguinte eu senti que algo mudava ao meu redor: as serpentes, que até então pareciam ameaças espalhadas pelo chão, tornaram-se quase cúmplices da punição, porque uma delas se enroscou em seu pescoço com violência, como se o mandasse calar para sempre, enquanto outra prendeu-lhe os braços e o amarrou com tanta força que ele não conseguiu sequer se mexer. A fúria dele pareceu se apagar de repente, engolida por aquelas voltas frias e vivas, e eu, ainda tenso, acompanhei a cena com a sensação de estar vendo a própria soberba sendo fechada em nós apertados de carne e veneno.
 
