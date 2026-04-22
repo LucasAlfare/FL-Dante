@@ -10,6 +10,20 @@ summary = ' '
 weight = 28
 +++
 
+> No topo do Purgatório, Dante explora o Paraíso Terrestre, uma floresta divina com árvores que produzem frutos sem semente e um rio que divide em dois: Letes (esquecimento do pecado) e Eunoe (memória do bem). Ele encontra Matelda, que explica a cosmologia do lugar e como o movimento celestial cria a melodia da floresta. O canto explora a natureza do Paraíso Terrestre como estado de inocência original.
+
+---
+
+> *O Paraíso Terrestre*: Local no topo do Purgatório, representa o estado de inocência original antes da Queda, com características miraculosas.
+> 
+> *Matelda*: Figura misteriosa que representa a sabedoria divina e a graça, possivelmente simbolizando a Igreja ou a Teologia.
+> 
+> *Letes e Eunoe*: Os dois rios simbolizam o esquecimento do pecado (purificação) e a memória do bem (preparação para o Paraíso).
+> 
+> *A cosmologia explicada*: Matelda descreve como o movimento celestial cria as condições perfeitas do Paraíso Terrestre.
+> 
+> *A idade de ouro*: Referência aos poetas clássicos que sonharam com este lugar, conectando a tradição pagã à visão cristã.
+
 Eu já vagava há algum tempo, explorando cada canto daquela floresta divina, densa e vibrante, que amenizava a luz do novo dia aos meus olhos. Sem esperar mais, deixei a margem do rio e avancei pelo campo aberto, passo a passo, lento, sobre o solo que exalava perfume por todos os lados.
 
 Uma brisa suave, imutável, batia na minha testa com a força de um vento manso, sem violência. As folhas, tremulando, inclinavam-se todas para o lado onde a primeira sombra do monte sagrado se projetava — mas não o bastante para que os passarinhos, lá no alto, deixassem de exercer sua arte. Ao contrário, com plena alegria, saudavam as primeiras horas do dia cantando entre as folhas, que faziam coro às suas rimas, como acontece nos pinheirais da costa de Classe, quando Eolo solta o Sirocco.

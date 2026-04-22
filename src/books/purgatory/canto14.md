@@ -10,6 +10,20 @@ summary = ' '
 weight = 14
 +++
 
+> Dante conversa com os invejosos Guido del Duca e Rinieri da Calboli, que lamentam a decadência moral de suas regiões. Guido faz uma profecia sobre a corrupção do vale do Arno, descrevendo seus habitantes como porcos, cães e lobos. Vozes exemplares de generosidade são ouvidas, e Virgílio explica como o amor mal direcionado leva à inveja e outros pecados.
+
+---
+
+> *Guido del Duca e Rinieri da Calboli*: Nobres romanhols que representam a inveja aristocrática e a decadência das famílias nobres de suas regiões.
+> 
+> *A alegoria do Arno*: O rio e seus habitantes simbolizam a progressiva corrupção moral - porcos (gula), cães (raiva), lobos (avareza), raposas (fraude).
+> 
+> *A profecia política*: Referência à corrupção de Florença e à tirania de Ugolino della Gherardesca, mostrando a visão profética de Dante sobre a política italiana.
+> 
+> *As vozes exemplares*: "Matar-me-á qualquer que me prenda" (generosidade) e "Eu sou Aglauro, que me tornei pedra" (punição da inveja) servem como freio moral.
+> 
+> *A decadência nobiliárquica*: A longa lista de famílias nobres em decadência reflete a preocupação de Dante com a corrupção da aristocracia italiana.
+
 A exaustão começava a pesar sobre meus ombros, mas continuei subindo atrás de Virgílio, atento às sombras que nos rodeavam. Foi então que ouvi vozes à direita, sussurrando com uma curiosidade que não tentavam esconder.
 
 — Quem é esse que circunda nossa montanha antes que a morte lhe tenha dado asas, abrindo e fechando os olhos à própria vontade? — perguntou um espírito, inclinando-se em direção ao companheiro.

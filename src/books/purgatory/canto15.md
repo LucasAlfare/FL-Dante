@@ -10,6 +10,20 @@ summary = ' '
 weight = 15
 +++
 
+> Um anjo guia Dante e Virgílio ao terceiro terraço, apagando a segunda letra 'P' da testa de Dante. Virgílio explica a natureza do amor e da caridade divina, mostrando como o bem compartilhado aumenta em valor. Dante tem visões exemplares de mansidão: Maria encontrando Jesus no templo, a esposa de Pisístrato, e Santo Estêvão perdoando seus perseguidores. O canto explora a teologia do amor e a purificação da ira.
+
+---
+
+> *A física da luz divina*: O clarão que atinge Dante representa a luz da graça divina, que inicialmente cega mas depois se torna prazerosa à medida que a alma se purifica.
+> 
+> *A teologia da caridade*: Virgílio explica como o bem divino se multiplica quando compartilhado, diferentemente dos bens terrenos que se dividem.
+> 
+> *As visões exemplares*: Maria (mansidão maternal), a esposa de Pisístrato (perdão), e Estêvão (perdão dos mártires) mostram o oposto da ira.
+> 
+> *A lei do amor*: A explicação de Virgílio sobre como o amor bem direcionado leva à caridade, enquanto o amor mal direcionado leva aos pecados capitais.
+> 
+> *A fumaça do próximo terraço*: Simboliza a cegueira causada pela ira, que impede a visão clara da verdade.
+
 A tarde avançava. Entre o fim da terceira hora e o início do novo dia, quando o céu ainda brinca como uma criança inquieta, o sol já tinha percorrido tanto do seu arco que, lá no Purgatório, começava a fazer-se tarde — enquanto na Itália era meia-noite.
 
 Subíamos a montanha com o sol agora à nossa frente. Os raios batiam direto no meu rosto, atravessando meu nariz, porque havíamos girado para o oeste. Foi então que um clarão muito mais forte que os anteriores me atingiu a fronte. As coisas que antes não compreendia agora me causavam espanto. Levantei as mãos para proteger os olhos, fazendo viseira com os dedos, tentando limar o excesso de luz.

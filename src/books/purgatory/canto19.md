@@ -10,6 +10,20 @@ summary = ' '
 weight = 19
 +++
 
+> Dante sonha com a sereia que representa o amor mal direcionado aos bens terrenos. Uma figura santa (possivelmente a teologia ou a sabedoria divina) desmascara a sereia. Um anjo os guia ao quinto terraço, onde encontram os avarentos deitados no chão, chorando. Entre eles está o Papa Adriano V, que arrependeu-se tarde da avareza e explica a natureza corruptora do apego aos bens materiais.
+
+---
+
+> *A sereia*: Representa a tentação dos bens materiais e o amor desordenado que desvia do bem supremo, simbolizando como o pecado se disfarça de beleza.
+> 
+> *Papa Adriano V*: Governou por apenas um mês, representa como mesmo o poder eclesiástico pode ser corrompido pela avareza e como o arrependimento tardio ainda pode salvar.
+> 
+> *Os avarentos no chão*: Deitados com rosto para a terra, simbolizando como estavam sempre voltados para as coisas terrenos em vida.
+> 
+> *A conversão tardia*: Adriano explica como só percebeu a vaidade do poder temporal ao se tornar Papa, mostrando a cegueira espiritual causada pela avareza.
+> 
+> *Alagia*: Sobrinha do Papa, mencionada como exemplo de virtude que pode ser corrompida pelo mau exemplo familiar.
+
 O frio da madrugada era cortante, aquela hora em que o calor do dia já se dissipou por completo e a influência da Lua atinge seu ápice gelado. No horizonte, pouco antes da aurora, a constelação que os geomantes chamam de Maior Fortuna começava a subir, tingindo o céu de um tom pálido. Foi nesse momento de vulnerabilidade que ela apareceu no meu sonho: uma mulher gaga, de olhos estrábicos, pés tortos e mãos decepadas. Sua pele tinha uma palidez doentia, quase repulsiva.
 
 Eu a observava fixamente. E, da mesma forma que o sol aquece os membros enrijecidos pela noite, o meu olhar pareceu transformá-la. Sob a minha atenção, sua língua se soltou, seus membros se endireitaram e seu rosto, antes sem vida, ganhou as cores vibrantes da sedução. Assim que se sentiu bela, ela começou a cantar. Era uma melodia hipnótica, impossível de ignorar.

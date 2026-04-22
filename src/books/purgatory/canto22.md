@@ -10,6 +10,20 @@ summary = ' '
 weight = 22
 +++
 
+> No sexto terraço, Estácio explica a Virgílio que purifica o pecado da prodigalidade (gastança excessiva), oposto da avareza. Ele revela como foi convertido ao cristianismo pela poesia de Virgílio, mas praticou a fé secretamente por medo. Os poetas discutem sobre outros escritores clássicos no Limbo. Encontram uma árvore mística que adverte sobre a gula com exemplos de temperança.
+
+---
+
+> *A prodigalidade*: Estácio explica que está purgando o oposto da avareza - a gastança excessiva - mostrando como ambos os extremos são pecados contra o justo uso dos bens.
+> 
+> *A conversão literária*: Estácio foi convertido pela poesia de Virgílio, especialmente pelo verso sobre a renovação dos tempos, mostrando como a arte pode ser instrumento da graça.
+> 
+> *A tibieza espiritual*: O medo de professar abertamente o cristianismo o levou a permanecer no quarto círculo (preguiçosos) por séculos.
+> 
+> *Os escritores no Limbo*: Virgílio menciona Terêncio, Cecílio, Plauto, Varrão e outros, mostrando a comunidade literária no antepurgatório.
+> 
+> *A árvore da temperança*: Adverte sobre a gula com exemplos como Maria, Daniel, João Batista, mostrando o valor do jejum e da moderação.
+
 O anjo já estava para trás de nós, aquele que nos havia guiado até o sexto círculo e, com um toque suave, removido mais um pecado da minha testa. Suas palavras ainda ecoavam em meus ouvidos — *Beati qui esuriunt* — abençoando aqueles que têm fome e sede de justiça. E, curiosamente, senti-me mais leve do que em qualquer outra passagem da montanha. Não havia esforço, nenhum peso me puxando para trás enquanto eu seguia os espíritos que subiam velozes à nossa frente.
 
 Foi então que Virgílio quebrou o silêncio.

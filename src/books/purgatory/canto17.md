@@ -10,6 +10,20 @@ summary = ' '
 weight = 17
 +++
 
+> Dante emerge da fumaça do terceiro terraço e tem visões exemplares de ira punida: Procne transformada em andorinha, o rei Assuero, e a rainha Amata que se suicida. Um anjo os guia ao quarto terraço, apagando a terceira letra 'P'. Virgílio explica a teoria do amor como raiz de todas as ações virtuosas e pecaminosas, classificando os três tipos de amor mau que causam os pecados dos primeiros três terraços.
+
+---
+
+> *As visões exemplares*: Procne (vingança transformada em crueldade), Assuero (ira real controlada), e Amata (suicídio por raiva) mostram as consequências da ira descontrolada.
+> 
+> *A teoria do amor*: Virgílio apresenta a estrutura filosófica dos pecados capitais baseada na teologia agostiniana, explicando como o amor mal direcionado causa todos os pecados.
+> 
+> *Os três tipos de amor mau*: Orgulho (desejar a queda do próximo), inveja (tristeza com o sucesso alheio), ira (desejo de vingança).
+> 
+> *O livre-arbítrio*: Estabelece que embora o amor seja natural, a escolha de como direcioná-lo é responsabilidade humana.
+> 
+> *Beati pacifici*: O canto dos anjos celebra a pacificação da ira, mostrando a transformação do pecado em virtude.
+
 Tente se lembrar, leitor, de como é ser pego por uma neblina espessa em plena montanha. Aquele tipo de bruma que reduz sua visão à de uma toupeira sob a terra, onde o mundo se torna um borrão cinzento e opaco. Lembra-se de como, quando o vapor começa a rarear, o disco solar tenta penetrar a massa úmida com uma luz fraca e vacilante? Se você consegue resgatar essa imagem, terá uma ideia pálida de como meus olhos reencontraram os últimos raios de sol, que já buscavam o horizonte para se pôr.
 
 Eu seguia os passos firmes do meu mestre, emergindo da nuvem sufocante para um mundo onde a luz já morria nas encostas baixas. Meus sentidos, porém, foram sequestrados.

@@ -10,6 +10,20 @@ summary = ' '
 weight = 20
 +++
 
+> Dante conversa com Hugo Capeto, fundador da dinastia Capetiana, que lamenta a avareza de seus descendentes, os reis da França. Hugo faz profecias sobre a corrupção futura, incluindo o ataque a Florença e a traição de Bonifácio VIII. Os avarentos cantam exemplos de generosidade durante o dia e de avareza punida durante a noite. Um terremoto sacode a montanha enquanto cantam "Glória in excelsis Deo".
+
+---
+
+> *Hugo Capeto*: Fundador da dinastia real francesa, representa como a avareza pode corromper linhagens inteiras ao longo das gerações.
+> 
+> *As profecias políticas*: Referências a Carlos de Valois (ataque a Florença) e Bonifácio VIII (ataque em Anagni), mostrando a visão profética de Dante sobre a política européia.
+> 
+> *Os exemplos de avareza*: Pigmalião, Midas, Acã, Safira, Heliodoro, Polinestor e Craso representam diversos tipos de avareza punida.
+> 
+> *O terremoto*: Simboliza a comoção divina e a purificação, ocorrendo durante o canto de glória a Deus.
+> 
+> *A inversão dos cantos*: Durante o dia cantam exemplos de virtude (generosidade), durante a noite exemplos de pecado (avareza).
+
 Contra a melhor vontade, lutar é inútil. Foi o que pensei ao puxar a esponja daquela água que nunca se saciava, contrariando meu próprio desejo apenas para agradar aquele espírito. Mas a reflexão ficou para trás assim que me movi. Meu guia também se pôs em marcha pelos trechos desobstruídos, rente à rocha, como quem anda sobre um muro estreito entre ameias — porque as almas que vertem gota a gota pelos olhos o mal que contamina o mundo inteiro se aproximavam demais do lado de fora.
 
 _Maldita sejas, loba antiga_, murmurei para mim mesmo, sentindo o peso daquela condenação. _Mais presa tens do que qualquer fera, com tua fome sem fundo, insaciável. Ó céus, em cujo giro aparentemente se acreditam as mudanças das condições cá de baixo, quando virá aquele que há de expulsar-te?_

@@ -10,6 +10,20 @@ summary = ' '
 weight = 33
 +++
 
+> Beatrice faz profecias sobre a redenção da Igreja, predizendo que um "mensageiro de Deus" (o DXV - 515) destruirá a corrupção. Ela explica a justiça divina na árvore do conhecimento e instrui Dante a beber das águas do Eunoe para restaurar sua memória do bem. Dante se purifica completamente, preparado para ascender ao Paraíso.
+
+---
+
+> *A profecia do DXV*: O número 515 em romanos, possivelmente referindo-se a um futuro redentor ou a uma intervenção divina na Igreja.
+> 
+> *A árvore do conhecimento*: Beatrice explica a justiça divina na proibição da árvore, simbolizando como o pecado original afetou toda a humanidade.
+> 
+> *As águas do Eunoe*: O rio que restaura a memória do bem, complementando o Letes que apaga o pecado.
+> 
+> *A renovação de Dante**: "Renovado como plantas novas", simboliza o renascimento espiritual completo.
+> 
+> *O fim do Purgatório*: Dante está pronto para "subir às estrelas", concluindo a jornada terrena e iniciando a celestial.
+
 Ouvi o canto das mulheres ecoando pela montanha sagrada. “Deus, venerunt gentes”, entoavam em doce salmodia, alternando três ou quatro palavras, enquanto lágrimas escorriam por seus rostos. Beatriz, suspirando e piedosa, as escutava de tal modo que pouco faltou para que se transformasse na própria Maria aos pés da cruz.
 
 Quando as outras virgens cederam espaço para que ela falasse, Beatriz ergueu-se em pé e respondeu, com o rosto incandescente como fogo:

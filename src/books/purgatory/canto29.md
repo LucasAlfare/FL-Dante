@@ -10,6 +10,20 @@ summary = ' '
 weight = 29
 +++
 
+> Matelda guia Dante através do Paraíso Terrestre para testemunhar uma procissão divina. Sete candelabros dourados, vinte e quatro anciãos, quatro seres viventes (como em Ezequiel), um carro triunfal puxado por um grifo, e várias figuras simbólicas avançam em uma cerimônia celestial. O canto descreve uma visão apocalíptica que prepara o encontro de Dante com Beatrice.
+
+---
+
+> *A procissão simbólica*: Representa a Igreja e a Revelação, com elementos do Apocalipse e profecias bíblicas.
+> 
+> *Os sete candelabros*: Simbolizam os sete dons do Espírito Santo ou as sete igrejas do Apocalipse.
+> 
+> *O grifo*: Criatura mitológica que combina águia e leão, representa a dupla natureza de Cristo (divina e humana).
+> 
+> *Os quatro seres viventes*: Referência a Ezequiel e Apocalipse, representam os Evangelistas.
+> 
+> *As mulheres simbólicas*: As três virtudes teologais (fé, esperança, caridade) e as quatro cardinalidades (prudência, justiça, fortaleza, temperança).
+
 Matelda cantava como uma mulher possuída por uma paixão divina, as notas elevando-se entre as árvores milenares do Éden. — Felizes aqueles cujos pecados são cobertos — entoou ela, encerrando a melodia com uma bênção que parecia vibrar no próprio ar. Como ninfas que outrora vagavam solitárias pelas sombras selvagens, buscando o sol ou fugindo dele, ela começou a se mover contra a corrente do rio. Eu a acompanhava da margem oposta, ajustando meu ritmo ao dela, passo a passo, em uma sincronia silenciosa.
 
 Não havíamos caminhado nem cem metros quando as margens do rio fizeram uma curva acentuada, obrigando-me a caminhar de frente para o oriente. O cansaço da subida parecia dissipar-se diante da expectativa do que viria a seguir. Foi então que Matelda parou bruscamente e se voltou para mim, os olhos brilhando com uma intensidade nova.

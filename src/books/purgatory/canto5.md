@@ -10,6 +10,20 @@ summary = ' '
 weight = 5
 +++
 
+> Dante encontra as almas dos que morreram violentamente mas se arrependeram no último momento. Seus corpos projetam sombras, revelando sua natureza física, e eles pedem a Dante que leve suas mensagens ao mundo dos vivos. Entre eles estão Jacopo del Cassero, Buonconte da Montefeltro e Pia dei Tolomei, cada um contando histórias trágicas de mortes violentas e arrependimento final.
+
+---
+
+> *Mortes violentas arrependidas*: Este grupo representa os que morreram de forma violenta mas conseguiram se arrepender no último instante, simbolizando como a graça divina pode alcançar até os últimos momentos de vida.
+> 
+> *Jacopo del Cassero*: Podestà de Bolonha, assassinado por Azzo d'Este em Pádua. Sua história representa a violência política da época e a importância das orações dos vivos para acelerar a purificação.
+> 
+> *Buonconte da Montefeltro*: Filho de Guido da Montefeltro, morto na batalha de Campaldino. A disputa entre anjo e demônio por sua alma simboliza a luta espiritual que ocorre no momento da morte.
+> 
+> *Pia dei Tolomei*: Possivelmente esposa de Nello dei Pannocchieschi, assassinada pelo marido. Sua frase "Siena me fez, a Maremma me desfez" tornou-se famosa na literatura italiana.
+> 
+> *A importância das orações*: Este canto estabelece um princípio fundamental do Purgatório - as orações dos vivos podem acelerar a purificação das almas, mostrando a conexão entre a Igreja militante (terra) e a Igreja padecente (purgatório).
+
 Eu já havia deixado aquelas sombras para trás, seguindo as passadas firmes de Virgílio, meu guia e mestre, quando um grito agudo cortou o ar rarefeito da encosta. "Olhem! O raio de sol não atravessa aquele ali embaixo, à esquerda! Ele se move como um homem vivo!", exclamou uma voz carregada de espanto. Girei os calcanhares e vi um grupo de almas paralisadas, apontando para mim, hipnotizadas pelo fenômeno físico que eu representava: minha sombra, uma mancha escura e sólida projetada contra a rocha, algo impossível naquele reino de transparências. Eu era uma anomalia biológica em um mundo de ecos.
 
 "Por que você deixa sua mente se enredar tanto?", a voz de Virgílio soou, não como uma bronca, mas como um lembrete urgente de nossa missão. "Por que diminuiu o passo? O que importa o que eles cochicham? Siga-me e deixe que falem. Seja como uma torre sólida, que não balança o topo por mais que os ventos soprem. Quem permite que um pensamento brote sobre o outro acaba perdendo o alvo, porque o ímpeto de um enfraquece a força do outro." Suas palavras atingiram o cerne da minha hesitação. Senti o calor subir pelo meu rosto, o rubor da vergonha que, às vezes, nos torna dignos de perdão. "Eu vou", respondi, e seguimos em frente.

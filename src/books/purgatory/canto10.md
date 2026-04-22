@@ -10,6 +10,20 @@ summary = ' '
 weight = 10
 +++
 
+> Dante entra no primeiro terraço do Purgatório, onde os soberbos purificam seu orgulho carregando pesos enormes que os curvam. A parede é decorada com exemplares de humildade: a Anunciação, Davi dançando perante a arca, e o imperador Trajano atendendo uma viúva. As esculturas são tão perfeitas que enganam os sentidos, mostrando como a virtude deve superar a vaidade.
+
+---
+
+> *O primeiro terraço*: Destinado à purificação do orgulho, o primeiro e mais grave pecado capital, representando a raiz de todos os outros pecados.
+> 
+> *Os pesos simbólicos*: Os soberbos carregam pesos físicos que os curvam, simbolizando como o orgulho deve ser humilhado e dobrado através da penitência.
+> 
+> *Os exemplares de humildade*: As esculturas mostram modelos opostos ao orgulho - Maria (humildade perfeita), Davi (rei humilde), e Trajano (poderoso que se curva à justiça).
+> 
+> *A Anunciação*: Maria representa a humildade máxima ao aceitar ser serva de Deus, contrastando com o orgulho de querer ser igual a Deus.
+> 
+> *Trajano*: Imperador pagão legendariamente salvo por sua atitude de justiça e humildade, mostrando que a virtude transcende as fronteiras religiosas.
+
 O som metálico da porta fechando ecoou pelas paredes de pedra, um estrondo final que selava o caminho atrás de nós. Cruzei o limiar sabendo que a entrada para aquele reino não era apenas física, mas psicológica: a porta que o desejo distorcido das almas raramente utiliza, preferindo as rotas fáceis que fazem o erro parecer o caminho reto. Se eu tivesse olhado para trás, que desculpa poderia dar para tal fraqueza?
 
 O caminho à frente era uma fenda estreita na rocha, um desfiladeiro que serpenteava e oscilava como uma onda que avança e recua. Era um teste de agilidade e paciência.

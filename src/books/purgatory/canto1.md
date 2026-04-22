@@ -9,6 +9,20 @@ prev = 'divina_comedia/inferno/canto33'
 next = 'divina_comedia/purgatorio/canto2'
 +++
 
+> Após escapar do Inferno, Dante e Virgílio chegam à ilha do Purgatório, onde encontram o guardião Catão. O canto estabelece a atmosfera de esperança e renovação, contrastando com a escuridão do abismo anterior. Dante é purificado com um junco milagroso que renasce instantaneamente, simbolizando o início da redenção e a natureza regenerativa do Purgatório.
+
+---
+
+> *Catão de Útica*: O guardião do Purgatório é uma figura histórica que se suicidou para evitar viver sob a tirania de César. Sua presença aqui é paradoxal, já que o suicídio é normalmente pecado mortal, mas sua virtude cívica e amor pela liberdade o tornam digno de governar o antepurgatório.
+> 
+> *As quatro estrelas*: Representam as quatro virtudes cardeais (prudência, justiça, fortaleza e temperança) que brilham no hemisfério sul do Purgatório, substituindo as estrelas do hemisfério norte que não podem ser vistas de lá.
+> 
+> *Calíope*: Musa da poesia épica, invocada por Dante para recuperar sua voz poética após o trauma do Inferno.
+> 
+> *O junco milagroso*: Simboliza a humildade e a natureza regenerativa do Purgatório. O fato de renascer instantaneamente representa a graça divina que restaura o que foi perdido.
+> 
+> *Márcia*: Primeira esposa de Catão, mencionada por Virgílio como exemplo de fidelidade conjugal, representando a ordem natural e a virtude terrena.
+
 Deixei para trás aquele mar cruel. Senti a pequena embarcação do meu intelecto ganhar fôlego, içando velas para navegar por águas mais limpas, onde a alma humana se liberta do peso do erro e se torna digna de tocar o céu. O ar morto do abismo finalmente ficara para trás, mas eu ainda sentia o peso do que vira. *Preciso de uma nova força*, pensei, enquanto as musas, e em especial a voz profunda de Calíope, pareciam ecoar na minha mente, devolvendo a cor a uma poesia que quase se perdera na escuridão.
 
 A atmosfera era de um azul hipnotizante, um tom de safira oriental que se estendia límpido até o horizonte. Meus olhos, cansados da névoa asfixiante do Inferno, voltaram a encontrar prazer na luz. O planeta Vênus, aquele farol que convida ao amor, fazia todo o oriente sorrir, ofuscando suavemente a constelação de Peixes que o acompanhava. Voltei-me para a direita, focando no polo oposto, e foi então que vi: quatro estrelas imensas, brilhando com uma intensidade que parecia pertencer apenas aos primeiros seres humanos. O céu parecia exultar com aquelas chamas. O Norte era um deserto órfão por não poder contemplar tamanha beleza.

@@ -10,6 +10,20 @@ summary = ' '
 weight = 7
 +++
 
+> Sordello descobre a identidade de Virgílio e o reverencia profundamente. Virgílio explica sua vinda do Limbo e a impossibilidade de subir à noite no Purgatório. Eles se refugiam em um vale magnífico onde governantes arrependidos cantam o *Salve Regina*. Dante encontra imperadores e reis que negligenciaram seus deveres, aprendendo sobre a natureza da liderança e a graça divina que não depende da linhagem.
+
+---
+
+> *O Limbo*: Virgílio descreve seu lugar de morada no Inferno, onde almas virtuosas que não conheceram o cristianismo residem sem tormento físico, apenas com a melancolia de não poderem ver Deus.
+> 
+> *A proibição noturna*: No Purgatório não se pode subir à noite, simbolizando que sem a luz da graça divina (representada pelo sol) o progresso espiritual é impossível.
+> 
+> *O vale dos governantes*: Este primeiro terraço do Purgatório abriga líderes que foram negligentes em seus deveres, agora aprendendo a humildade através do canto e da contemplação.
+> 
+> *Rodolfo de Habsburgo*: Imperador do Sacro Império Romano-Germânico que negligenciou a Itália, representando a falha dos líderes em proteger seus domínios.
+> 
+> *A graça direta*: A observação de que a virtude raramente passa de pai para filho, sendo concedida diretamente por Deus, estabelece o princípio da responsabilidade individual perante o Criador.
+
 Depois que as saudações e os abraços de Sordello e Virgílio se repetiram por três ou quatro vezes — um choque de reconhecimento entre almas separadas por séculos, mas unidas pela mesma terra mantuana — Sordello finalmente recuou um passo, os olhos fixos em nós, a curiosidade gravada em sua face etérea. "Mas digam-me, quem são vocês?", ele perguntou, e sua voz ressoou com uma urgência que parecia vibrar no ar rarefeito da montanha.
 
 Virgílio não hesitou. Ele se manteve ereto, com aquela dignidade silenciosa que sempre me fascinava, e respondeu com uma clareza que cortava o silêncio do Purgatório: "Antes que as almas dignas de subir a Deus fossem direcionadas a este monte, meus ossos foram enterrados por ordem de Otaviano. Eu sou Virgílio; e perdi o céu por nenhum outro crime senão o de não ter tido fé."

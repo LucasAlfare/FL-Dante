@@ -10,6 +10,20 @@ summary = ' '
 weight = 11
 +++
 
+> Dante conversa com as almas soberbas, incluindo Omberto Aldobrandeschi e o miniaturista Oderisi. Oderisi reflete sobre a vaidade da fama terrena, mencionando como Cimabue foi superado por Giotto e como a glória humana é efêmera. Provenzano Salvani é mencionado como exemplo de como um ato de humildade pode salvar até o mais orgulhoso. O canto explora a natureza transitória da fama e a verdadeira humildade.
+
+---
+
+> *Omberto Aldobrandeschi*: Nobre toscano morto por sua arrogância, representa como o orgulho nobiliárquico leva à ruína pessoal e familiar.
+> 
+> *Oderisi de Gubbio*: Famoso miniaturista da época, sua reflexão sobre a fama efêmera é autobiográfica, mostrando como a excelência artística é sempre superada.
+> 
+> *Cimabue e Giotto*: Referência histórica real à transição do estilo bizantino para o gótico na pintura italiana, simbolizando como o progresso torna obsoletas as glórias passadas.
+> 
+> *Provenzano Salvani*: Líder sienês que humildemente se ajoelhou para salvar um amigo, mostrando que um único ato de humildade pode redimir uma vida de orgulho.
+> 
+> *A oração dos soberbos*: Eles oram pelos vivos em vez de por si mesmos, mostrando como a verdadeira humildade se manifesta no cuidado pelos outros.
+
 O peso do ar me esmagava. Não era a gravidade comum, dessas que sentimos na superfície da terra, mas algo mais profundo, uma pressão que parecia vir de dentro dos meus próprios ossos. A cada passo, meus joelhos protestavam, e a encosta íngreme do primeiro terraço do Purgatório me lembrava, sem piedade, que ainda carregava a carne de Adão.
 
 As almas avançavam diante de nós, curvadas sob um fardo invisível. Dobravam-se como os contrafortes de uma ponte que sustenta o peso do mundo. E enquanto caminhavam, rezavam. Não em sussurros tímidos, mas numa prece coletiva que ecoava contra as paredes de mármore da montanha.

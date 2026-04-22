@@ -10,6 +10,20 @@ summary = ' '
 weight = 31
 +++
 
+> Beatrice interroga Dante sobre sua culpa, forçando-o a confessar que se desviou do caminho certo após sua morte, seduzido pelos prazeres terrenos. Ela repreende sua fraqueza e o faz beber das águas do Letes para esquecer seus pecados. As virtudes cardeais o levam diante do grifo, onde Beatrice revela sua beleza divina. Dante desmaia de emoção e arrependimento.
+
+---
+
+> *O interrogatório de Beatrice*: Representa o juízo divino e a confissão necessária para a purificação completa.
+> 
+> *As águas do Letes*: O rio do esquecimento dos pecados, necessário para purificar a alma antes da visão divina.
+> 
+> *As quatro virtudes cardeais*: Prudência, justiça, fortaleza e temperança, que guiam Dante na purificação.
+> 
+> *O grifo como espelho*: Reflete a dupla natureza de Cristo, mostrando como Beatrice transcende sua forma humana.
+> 
+> *O desmaio de Dante*: Simboliza a morte espiritual necessária para o renascimento na visão divina.
+
 A voz cortou o ar como uma lâmina, e eu senti o golpe muito antes de compreender as palavras. Era Beatriz, sim, mas não a Beatriz que um dia sorriu para mim na ponte Santa Trinità. Aquela era uma acusadora, um juiz que manejava a verdade com a precisão de um carrasco.
 
 — Ó tu que estás do outro lado do rio sagrado — ela começou, e cada sílaba me perfurava mais fundo que a ponta de uma espada. Aquele mesmo fio de voz que antes me parecera cortante agora se revelava ainda mais afiado pelo desprezo. — Dize, dize se é verdade. A tamanha acusação, tua confissão deve unir-se.

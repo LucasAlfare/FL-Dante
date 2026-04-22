@@ -10,6 +10,20 @@ summary = ' '
 weight = 6
 +++
 
+> Dante questiona Virgílio sobre o poder das orações, que parecem contradizer seus escritos anteriores. Encontram Sordello, poeta mantuano que abraça Virgílio com entusiasmo ao descobrir que são compatriotas. O encontro provoca em Dante uma poderosa denúncia política da Itália de sua época, comparando a fraternidade dos mortos com a discórdia dos vivos e lamentando a ausência de autoridade imperial.
+
+---
+
+> *Sordello*: Poeta trovador do século XIII, nascido em Mântua como Virgílio. Sua fama como poeta do amor cortês e sua identidade mantuana criam um laço imediato com Virgílio.
+> 
+> *A questão das orações*: Virgílio esclarece que as orações podem ajudar as almas do Purgatório porque elas já estão reconciliadas com Deus, diferentemente dos condenados do Inferno.
+> 
+> *A denúncia política*: Este canto contém uma das críticas mais severas de Dante à política italiana, comparando a Itália a um "bordel a céu aberto" e lamentando a ausência de autoridade imperial.
+> 
+> *Montecchios e Cappellettis*: Referência às famílias rivais que inspiraram "Romeu e Julieta", simbolizando a discórdia civil que assolava as cidades italianas.
+> 
+> *Florença*: Dante critica duramente sua cidade natal, acusando-a de hipocrisia e instabilidade política, refletindo seu próprio exílio e saudade da pátria.
+
 Eu me sentia como o perdedor em um jogo de dados viciado. Sabe aquela sensação de ficar para trás, remoendo cada jogada errada enquanto a multidão se afasta celebrando o vencedor? Era exatamente assim. Eu estava cercado, sufocado por uma massa de almas ansiosas que me apertavam de todos os lados, cada uma clamando por um segundo da minha atenção, um fragmento de prece que pudesse acelerar sua subida naquela montanha impossível. Eu girava o rosto para a esquerda e para a direita, distribuindo promessas como quem tenta abrir caminho em uma saída de metrô lotada na hora do rush, apenas para conseguir um pouco de ar e seguir meu guia.
 
 Ali, naquele turbilhão de rostos marcados pela tragédia, vi o aretino que encontrou o fim nas mãos brutais de Ghin di Tacco, e aquele outro que o destino tragou nas águas enquanto caçava. Vi Federico Novello implorando com as mãos estendidas e o jovem de Pisa, cujo sacrifício testou a força do próprio pai. Eram sombras de homens que carregavam o peso de mortes violentas, como o Conde Orso e aquela alma dilacerada pela inveja alheia — Pier da la Broccia, que faria bem em avisar os vivos sobre o perigo de falsos testemunhos antes que o tempo se esgote. Quando finalmente consegui me desvencilhar daquela pressão humana, meus músculos ainda ardiam, mas minha mente disparava em busca de respostas.

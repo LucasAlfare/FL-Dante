@@ -10,6 +10,20 @@ summary = ' '
 weight = 2
 +++
 
+> Dante e Virgílio testemunham a chegada de um barco angelical transportando almas recém-falecidas para o Purgatório. Entre elas está Casella, um músico amigo de Dante, que canta uma canção que encanta a todos. O momento de contemplação é interrompido por Catão, que adverte os espíritos sobre a necessidade de prosseguir em sua jornada de purificação, estabelecendo o tema da urgência espiritual no Purgatório.
+
+---
+
+> *O barco angelical*: Simboliza a transição das almas da Terra para o Purgatório, guiadas por um anjo que representa a intervenção divina no processo de salvação.
+> 
+> *Casella*: Músico florentino e amigo de Dante, sua presença mostra como as artes e a amizade continuam a ter valor mesmo após a morte. Sua canção "Amor che ne la mente mi ragiona" é de autoria do próprio Dante.
+> 
+> *Salmo "In exitu Israel de Aegypto"*: As almas cantam este salmo que celebra a libertação do povo hebreu do Egito, simbolizando a própria libertação do pecado e a jornada em direção à Terra Prometida (o Paraíso).
+> 
+> *A foz do Tibre*: Local onde Casella esperou para ser transportado, representando a fronteira entre a vida terrena e o início da jornada purgatorial.
+> 
+> *A reprimenda de Catão*: Estabelece a regra fundamental do Purgatório - não há tempo para distrações. A urgência da purificação contrasta com a contemplação permitida no Inferno.
+
 O sol já tocava a linha do horizonte. Em Jerusalém, o ponto mais alto do meio-dia se perdia, enquanto a noite avançava pelo Ganges. Onde eu estava, as cores da aurora, antes brancas e rosadas, começavam a adquirir um tom alaranjado pelo passar das horas. Eu e Virgílio ainda caminhávamos pela beira-mar, como pessoas que ponderam sobre o caminho a seguir; o coração já estava na estrada, mas o corpo ainda hesitava.
 
 Foi então que algo surgiu. No horizonte, sobre o mar, uma luz avermelhada brilhava de forma intensa, lembrando Marte quando o planeta é sufocado pelos vapores densos do amanhecer no poente. Aquilo se movia em nossa direção com uma velocidade impossível. Se eu voltasse a vê-la um dia, ainda assim não acreditaria no que meus olhos testemunharam: nada que voasse na terra poderia competir com aquele ritmo.

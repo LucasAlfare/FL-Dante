@@ -10,6 +10,20 @@ summary = ' '
 weight = 18
 +++
 
+> No quarto terraço, Dante encontra os preguiçosos que correm freneticamente para compensar sua negligência passada. Virgílio explica a natureza do amor e o livre-arbítrio, mostrando como a alma é movida pelo amor mas tem responsabilidade em escolher seus objetos. Entre as almas está o abade de San Zeno, que critica a corrupção eclesiástica. O canto explora a psicologia do amor e a responsabilidade moral.
+
+---
+
+> *Os preguiçosos*: Correm incessantemente para compensar a preguiça passada, simbolizando como a virtude ativa corrige a negligência anterior.
+> 
+> *A teoria do amor*: Virgílio explica como o amor é natural à alma, mas o livre-arbítrio permite escolher entre bons e maus objetos de amor.
+> 
+> *O abade de San Zeno*: Representa a corrupção eclesiástica, criticando como maus administradores substituem bons líderes religiosos.
+> 
+> *As vozes exemplares*: "Maria correu com pressa" e "César correu para subjugar Ilerda" mostram exemplos de zelo e diligência.
+> 
+> *O livre-arbítrio*: Estabelecido como a "nobre virtude" que permite aos humanos escolher entre o bem e o mal, sendo base da responsabilidade moral.
+
 O alto doutor enfim encerrara seu discurso, e agora me observava com atenção, tentando ler em meu olhar se eu parecia satisfeito. Eu, porém, sentia uma nova sede me consumir por dentro. Ficava em silêncio por fora, mas meus pensamentos fervilhavam: *Talvez meu interrogatório excessivo esteja lhe pesando*.
 
 Mas aquele pai verdadeiro percebeu a timidez da minha vontade, que não se abria sozinha, e falando, me deu coragem para falar.

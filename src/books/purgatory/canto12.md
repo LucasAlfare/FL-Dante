@@ -10,6 +10,20 @@ summary = ' '
 weight = 12
 +++
 
+> Dante observa o chão esculpido com exemplos de soberba punida: a queda de Lúcifer, os gigantes atingidos por Júpiter, Níobe chorando seus filhos mortos, Saul suicidando-se, e outros. Um anjo os guia para o segundo terraço, apagando a primeira letra 'P' da testa de Dante com sua asa. A subida se torna mais fácil, simbolizando como a purificação alivia o fardo espiritual.
+
+---
+
+> *Os exemplos de soberba punida*: Lúcifer (orgulho supremo), Briareu e outros gigantes (tentativa de superar os deuses), Níobe (orgulho materno), Saul (orgulho real), mostram as diversas manifestações do orgulho e suas consequências.
+> 
+> *A arte divina*: As esculturas são tão perfeitas que superam qualquer arte humana, simbolizando como a criação divina transcende a capacidade criativa humana.
+> 
+> *O apagamento do primeiro 'P'*: Representa o início da purificação do orgulho, mostrando como a intervenção angelical remove gradualmente as marcas do pecado.
+> 
+> *A facilidade crescente*: A subida se torna mais fácil conforme Dante é purificado, simbolizando como o alívio espiritual torna a jornada para Deus menos penosa.
+> 
+> *Bem-aventurados os pobres de espírito*: O canto dos anjos contrasta com os lamentos do Inferno, mostrando a natureza redentora do sofrimento purgatorial.
+
 Eu caminhava lado a lado com aquela alma sobrecarregada, como dois bois puxando o mesmo jugo, sentindo o peso invisível de sua penitência enquanto meu mestre permitia. Mas a jornada no Purgatório não admite estagnação. Virgílio, com sua voz que sempre equilibrava autoridade e doçura, quebrou o silêncio.
 
 — Deixe-o e siga em frente — ordenou ele. — Aqui, cada um deve impulsionar seu próprio barco com toda a força de seus remos e velas.

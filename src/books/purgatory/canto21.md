@@ -10,6 +10,20 @@ summary = ' '
 weight = 21
 +++
 
+> Dante encontra Estácio, poeta latino que purifica o pecado da prodigalidade (oposto da avareza) no quinto terraço. Estácio explica que o terremoto ocorre quando uma alma está pronta para subir ao Paraíso. Ele revela que foi influenciado por Virgílio a se tornar cristão, mas por medo praticou a fé secretamente, causando sua longa permanência no Purgatório. O encontro dos três poetas cria um momento de reconhecimento mútuo.
+
+---
+
+> *Estácio*: Poeta latino autor de "Tebas" e "Aquiles", representa a transição do paganismo ao cristianismo através da literatura.
+> 
+> *A prodigalidade*: Estácio explica que está purgando o oposto da avareza - a gastança excessiva - mostrando como ambos os extremos são pecados.
+> 
+> *O terremoto espiritual*: Ocorre quando uma alma alcança pureza suficiente para subir, simbolizando a alegria divina e a libertação.
+> 
+> *A influência de Virgílio*: Estácio foi convertido pela poesia de Virgílio, mostrando como a arte pode ser veículo da graça divina.
+> 
+> *A tibieza*: O medo de professar abertamente a fé levou Estácio ao quarto círculo (preguiçosos), mostrando como a covardia espiritual é pecado.
+
 A sede natural que nunca se sacia, a não ser com a água que a mulher samaritana pediu como graça, me consumia. Enquanto isso, a pressa me picava os calcanhares, forçando-me a seguir meu mestre por aquela trilha obstruída. Eu me doía com a justa vingança divina — afinal, era justo que aquelas almas sofressem, mas nem por isso meu cansaço diminuía.
 
 Foi então que, exatamente como Lucas escreveu sobre Cristo aparecendo aos dois discípulos no caminho, já saído da tumba, uma sombra surgiu diante de nós. Vinha por trás, olhando para o chão, para a multidão de almas prostradas. Nem percebemos sua presença até que ela falou primeiro.

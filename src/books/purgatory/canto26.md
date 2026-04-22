@@ -10,6 +10,20 @@ summary = ' '
 weight = 26
 +++
 
+> No sétimo terraço, Dante encontra os luxuriosos que caminham entre fogo e abismo. Eles se separam em dois grupos: os homossexuais (que gritam "Sodoma") e os heterossexuais excessivos (que gritam "Pasífae"). Dante encontra Guido Guinizzelli, o pai do "dolce stil novo", e Arnaut Daniel, poeta provençal. O canto explora a natureza da luxúria e a homenagem poética de Dante a seus mestres.
+
+---
+
+> *A dupla natureza da luxúria*: Os dois grupos representam diferentes formas de luxúria - homossexualidade e excesso heterossexual - ambos purificados pelo mesmo fogo.
+> 
+> *Guido Guinizzelli*: Poeta bolonhês considerado o pai do "dolce stil novo", sua presença representa a linhagem poética que Dante continua.
+> 
+> *Arnaut Daniel*: Poeta provençal que fala em sua língua nativa, representando a tradição trovadoresca que influenciou a poesia italiana.
+> 
+> *Os gritos de vergonha*: "Sodoma" e "Pasífae" servem como remédio, usando a vergonha para combater a luxúria.
+> 
+> *A homenagem poética*: Dante demonstra reverência a seus mestres poéticos, estabelecendo sua posição na tradição lírica.
+
 A sétima cornija era um inferno de fogo. Não aquelas chamas soltas e caóticas que estamos acostumados a ver, mas uma parede contínua de fogo que lambia a borda do precipício, obrigando as almas a caminhar por um estreito corredor entre a chama e o abismo. O ar vibrava de calor, e a cada passo eu sentia o suor escorrendo pelas têmporas, misturando-se à poeira da jornada.
 
 Virgílio caminhava à minha frente, e eu logo atrás, seguindo a trilha estreita que separava a vida da purificação. De tempos em tempos, ele virava a cabeça e me alertava: — Presta atenção. É hora de aguçar o engenho.

@@ -10,6 +10,20 @@ summary = ' '
 weight = 8
 +++
 
+> Ao anoitecer no vale dos governantes, dois anjos guardiões descem para proteger o local contra uma serpente. Dante encontra o juiz Nino Visconti e Conrado Malaspina, que fazem pedidos sobre suas famílias. O canto explora a proteção divina, a fidelidade conjugal e a honra familiar, estabelecendo conexões entre o Purgatório e o mundo dos vivos através das orações e da memória.
+
+---
+
+> *Os anjos guardiões*: Com espadas sem ponta e túnicas verdes, representam a proteção divina que desarma o mal sem destruí-lo completamente, simbolizando a misericórdia que domina sobre a justiça no Purgatório.
+> 
+> *A serpente*: Representa a tentação e o mal que sempre ameaça as almas em purificação, fazendo alusão à serpente do Éden.
+> 
+> *Nino Visconti*: Juiz de Gallura, genro de Beatrice, sua presença conecta a jornada de Dante com figuras históricas reais e sua própria vida.
+> 
+> *Conrado Malaspina*: Sua profecia sobre os "pregos mais fortes que palavras" refere-se à futura hospitalidade que os Malaspina oferecerão a Dante em seu exílio.
+> 
+> *As três estrelas*: Substituem as quatro estrelas do amanhecer, representando as três virtudes teologais (fé, esperança e caridade) que brilham no firmamento do Purgatório.
+
 A luz do dia estava morrendo, e com ela vinha aquela melancolia avassaladora que aperta o peito de qualquer viajante. É o momento exato em que a saudade dos amigos deixados para trás se torna quase física, uma fisgada no coração que ressoa como o badalar de um sino distante, chorando por um dia que não volta mais. Eu estava exausto, meus músculos ainda latejavam pela subida constante, mas algo me fez esquecer a fadiga. Uma das almas ali presentes se ergueu, pedindo silêncio com um gesto contido. Ela uniu as palmas das mãos, os olhos fixos no Oriente, em um transe de devoção absoluta que parecia dizer: *Nada mais importa, além de Ti.*
 
 Quando as primeiras notas de *Te lucis ante* escaparam de seus lábios, o som era tão doce, tão absurdamente puro, que eu me senti flutuar, esquecendo meu próprio corpo. As outras almas a seguiram em coro, uma harmonia hipnótica com os olhos voltados para as esferas celestiais. O clima mudou. Havia uma expectativa vibrante no ar, uma tensão sagrada. Fique atento agora, porque a verdade aqui se esconde sob um véu tão fino que qualquer um pode atravessá-lo se olhar com atenção.

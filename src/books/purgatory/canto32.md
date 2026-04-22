@@ -10,6 +10,20 @@ summary = ' '
 weight = 32
 +++
 
+> Dante observa uma visão profética sobre a corrupção da Igreja. O carro da Igreja é atacado por uma águia (imperadores), uma raposa (corrupção eclesiástica), e um dragão (heresias). O carro se transforma em uma monstruosidade com sete cabeças, simbolizando os sete pecados capitais na Igreja. Uma prostituta (Igreja corrupta) e um gigante (poder temporal) se unem, mas o gigante a arrasta para a floresta.
+
+---
+
+> *A visão profética*: Representa a corrupção histórica da Igreja desde Constantino até os tempos de Dante.
+> 
+> *A águia imperial*: Os ataques representam a interferência do poder imperial nos assuntos eclesiásticos.
+> 
+> *A raposa*: Simboliza a corrupção e a avareza dentro da Igreja, combatida por Beatrice.
+> 
+> *As sete cabeças*: Representam os sete pecados capitais que corromperam a Igreja institucional.
+> 
+> *A prostituta e o gigante*: Simbolizam a união indevida entre Igreja corrupta e poder temporal, especialmente a influência francesa.
+
 Meus olhos estavam travados nela. Uma sede de dez anos, um abismo de ausência que eu tentava preencher apenas com aquele olhar, ignorando todo o resto. O mundo ao redor havia desaparecido, meus sentidos silenciados por aquela visão hipnótica. Beatrice era um ímã, e eu, uma limalha de ferro rendida ao seu sorriso sagrado, presa em uma rede antiga e inquebrável.
 
 — Cuidado, Dante! Olhar fixo demais! — o alerta veio como um estalo, vindo das três mulheres à minha esquerda.

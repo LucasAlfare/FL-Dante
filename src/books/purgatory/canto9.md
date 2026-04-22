@@ -10,7 +10,21 @@ summary = ' '
 weight = 9
 +++
 
-A aurora começava a esticar seus dedos pálidos sobre o horizonte oriental, desprendendo-se dos braços de seu amante milenar para tingir o céu com um brilho leitoso. Acima dela, o brilho frio das estrelas desenhava a constelação do Escorpião, uma joia perigosa cravejada no manto da noite que já recuava, cedendo terreno ao dia que nascia. Eu estava exausto. O peso da minha herança mortal — essa carne feita de Adão — finalmente cobrou seu preço, e eu desabei sobre a grama macia do vale onde o tempo parecia ter desacelerado. Éramos cinco ali, envoltos no silêncio pesado da montanha, mas o sono me levou antes que a última estrela desaparecesse.
+> Dante sonha com uma águia que o carrega para o céu de fogo, simbolizando sua elevação espiritual. Ao despertar, descobre que foi transportado por Lúcia até a entrada do Purgatório. O anjo guardião marca sua testa com sete 'P' (pecados) e abre a porta com as chaves de ouro e prata de Pedro. Dante finalmente entra no Purgatório propriamente dito, ouvindo o *Te Deum*.
+
+---
+
+> *O sonho da águia*: Simboliza a elevação espiritual e a intervenção divina, fazendo alusão a Ganimedes, que foi levado ao Olimpo por uma águia, representando a ascensão da alma humana ao divino.
+> 
+> *Lúcia*: Santa Lúcia de Siracusa, padroeira da visão, representa a luz divina que ilumina o caminho de Dante. Sua intervenção mostra a importância da graça na jornada espiritual.
+> 
+> *Os três degraus*: Mármore branco (confissão), pedra escura esculpida (penitência), e pórfiro vermelho (sangue de Cristo), representando as etapas da purificação.
+> 
+> *As sete letras 'P'*: Marcam os sete pecados capitais que serão purificados em cada terraço do Purgatório, servindo como lembrete constante da necessidade de purificação.
+> 
+> *As chaves de Pedro*: A chave de ouro representa o poder divino, a de prata o conhecimento e sabedoria necessários para administrar a justiça com misericórdia.
+
+A aurora começava a esticar seus dedos pálidos sobre o horizonte oriental, desprendendo-se dos braços de seu amante milenar para tingir o céu com um brilho leitoso. Acima dela, o brilho frio das estrelas desenhava a constelação do Escorpião, uma joia peragosa cravejada no manto da noite que já recuava, cedendo terreno ao dia que nascia. Eu estava exausto. O peso da minha herança mortal — essa carne feita de Adão — finalmente cobrou seu preço, e eu desabei sobre a grama macia do vale onde o tempo parecia ter desacelerado. Éramos cinco ali, envoltos no silêncio pesado da montanha, mas o sono me levou antes que a última estrela desaparecesse.
 
 Perto do amanhecer, naquela hora em que os sonhos deixam de ser meras ilusões e se tornam presságios quase divinos, tive uma visão que acelerou meu pulso. Uma águia de plumagem dourada pairava no céu, com as asas imensas abertas, pronta para o bote. Parecia a mesma criatura que outrora arrebatou Ganimedes para o topo do Olimpo. Enquanto eu tentava processar o medo, a águia circulou brevemente e, com a velocidade de um raio, mergulhou sobre mim. Senti o impacto, o ar sendo arrancado dos meus pulmões enquanto éramos lançados em direção a uma esfera de fogo. O calor era tão intenso, tão real, que a sensação de estar queimando rompeu as correntes do meu sono.
 

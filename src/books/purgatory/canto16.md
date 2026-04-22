@@ -10,6 +10,20 @@ summary = ' '
 weight = 16
 +++
 
+> No terceiro terraço, Dante e Virgílio caminham através de uma fumaça densa que representa a cegueira da ira. Eles encontram Marco Lombardo, que explica a corrupção do mundo como resultado do mau uso do livre-arbítrio e da confusão entre poder espiritual e temporal. Marco critica a Igreja por unir os dois poderes e lamenta a decadência dos valores corteses.
+
+---
+
+> *A fumaça da ira*: Simboliza como a ira cega espiritualmente, impedindo a visão clara da verdade e do bem.
+> 
+> *Marco Lombardo*: Representa a voz da sabedoria política e filosófica, explicando as causas da corrupção social.
+> 
+> *O livre-arbítrio*: Marco defende que o mundo não está determinado pelo céu, mas pelas escolhas humanas, estabelecendo a responsabilidade individual.
+> 
+> *A crítica à Igreja*: A união da espada (poder temporal) e do cajado (poder espiritual) é vista como causa da corrupção moral.
+> 
+> *Os três velhos virtuosos*: Currado da Palazzo, Gherardo e Guido da Castel representam os últimos vestígios da virtude antiga em um mundo corrompido.
+
 A escuridão do Inferno ou aquela noite sem estrelas, sob um céu miserável carregado de nuvens escuras, nunca havia colocado um véu tão grosso diante dos meus olhos quanto aquela fumaça que nos envolveu ali. Era tão áspera e densa que meus olhos não suportavam ficar abertos. Senti o toque seguro do meu guia sábio e fiel se aproximando de mim, e então ele me ofereceu o ombro.
 
 Como um cego caminha atrás de seu condutor para não se perder nem esbarrar em algo que o machuque — ou até mate —, assim eu avançava por aquele ar amargo e sujo, ouvindo meu mestre repetir sem cessar:

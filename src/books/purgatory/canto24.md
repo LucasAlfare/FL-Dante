@@ -10,6 +10,20 @@ summary = ' '
 weight = 24
 +++
 
+> Dante continua conversando com Forese Donati, que apresenta outros gulosos incluindo Bonagiunta de Luca. Bonagiunta reconhece Dante como o poeta do "dolce stil novo" e compara seu estilo com o dos poetas anteriores. Forese faz uma profecia enigmática sobre a corrupção de Florença. Eles encontram outra árvore mística e um anjo que os guia ao sétimo terraço.
+
+---
+
+> *Bonagiunta de Luca*: Poeta que representa o estilo anterior ao "dolce stil novo", reconhece a superioridade do novo estilo poético de Dante.
+> 
+> *O "dolce stil novo"*: Movimento poético revolucionário que Dante helped found, caracterizado pela suavidade e profundidade espiritual.
+> 
+> *Gentucca*: Mulher de Lucca que Bonagiunta profetiza que fará Dante amar sua cidade, representando a influência positiva das mulheres.
+> 
+> *A árvore de Eva*: A segunda árvore mística descende da primeira árvore que Eva provou, simbolizando a origem da gula no pecado original.
+> 
+> *A profecia sobre Florença*: Forese profetiza a corrupção futura, possivelmente referindo-se a Dante's exile e à tirania política.
+
 A caminhada não ficava mais lenta por causa das palavras, nem as palavras por causa da caminhada. Seguíamos rápido, conversando, como um navio impulsionado por vento favorável. As almas ao redor, que pareciam coisas já mortas, arrancavam de mim admiração através do fundo dos olhos — haviam percebido que eu era vivo.
 
 Continuei meu discurso: — Ela sobe talvez mais devagar do que subiria, por minha causa. Mas me diga, se você sabe: onde está Piccarda? Diga se vejo alguém que valha a pena notar entre essa gente que tanto me encara.

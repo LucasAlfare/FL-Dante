@@ -10,6 +10,20 @@ summary = ' '
 weight = 25
 +++
 
+> No sétimo terraço, Dante pergunta sobre como as almas podem emagrecer sem necessidade de alimento. Estácio explica a teoria medieval da formação das sombras após a morte, descrevendo como o espírito assume forma virtual. Eles chegam ao terraço da luxúria, onde almas caminham entre fogo e abismo, cantando hinos de castidade e exemplos de pureza.
+
+---
+
+> *A teoria das sombras*: Estácio explica como as almas assumem forma após a morte, baseando-se na ciência medieval sobre a formação do corpo e a infusão da alma.
+> 
+> *O Motor Primeiro*: Referência a Deus como o criador que insufla a alma no feto, mostrando a teologia medieval da criação.
+> 
+> *A purificação pelo fogo*: Os luxuriosos caminham entre fogo e abismo, simbolizando como a luxúria deve ser equilibrada entre o excesso (fogo) e a destruição (abismo).
+> 
+> *Os exemplos de castidade*: "Virum non cognosco" (Maria), Diana e Élice representam a pureza sexual como remédio contra a luxúria.
+> 
+> *Summae Deus clementiae*: Hino a São Gregório Magno, mostrando a misericórdia divina que permite a purificação.
+
 A essa altura do Purgatório, o sol já havia deixado o signo de Touro para ocupar o círculo do meio-dia, enquanto a noite reinava sobre Escorpião. Subíamos por uma passagem tão estreita que obrigava cada um a seguir na frente do outro, um degrau de cada vez. Eu me sentia como um filhote de cegonha que ergue as asas, ansioso para voar, mas sem coragem de abandonar o ninho — desejo e medo se alternavam dentro de mim, adiando a pergunta que queimava em meus lábios. Eu queria saber, queria perguntar, mas algo me travava, mesmo enquanto me preparava para falar.
 
 Meu doce mestre não me deixou na dúvida. Apesar do ritmo acelerado da caminhada, ele notou minha hesitação.

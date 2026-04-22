@@ -10,6 +10,20 @@ summary = ' '
 weight = 23
 +++
 
+> No sexto terraço, Dante encontra os gulosos que purificam seu pecado através da fome extrema. Ele reconhece Forese Donati, que explica como as orações de sua esposa Nella aceleraram sua purificação. Forese critica as mulheres de Florença e profetiza punições futuras. Dante revela sua identidade e sua jornada guiada por Virgílio e Estácio.
+
+---
+
+> *A punição da gula*: Os gulosos sofrem fome extrema enquanto são tentados pelo perfume de frutos e água, simbolizando como o excesso é purificado pela privação.
+> 
+> *Forese Donati*: Poeta florentino e contemporâneo de Dante, representa a conversão tardia e o poder das orações dos vivos.
+> 
+> *Nella*: Esposa de Forese, cujas orações aceleraram sua purificação, mostrando a eficácia da intercessão dos vivos.
+> 
+> *A crítica às mulheres florentinas*: Forese profetiza punições para a imodéstia das mulheres de sua época, refletindo a visão moral de Dante.
+> 
+> *A velocidade da purificação*: Forese explica que chegou rápido ao sexto terraço devido às orações, mostrando como a graça pode acelerar o processo.
+
 Meus olhos estavam cravados na folhagem densa, tentando decifrar o verde vibrante da árvore acima, como um caçador que desperdiça a vida esperando o movimento de um pássaro entre os galhos. O tempo parecia suspenso, mas a realidade do Purgatório não permitia hesitação. Senti a mão firme de Virgílio, meu guia, meu pai intelectual e protetor, que me chamou de volta à urgência da nossa missão.
 
 — Venha agora, meu filho — disse ele, com aquela serenidade que sempre escondia um propósito maior. — O tempo que nos foi concedido precisa ser administrado com mais sabedoria.

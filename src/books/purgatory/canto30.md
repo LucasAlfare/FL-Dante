@@ -10,6 +10,20 @@ summary = ' '
 weight = 30
 +++
 
+> Beatrice desce do carro celestial em uma nuvem de flores, revelando-se a Dante. Ele chora por emoção e pela ausência de Virgílio, que partiu. Beatrice repreende Dante por ter se desviado do caminho certo após sua morte, seguindo falsos bens. Ela explica como tentou chamá-lo de volta através de inspirações e sonhos, e finalmente interveio diretamente para salvá-lo.
+
+---
+
+> *A revelação de Beatrice*: O momento culminante da jornada terrena, quando Beatrice se revela como guia espiritual, substituindo Virgílio.
+> 
+> *A partida de Virgílio*: Simboliza o fim da razão humana como guia e o início da revelação divina através da teologia.
+> 
+> *A repreensão de Beatrice*: Ela acusa Dante de ter abandonado o caminho verdadeiro após sua morte, buscando bens falsos.
+> 
+> *A intervenção divina*: Beatrice explica como visitou o Inferno e pediu a Virgílio para guiar Dante, mostrando a graça divina.
+> 
+> *O Letes*: Mencionado como necessário para purificação antes de provar o manjar celestial.
+
 A constelação do Norte, no céu primordial que nunca conhece ocaso ou nascer do sol, apenas o véu da culpa, parou imóvel. Todas as almas verdadeiras que haviam chegado antes entre o grifo e aquela estrela se voltaram para o carro como quem encontra sua paz. Então um deles, como enviado do céu, gritou três vezes cantando: “Vem, esposa, do Líbano” — e todos os outros repetiram.
 
 Como os bem-aventurados se levantarão no chamado final, cada um de sua cova, com a voz revestida de aleluias, assim, sobre o divino veículo, cem se ergueram — ministros e mensageiros da vida eterna. Todos diziam: “Bendito aquele que vem!”, atirando flores para cima e em volta. “Dai lírios com as mãos cheias!”

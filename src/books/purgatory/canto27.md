@@ -10,6 +10,20 @@ summary = ' '
 weight = 27
 +++
 
+> Um anjo guia Dante, Virgílio e Estácio através do fogo purificador do sétimo terraço. Dante, com medo do fogo, é convencido por Virgílio mencionando Beatriz. Eles sobem ao topo do Purgatório, onde Virgílio anuncia que Dante agora está livre para seguir seu próprio arbítrio. Dante sonha com Lia e Raquel, simbolizando a vida contemplativa e ativa. Virgílio se despede, coroando Dante como seu próprio guia.
+
+---
+
+> *O fogo purificador*: Representa o último e mais intenso teste de purificação, simbolizando como o amor divino consome o pecado sem destruir a alma.
+> 
+> *Lia e Raquel*: No sonho, Lia representa a vida ativa (enfeitar-se), Raquel a contemplativa (contemplar o espelho), simbolizando os dois caminhos para Deus.
+> 
+> *A coroação de Dante*: Virgílio declara Dante livre e soberano em suas escolhas, representando a maturidade espiritual alcançada.
+> 
+> *O topo do Purgatório*: O momento em que Dante transcende a necessidade de guias humanos, preparando-se para o encontro com Beatrice.
+> 
+> *O pôr do sol*: Simboliza o fim da jornada terrena e o início da visão celestial.
+
 Era como aqueles momentos em que os primeiros raios do sol vibram sobre o lugar onde seu Criador derramou o sangue, enquanto o rio Iber corre sob a balança de Libra, e as águas do Ganges já ardem sob o calor da nona hora. Assim estava o sol, e o dia se despedia quando o anjo de Deus surgiu diante de nós, radiante.
 
 Ele estava fora da chama, na borda do caminho, e cantava: *“Bem-aventurados os puros de coração!”* — com uma voz muito mais viva do que a nossa. Depois, ao nos aproximarmos, disse:
