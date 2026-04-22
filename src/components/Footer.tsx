@@ -26,7 +26,7 @@ const Footer: React.FC = () => {
         onClick={previousChapter}
         disabled={isFirstChapter}
       >
-        <span>â</span>
+        <span>←</span>
         <span className="hidden lg:inline">Anterior</span>
       </button>
 
@@ -40,7 +40,7 @@ const Footer: React.FC = () => {
         disabled={isLastChapter}
       >
         <span className="hidden lg:inline">Próximo</span>
-        <span>â</span>
+        <span>→</span>
       </button>
     </footer>
   );
