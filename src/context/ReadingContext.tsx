@@ -8,6 +8,8 @@ interface ReadingState {
   currentChapter: number;
   globalChapter: number;
   content: string;
+  summary: string;
+  notes: string;
   loading: boolean;
   error: string | null;
 }
@@ -36,8 +38,48 @@ const bookChapterToGlobal = (book: BookType, chapter: number): number => {
 };
 
 
+// Function to parse markdown content and extract summary, notes, and main content
+const parseMarkdownContent = (content: string): { summary: string; notes: string; content: string } => {
+  // Remove TOML header
+  const headerEnd = content.indexOf('+++', content.indexOf('+++') + 1);
+  const afterHeader = headerEnd !== -1 ? content.slice(headerEnd + 3).trim() : content;
+  
+  // Split by the separator ---
+  const separatorIndex = afterHeader.indexOf('\n---\n');
+  
+  if (separatorIndex === -1) {
+    // No separator, treat everything as content
+    return {
+      summary: '',
+      notes: '',
+      content: afterHeader
+    };
+  }
+  
+  const beforeSeparator = afterHeader.substring(0, separatorIndex);
+  const afterSeparator = afterHeader.substring(separatorIndex + 5); // +5 to skip \n---\n
+  
+  // Extract summary (first > block before separator)
+  const summaryMatch = beforeSeparator.match(/^>\s*(.+)$/m);
+  const summary = summaryMatch ? summaryMatch[1].trim() : '';
+  
+  // Extract notes (all > blocks after separator)
+  const notesLines = afterSeparator.split('\n').filter(line => line.trim().startsWith('>'));
+  const notes = notesLines.map(line => line.trim().substring(1).trim()).join('\n');
+  
+  // Extract main content (lines that don't start with >)
+  const contentLines = afterSeparator.split('\n').filter(line => !line.trim().startsWith('>'));
+  const mainContent = contentLines.join('\n').trim();
+  
+  return {
+    summary,
+    notes,
+    content: mainContent
+  };
+};
+
 // Function to load chapter content
-const loadChapterContent = async (book: BookType, chapter: number): Promise<string> => {
+const loadChapterContent = async (book: BookType, chapter: number): Promise<{ summary: string; notes: string; content: string }> => {
   const filePath = `/src/books/${book}/canto${chapter}.md`;
   const response = await fetch(filePath);
   
@@ -45,13 +87,8 @@ const loadChapterContent = async (book: BookType, chapter: number): Promise<stri
     throw new Error(`Failed to load chapter: ${book} canto ${chapter}`);
   }
 
-  const content = await response.text();
-  return removeHeader(content);
-};
-
-const removeHeader = (content: string): string => {
-  const headerEnd = content.indexOf('+++', content.indexOf('+++') + 1);
-  return headerEnd !== -1 ? content.slice(headerEnd + 3).trim() : content;
+  const rawContent = await response.text();
+  return parseMarkdownContent(rawContent);
 };
 
 export const ReadingProvider: React.FC<{ children: ReactNode }> = ({ children }) => {
@@ -60,6 +97,8 @@ export const ReadingProvider: React.FC<{ children: ReactNode }> = ({ children })
     currentChapter: 1,
     globalChapter: 1,
     content: '',
+    summary: '',
+    notes: '',
     loading: true,
     error: null,
   });
@@ -114,10 +153,12 @@ export const ReadingProvider: React.FC<{ children: ReactNode }> = ({ children })
     const loadContent = async () => {
       setState(prev => ({ ...prev, loading: true, error: null }));
       try {
-        const chapterContent = await loadChapterContent(state.currentBook, state.currentChapter);
+        const { summary, notes, content } = await loadChapterContent(state.currentBook, state.currentChapter);
         setState(prev => ({
           ...prev,
-          content: chapterContent,
+          summary,
+          notes,
+          content,
           loading: false,
           error: null,
         }));

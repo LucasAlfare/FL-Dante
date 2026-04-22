@@ -1,7 +1,10 @@
 import React, { useState } from 'react';
+import ReactMarkdown from 'react-markdown';
+import { useReading } from '../context/ReadingContext';
 
 const RightPanel: React.FC = () => {
   const [isExpanded, setIsExpanded] = useState(false);
+  const { state } = useReading();
 
   const togglePanel = () => {
     setIsExpanded(!isExpanded);
@@ -33,26 +36,64 @@ const RightPanel: React.FC = () => {
         <div className="flex-1 px-4 py-2 overflow-y-auto">
           <div className="space-y-4">
             {/* Seção Resumo do Canto */}
-            <section>
-              <h3 className="text-sm font-bold text-gray-800 mb-2 uppercase tracking-wide">
-                Resumo do Canto
-              </h3>
-              <div className="border-b border-gray-300 mb-3"></div>
-              <p className="text-sm text-gray-600 leading-relaxed">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
-              </p>
-            </section>
+            {state.summary && (
+              <section>
+                <h3 className="text-sm font-bold text-gray-800 mb-2 uppercase tracking-wide">
+                  Resumo do Canto
+                </h3>
+                <div className="border-b border-gray-300 mb-3"></div>
+                <div className="text-sm text-gray-600 leading-relaxed">
+                  <ReactMarkdown
+                    components={{
+                      p: ({ children }) => (
+                        <p className="mb-2">{children}</p>
+                      ),
+                      strong: ({ children }) => (
+                        <span className="font-semibold">{children}</span>
+                      ),
+                      em: ({ children }) => (
+                        <span className="italic">{children}</span>
+                      )
+                    }}
+                  >
+                    {state.summary}
+                  </ReactMarkdown>
+                </div>
+              </section>
+            )}
 
             {/* Seção Notas */}
-            <section>
-              <h3 className="text-sm font-bold text-gray-800 mb-2 uppercase tracking-wide">
-                Notas
-              </h3>
-              <div className="border-b border-gray-300 mb-3"></div>
-              <p className="text-sm text-gray-600 leading-relaxed">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
-              </p>
-            </section>
+            {state.notes && (
+              <section>
+                <h3 className="text-sm font-bold text-gray-800 mb-2 uppercase tracking-wide">
+                  Notas
+                </h3>
+                <div className="border-b border-gray-300 mb-3"></div>
+                <div className="text-sm text-gray-600 leading-relaxed">
+                  <ReactMarkdown
+                    components={{
+                      p: ({ children }) => (
+                        <p className="mb-2">{children}</p>
+                      ),
+                      strong: ({ children }) => (
+                        <span className="font-semibold">{children}</span>
+                      ),
+                      em: ({ children }) => (
+                        <span className="italic">{children}</span>
+                      ),
+                      ul: ({ children }) => (
+                        <ul className="list-disc list-inside mb-2">{children}</ul>
+                      ),
+                      li: ({ children }) => (
+                        <li className="mb-1">{children}</li>
+                      )
+                    }}
+                  >
+                    {state.notes}
+                  </ReactMarkdown>
+                </div>
+              </section>
+            )}
           </div>
         </div>
       )}
