@@ -8,13 +8,10 @@ const RightPanel: React.FC = () => {
   };
 
   return (
-    <aside className={`h-full border-l border-gray-200 transition-all duration-300 ease-in-out ${isExpanded ? 'w-[200px]' : 'w-[40px]'} flex items-center justify-end`}>
-      {isExpanded && (
-        <span className="font-medium mr-2">Right</span>
-      )}
+    <aside className={`h-full border-l border-gray-200 transition-all duration-300 ease-in-out ${isExpanded ? 'w-[300px]' : 'w-[40px]'} flex flex-col`}>
       <button 
         onClick={togglePanel}
-        className="p-2 hover:bg-gray-100 transition-colors duration-200 rounded-l-lg"
+        className="p-2 hover:bg-gray-100 transition-colors duration-200 rounded-l-lg self-end"
         aria-label={isExpanded ? 'Collapse right panel' : 'Expand right panel'}
       >
         <svg 
@@ -31,6 +28,34 @@ const RightPanel: React.FC = () => {
           />
         </svg>
       </button>
+      
+      {isExpanded && (
+        <div className="flex-1 px-4 py-2 overflow-y-auto">
+          <div className="space-y-4">
+            {/* Seção Resumo do Canto */}
+            <section>
+              <h3 className="text-sm font-bold text-gray-800 mb-2 uppercase tracking-wide">
+                Resumo do Canto
+              </h3>
+              <div className="border-b border-gray-300 mb-3"></div>
+              <p className="text-sm text-gray-600 leading-relaxed">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+              </p>
+            </section>
+
+            {/* Seção Notas */}
+            <section>
+              <h3 className="text-sm font-bold text-gray-800 mb-2 uppercase tracking-wide">
+                Notas
+              </h3>
+              <div className="border-b border-gray-300 mb-3"></div>
+              <p className="text-sm text-gray-600 leading-relaxed">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+              </p>
+            </section>
+          </div>
+        </div>
+      )}
     </aside>
   );
 };
