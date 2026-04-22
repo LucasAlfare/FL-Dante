@@ -1,7 +1,7 @@
 import React, { createContext, useContext, useState, useEffect } from 'react';
 import type { ReactNode } from 'react';
 
-type BookType = 'inferno' | 'purgatory' | 'paradise';
+export type BookType = 'inferno' | 'purgatory' | 'paradise';
 
 interface ReadingState {
   currentBook: BookType;
