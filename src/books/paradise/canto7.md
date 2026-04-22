@@ -10,9 +10,25 @@ prev = 'divina_comedia/paraiso/canto6'
 next = 'divina_comedia/paraiso/canto8'
 +++
 
-_Desaparecem os bem-aventurados cantando. Beatriz explica como a crucificação de Cristo restituiu ao homem a dignidade perdida, a liberdade que lhe foi conferida por Deus. Os anjos e os homens, por sua natureza, são livres e imortais. O homem, porém, pecando, abusou de sua liberdade e deformou a imagem de Deus que tinha em si. Não podia reparar a falta por si mesmo, pois não podia humilhar-se tanto quanto Adão, que em seu orgulho quis se elevar. A Deus convinha perdoar ou punir. Em sua sabedoria infinita, Deus perdoou e puniu ao mesmo tempo. Puniu a humanidade em Jesus Cristo, e nele a fez novamente livre._
+> Neste canto teológico fundamental, Beatriz explica o mistério da redenção através da crucificação de Cristo. Ela descreve como o pecado original deformou a imagem de Deus no homem, tornando a humanidade incapaz de redimir-se por si mesma. Beatriz explica que Deus, em sua sabedoria infinita, resolveu o dilema da justiça divina perdoando e punindo simultaneamente através do sacrifício de Cristo. A crucificação restituiu ao homem a dignidade perdida e a liberdade original. O canto estabelece a distinção entre criaturas mortais (humanos) e imortais (anjos), e explica como a encarnação do Verbo divino foi o único caminho para reconciliar a justiça com a misericórdia divina.
 
 ---
+
+> **O dilema da justiça divina:** Como Deus poderia ser justo (punindo o pecado) e misericordioso (perdoando) ao mesmo tempo? A solução está em Cristo, que sendo divino e humano, pode receber a punição em nome da humanidade.
+> 
+> **Livre arbítrio e pecado:** O homem abusou da liberdade concedida por Deus, deformando a imagem divina em si. Esta deformação tornou impossível a auto-redenção humana.
+> 
+> **Adão vs Cristo:** Adão, em seu orgulho, quis elevar-se a Deus; Cristo, em humildade, humilhou-se até tornar-se homem. Esta inversão é central para a teologia da redenção.
+> 
+> **Natureza angélica vs humana:** Os anjos são puros espírito, imortais e imutáveis; os humanos são compostos de matéria e espírito, mortais e sujeitos à corrupção.
+> 
+> **A encarnação:** O Verbo divino assumindo natureza humana foi o único meio de restaurar a ordem cósmica perturbada pelo pecado.
+> 
+> **Justiça vingativa:** O conceito de que a justiça divina exigia reparação pelo pecado, reparação esta que Cristo proporcionou através de seu sacrifício.
+> 
+> **Ressurreição:** A promessa de que o corpo humano, mesmo corrupto, será restaurado, completando a obra da redenção iniciada na alma.
+> 
+> **Providência divina:** O plano eterno de Deus que, através da história da salvação, guia a humanidade de volta à comunhão com Ele.
 
 A névoa de luz ao meu redor oscilava como uma melodia distante, quase indistinguível. Eu estava imerso no brilho sublime e inebriante desse espaço divino, quando ouvi os cânticos — vozes serenas que pareciam surgir das próprias estrelas. Elas ressoavam, elevando-se em uníssono: “Osanna, sanctus Deus sabaòth”, palavras tão profundas que meu espírito mal podia conter. A substância celestial dançava diante de meus olhos, movendo-se com uma graça incompreensível, como faíscas atravessando o céu, distanciando-se tão rápido que em um piscar de olhos desapareceram na vastidão do Paraíso.
 

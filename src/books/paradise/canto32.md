@@ -10,9 +10,25 @@ prev = 'divina_comedia/paraiso/canto31'
 next = 'divina_comedia/paraiso/canto33'
 +++
 
-_São Bernardo esclarece a Dante a composição da rosa do Paraíso. De um lado estão os santos cristãos; do outro, os hebreus que acreditaram no Cristo que devia vir. Entre uns e outros, a Virgem Maria. Embaixo de Maria, mulheres hebraicas; mais embaixo, as crianças mortas logo depois do batismo._
+> Neste canto, São Bernardo explica a Dante a composição da rosa celestial do Paraíso. Ele descreve como a rosa está dividida: de um lado estão os santos cristãos que acreditaram em Cristo após sua vinda; do outro, os hebreus que acreditaram no Cristo que devia vir. No centro, entre os dois grupos, está a Virgem Maria. Abaixo de Maria estão as mulheres hebraicas como Sara, Rebeca e Judite, e mais abaixo as crianças mortas logo após o batismo, salvas pela fé de outros. Bernardo explica que esta organização reflete o grau de fé e a profundidade da graça recebida por cada alma, estabelecendo a continuidade entre o Antigo e o Novo Testamento na salvação.
 
 ---
+
+> **Rosa celestial dividida:** A separação entre hebreus e cristãos representa a unidade da salvação através da fé em Cristo, antes e depois de sua vinda.
+> 
+> **Virgem Maria como centro:** Sua posição central estabelece seu papel como mediadora entre o Antigo e o Novo Testamento.
+> 
+> **Mulheres hebraicas:** A presença de Sara, Rebeca, Judite e outras representa a fé feminina no Antigo Testamento e sua importância na salvação.
+> 
+> **Crianças batizadas:** As crianças mortas após o batismo representam a salvação através da fé da Igreja e os méritos de Cristo.
+> 
+> **Eva e Maria:** A menção à ferida que Maria curou e que Eva causou estabelece o contraste entre a queda e a redenção.
+> 
+> **Raquel e Beatriz:** A presença de Raquel ao lado de Beatriz representa a continuidade entre a sabedoria do Antigo Testamento e a revelação cristã.
+> 
+> **Salvação pelos méritos de outros:** A doutrina de que algumas almas são salvas pelos méritos de Cristo e da Igreja.
+> 
+> **Inocência infantil:** As crianças mantêm sua inocência eterna, representando a pureza necessária para contemplar Deus.
 
 Eu estava ali, extasiado pela visão, quando aquele guia, sempre atento aos meus questionamentos internos, assumiu novamente o papel de mestre. Ele iniciou sua explicação com palavras que ressoavam como a mais pura verdade: "A ferida que Maria curou, aquela que tão graciosamente se senta aos seus pés, foi aberta pela mulher que ali está, a mesma que a causou. E, no degrau abaixo dela, você vê Raquel, ao lado de Beatriz, como já pode perceber." Eu escutava, tentando absorver o significado mais profundo de suas palavras, enquanto meus olhos percorriam as figuras que ele apontava. "Ali estão Sara, Rebeca, Judite e a bisavó daquele que, pela dor do pecado, clamou 'Miserere mei'. Elas, junto com outras almas, descem como uma escada de flor em flor, de degrau em degrau, até onde o olhar humano pode alcançar."
 

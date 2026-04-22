@@ -10,9 +10,25 @@ prev = 'divina_comedia/paraiso/canto3'
 next = 'divina_comedia/paraiso/canto5'
 +++
 
-_Duas dúvidas agitam o espírito do Poeta. A primeira é relativa à doutrina platônica, segundo a qual todas as almas voltam para as estrelas de onde saíram. A outra é: se a violência tolhe a liberdade, como pode ser justo que as almas forçadas a romper os votos tenham desconto de glória? Beatriz responde à primeira dúvida restringindo o sentido da doutrina platônica. Em relação à segunda, ela diz que aquelas almas não consentiram no mal, mas não o repararam voltando ao claustro, quando tiveram a possibilidade de fazê-lo._
+> Neste canto, Beatriz resolve duas dúvidas fundamentais de Dante sobre a justiça divina. A primeira concerne à doutrina platônica do retorno das almas às estrelas, que Beatriz interpreta simbolicamente, não literalmente. A segunda, mais complexa, questiona como a violência externa pode diminuir o mérito das almas que foram forçadas a quebrar votos. Beatriz distingue entre vontade absoluta e vontade relativa, explicando que mesmo sob coação, há sempre alguma escolha, e que as almas poderiam ter resistido ou retornado ao convento quando possível. O canto estabelece princípios fundamentais sobre livre arbítrio, responsabilidade moral e a natureza da vontade humana.
 
 ---
+
+> **Doutrina platônica:** Dante dialoga com a filosofia platônica sobre a origem e destino das almas. Beatriz reinterpreta o "retorno às estrelas" como influência astrológica, não migração literal, mostrando a síntese medieval entre filosofia clássica e teologia cristã.
+> 
+> **Vontade absoluta vs relativa:** A distinção filosófica entre vontade total (que não cede sob nenhuma circunstância) e vontade parcial (que cede por medo de algo pior) é crucial para entender a responsabilidade moral.
+> 
+> **São Lourenço e Muzio Scevola:** Exemplos de mártires que resistiram à tortura, demonstrando que a vontade humana pode manter-se firme mesmo sob violência extrema.
+> 
+> **Daniel e Nabucodonosor:** A analogia com o profeta que interpreta sonhos mostra Beatriz como intérprete da verdade divina, capaz de decifrar os dilemas da alma humana.
+> 
+> **Justiça divina:** O canto explora o paradoxo da justiça divina: Deus é justo mesmo quando aparentemente puni aqueles que foram vítimas de violência.
+> 
+> **Livre arbítrio:** A discussão estabelece que o livre arbítrio nunca é completamente anulado, mesmo sob coação, fundamento da responsabilidade moral na teologia cristã.
+> 
+> **Hierarquia celestial:** A explicação de que Moisés, Samuel e João não estão em lugares mais altos por mérito, mas aparecem em diferentes esferas para fins pedagógicos, revela a estrutura didática do Paraíso.
+> 
+> **Dúvida como método:** O método dialógico de Dante, através de dúvidas e resoluções, reflete a tradição escolástica de busca da verdade através do questionamento.
 
 Eu estava dividido entre dois desejos conflitantes, preso numa encruzilhada mental. Era como encarar dois pratos igualmente tentadores, mas tão distantes entre si que qualquer escolha parecia impossível. Mais ainda: era como ser uma ovelha cercada por dois lobos famintos, sem saber para que lado correr. O silêncio ao meu redor nascia dessa hesitação, da necessidade de processar o turbilhão de dúvidas que tomava minha mente.
 

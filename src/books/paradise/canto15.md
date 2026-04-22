@@ -10,9 +10,25 @@ prev = 'divina_comedia/paraiso/canto14'
 next = 'divina_comedia/paraiso/canto16'
 +++
 
-_As almas dos combatentes pela fé em Cristo estão dispostas em forma de cruz, vexilo de martírio e de vitória. Do lado direito dessa cruz, move-se um espírito que, com paternal afeto, saúda Dante. É Cacciaguida, seu trisavô. Descreve ele a inocência dos costumes do seu tempo e lembra como morreu combatendo pelo sepulcro de Cristo, na segunda cruzada._
+> Neste canto, Dante encontra seu trisavô Cacciaguida no céu de Marte, onde as almas dos combatentes pela fé estão dispostas em forma de cruz luminosa. Cacciaguida saúda Dante com afeto paternal e revela detalhes sobre a Florença de seu tempo, descrevendo uma era de inocência, simplicidade e virtude que contrasta fortemente com a corrupção da Florença contemporânea de Dante. Ele narra sua própria morte como mártir na Segunda Cruzada, combatendo pelo Santo Sepulcro. O encontro estabelece uma conexão pessoal profunda entre Dante e sua linhagem, enquanto Cacciaguida profetiza o exílio futuro de Dante e lhe dá insights sobre sua missão poética e espiritual.
 
 ---
+
+> **Cacciaguida:** Trisavô de Dante, personagem histórica que morreu na Segunda Cruzada (1147-1149). Sua presença conecta Dante com sua nobre linhagem familiar.
+> 
+> **Florença antiga:** A descrição da Florença do tempo de Cacciaguida como uma cidade pequena, virtuosa e simples contrasta com a Florença corrupta do tempo de Dante.
+> 
+> **Segunda Cruzada:** Cacciaguida morreu combatendo na cruzada liderada por Conrado III, estabelecendo sua qualificação como mártir da fé.
+> 
+> **Cruz luminosa:** A formação das almas em cruz não apenas simboliza o martírio, mas também serve como "árvore genealógica" espiritual de Dante.
+> 
+> **Profecia do exílio:** Cacciaguida antecipa o exílio de Dante de Florença, preparando-o para sua provação futura e missão como poeta.
+> 
+> **Inocência antiga:** A idealização do passado como tempo de pureza moral é um tema comum na literatura medieval, usado para criticar o presente.
+> 
+> **Linhagem espiritual:** A conexão com Cacciaguida estabelece Dante como herdeiro não apenas de sangue, mas de virtude e missão espiritual.
+> 
+> **Santo Sepulcro:** A luta pela libertação dos lugares santos estabelece a legitimidade da causa cristã e do martírio de Cacciaguida.
 
 O calor abrasador da luz celestial parecia derreter meus pensamentos enquanto eu flutuava nas camadas superiores do Paraíso. O brilho à minha frente era intenso, mas não doloroso. Era como se cada raio tocasse minha alma, acendendo em mim uma sensação de propósito e compreensão que, até então, nunca havia experimentado. Beatrice, sempre ao meu lado, irradiava uma tranquilidade que eu ansiava alcançar, e em seus olhos havia algo mais profundo, uma promessa de redenção e alegria. Porém, naquele momento, meus pensamentos foram interrompidos pela súbita quietude ao meu redor. O som harmonioso das esferas celestiais cessou, como se o próprio céu estivesse se preparando para uma revelação divina.
 

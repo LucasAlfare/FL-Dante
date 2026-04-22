@@ -10,9 +10,25 @@ prev = 'divina_comedia/paraiso/canto21'
 next = 'divina_comedia/paraiso/canto23'
 +++
 
-_Outros espíritos bem-aventurados aproximam-se do Poeta, entre eles São Bento, o qual lhe indica alguns de seus santos companheiros; depois, lamenta profundamente a corrupção da ordem por ele fundada. Sobe, daí, o Poeta à oitava esfera, que é a das Estrelas Fixas._
+> Neste canto, outros espíritos bem-aventurados se aproximam de Dante, incluindo São Bento, que apresenta seus companheiros contemplativos como Macário e Romualdo. São Bento narra a fundação da ordem beneditina no Monte Cassino, onde libertou as aldeias da idolatria, mas lamenta profundamente a corrupção atual da ordem monástica, comparando os mosteiros decadentes a cavernas e criticando a ambição dos monges. Após o diálogo, Dante ascende à oitava esfera, a das Estrelas Fixas, de onde contempla a Terra como um pequeno globo e ganha uma nova perspectiva sobre a insignificância das preocupações mundanas em relação à ordem cósmica.
 
 ---
+
+> **São Bento:** Fundador da ordem beneditina (480-547), considerado o patriarca do monasticismo ocidental. Sua presença representa a vida contemplativa.
+> 
+> **Monte Cassino:** Mosteiro fundado por Bento, símbolo da conversão do paganismo ao cristianismo e da vida monástica pura.
+> 
+> **Corrupção monástica:** A crítica de Bento à decadência da ordem beneditina reflete a preocupação de Dante com a corrupção religiosa de seu tempo.
+> 
+> **Macário e Romualdo:** Santos eremitas que representam diferentes tradições da vida contemplativa cristã.
+> 
+> **Estrelas Fixas:** A oitava esfera representa o nível mais alto dos céus planetários, onde Dante ganha perspectiva cósmica.
+> 
+> **Visão da Terra:** A contemplação da Terra como pequeno globo simboliza a transcendência das preocupações mundanas.
+> 
+> **Ordem cósmica:** A visão dos sete planetas em suas órbitas estabelece a harmonia do universo criado por Deus.
+> 
+> **Progressão espiritual:** A ascensão contínua representa o avanço de Dante em sua compreensão espiritual e sua proximidade com Deus.
 
 O peso da maravilha que tomou conta de mim era avassalador. Me voltei imediatamente para Beatriz, minha guia, com o coração disparado, como uma criança assustada que busca conforto nos braços maternos. Seus olhos, sempre atentos, encontraram os meus, e ela sorriu com uma ternura que acalmava até a alma mais perturbada. Sua voz, firme e reconfortante, rompeu o silêncio como uma mãe que acode o filho pálido e ofegante: "Não percebes que estás no Céu? Não sabes que o Céu é sagrado e que tudo o que acontece aqui vem de um zelo divino?"
 

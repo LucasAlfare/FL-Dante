@@ -9,9 +9,21 @@ summary = ' '
 weight = 1
 +++
 
-_Seguindo as teorias de Ptolomeu, Dante coloca a Terra imóvel no centro do universo e, ao seu redor, em órbitas concêntricas, os céus da Lua, de Mercúrio, de Vênus, do Sol, de Marte, de Júpiter, de Saturno, a oitava esfera, que é a das estrelas fixas, a nona, ou primeiro móvel, e, finalmente, o Empíreo, que é imóvel. Transportado pela força que faz rodar os céus e pela luz sempre crescente de Beatriz, Dante eleva-se de um céu para outro, e em cada um deles lhe aparecem os espíritos bem-aventurados que, quando vivos, possuíram a virtude própria do respectivo planeta._
+> Neste canto inaugural do Paraíso, Dante inicia sua jornada celestial através das esferas celestes, acompanhado por Beatriz. O poeta é transportado do Purgatório para o céu da Lua, onde experimenta uma transformação espiritual e física. O canto estabelece a estrutura cosmológica da obra, baseada no modelo ptolomaico, e apresenta as dificuldades da linguagem humana para descrever as experiências divinas. Dante invoca a inspiração de Apolo e enfrenta suas primeiras dúvidas sobre a natureza de sua ascensão, sendo instruído por Beatriz sobre a ordem divina que governa o universo.
 
 ---
+
+> **Cosmologia ptolomaica:** Dante adota o modelo geocêntrico de Ptolomeu, com a Terra no centro e nove céus concêntricos. Esta estrutura não é apenas científica, mas também simbólica, representando diferentes níveis de perfeição e proximidade divina.
+> 
+> **Transumanar:** Termo criado por Dante para descrever a transcendência da condição humana. A referência a Glauco, que se tornou imortal ao comer uma erva mágica, simboliza a transformação espiritual que Dante experimenta ao entrar no reino celestial.
+> 
+> **Beatriz como guia:** A figura de Beatriz evolui de simples musa na Vita Nuova para guia divino na Divina Comédia. Ela representa a teologia e a sabedoria divina que ilumina o intelecto humano.
+> 
+> **A invocação a Apolo:** Diferente das invocações clássicas, Dante pede não apenas inspiração poética mas também capacidade de expressar o inexprimível. A menção aos "dois picos de Parnaso" sugere que precisa de mais inspiração do que nunca para esta última parte da jornada.
+> 
+> **A ordem divina:** O discurso de Beatriz sobre a ordem universal reflete a filosofia tomista, onde tudo no cosmos tem seu lugar e função determinados pela providência divina. Esta ordem é que permite a ascensão de Dante e a harmonia do universo.
+> 
+> **Luz e conhecimento:** A luz solar como metáfora do conhecimento divino é um tema central. A capacidade de Dante de olhar diretamente para o sol simboliza sua elevação espiritual e sua nova capacidade de compreender verdades divinas.
 
 A glória Daquele que move tudo penetra o universo e resplandece mais numa parte e menos noutra. Eu estive no céu que mais recebe a sua luz e vi coisas que quem desce de lá não sabe nem pode repetir — porque, ao se aproximar do seu desejo, nosso intelecto se aprofunda tanto que a memória não consegue acompanhar. No entanto, tudo o que pude guardar do reino santo será agora a matéria do meu canto.
 

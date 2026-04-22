@@ -9,9 +9,25 @@ type = 'docs'
 prev = 'divina_comedia/paraiso/canto32'
 +++
 
-_São Bernardo pede à Virgem Maria que conceda a Dante contemplar a Deus. O poeta vê um tríplice círculo no qual está revelada a Trindade divina. No círculo médio, vê figurada a efígie humana. No espírito de Dante, se forma o desejo de conhecer o modo da união da natureza divina com a humana. Um repentino esplendor lhe revela o mistério da encarnação de Cristo; e aqui termina a sublime visão._
+> Neste canto final, São Bernardo dirige uma oração à Virgem Maria para que conceda a Dante a visão beatífica de Deus. Dante então contempla a visão suprema: três círculos de luz entrelaçados representando a Trindade divina. No círculo médio, ele vê a imagem humana de Cristo. Dante deseja compreender o mistério da união entre as naturezas divina e humana, e um lampejo de iluminação lhe revela o mistério da encarnação. A visão culmina com a compreensão de que o amor divino é a força que move o sol e as estrelas, e sua própria vontade se une a este movimento cósmico. A Divina Comédia termina com a visão beatífica e a união da alma de Dante com o amor divino.
 
 ---
+
+> **Visão beatífica:** A visão final de Deus representa o ápice da jornada espiritual e a união mística com o divino.
+> 
+> **Trindade em três círculos:** Os três círculos de luz representam o Pai, Filho e Espírito Santo, unidos mas distintos.
+> 
+> **Imagem humana no círculo médio:** A presença da figura humana de Cristo no círculo médio simboliza a encarnação e a união das naturezas.
+> 
+> **Mistério da encarnação:** A revelação final sobre como o divino pode se unir ao humano representa o mistério central do cristianismo.
+> 
+> **Geômetra e círculo:** A metáfora do geômetra que não consegue medir o círculo representa os limites da razão humana diante do mistério divino.
+> 
+> **Amor como motor cósmico:** A conclusão de que o amor move o sol e as estrelas representa a força unificadora do universo.
+> 
+> **Vontade unida ao movimento divino:** A união da vontade de Dante com o movimento cósmico simboliza a união mística final.
+> 
+> **Fim e princípio:** A compreensão final de que o amor é o princípio e fim de tudo representa a conclusão filosófica da obra.
 
 Eu estava ali, diante do ápice de toda a jornada, sentindo o peso do destino que me guiava desde as profundezas até a luz mais pura e inalcançável. A emoção era avassaladora, mas não de um tipo que esmagava o espírito, e sim o elevava, como se uma força invisível e inegável estivesse abrindo caminho em minha alma, aproximando-me do incompreensível. Bernardo, ao meu lado, observava-me em silêncio, como um guia que conhece os segredos deste mundo, mas sabe que certas verdades só podem ser alcançadas sozinho. Ele sorriu suavemente, encorajando-me a levantar os olhos mais uma vez, e eu o fiz, tomado por uma curiosidade que ultrapassava qualquer desejo que já tivera na vida.
 

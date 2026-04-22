@@ -10,9 +10,25 @@ prev = 'divina_comedia/paraiso/canto12'
 next = 'divina_comedia/paraiso/canto14'
 +++
 
-_O Poeta descreve a dança das duas coroas de espíritos celestes. S. Tomás resolve a segunda dúvida de Dante. Adão e Jesus Cristo são seres perfeitíssimos por serem obra imediata de Deus. Mas ele não pode ser comparado nem a Adão nem a Jesus Cristo. Conclui o Santo advertindo sobre o perigo dos juízos precipitados e de quanto é sujeito a enganar-se quem julga as coisas pelas aparências._
+> Neste canto, São Tomás de Aquino resolve a segunda dúvida de Dante sobre a sabedoria de Salomão, explicando por que ele não pode ser comparado a Adão ou Cristo. Tomás ensina que Adão e Cristo foram obras diretas de Deus, portanto perfeitos, enquanto Salomão, embora tenha recebido grande sabedoria, não alcançou essa perfeição. O canto explora a natureza da criação divina e como a perfeição se degrada à medida que se afasta do ato criador original. Tomás adverte sobre o perigo dos julgamentos precipitados e como as aparências enganam, usando metáforas de espinheiros que dão rosas e navios rápidos que naufragam. A dança das duas coroas celestiais continua, simbolizando a harmonia do conhecimento divino.
 
 ---
+
+> **Obra direta de Deus:** A distinção entre criação direta (Adão, Cristo) e criação mediata (outros humanos) é fundamental para entender a hierarquia da perfeição na teologia medieval.
+> 
+> **Sabedoria de Salomão:** Tomás explica que Salomão pediu sabedoria prática para governar, não conhecimento teórico, diferenciando tipos de sabedoria.
+> 
+> **Degradação da perfeição:** A ideia de que a perfeição diminui à medida que se afasta da fonte divina reflete a concepção neoplatônica da emanação.
+> 
+> **Juízos precipitados:** A advertência de Tomás sobre julgar pelas aparências reflete um tema central na Divina Comédia sobre a diferença entre essência e aparência.
+> 
+> **Adão e Cristo:** Como as duas "obras diretas" de Deus, representam o início e o aperfeiçoamento da humanidade, o primeiro homem e o homem perfeito.
+> 
+> **Metáforas navais:** As imagens de navios que naufragam e espinheiros que florescem ilustram como as aparências externas não correspondem à realidade interior.
+> 
+> **Dança celestial:** A coreografia das duas coroas continua representando a harmonia entre diferentes tipos de conhecimento e serviço divino.
+> 
+> **Prudência real:** A sabedoria de Salomão é caracterizada como prudência governamental, não conhecimento especulativo, estabelecendo a diferença entre sabedoria prática e teórica.
 
 Os ventos sopravam frios quando entramos naquele reino de luz. O cenário ao meu redor era um espetáculo de estrelas, brilhando com uma clareza que nunca havia experimentado antes. Elas cintilavam no céu como joias que não pertenciam ao nosso mundo, mas que ainda assim, de alguma forma, comandavam o nosso destino. Quinze estrelas dominavam a vastidão celestial, espalhadas pelas diferentes regiões do firmamento, e cada uma delas parecia respirar serenidade. Era como se o universo inteiro estivesse aguardando em silêncio, observando cada movimento nosso, enquanto o carro celeste que carregava o firmamento continuava seu ciclo, sem jamais falhar, sua rotação implacável e precisa.
 

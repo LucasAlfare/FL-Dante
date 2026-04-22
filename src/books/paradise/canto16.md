@@ -10,9 +10,25 @@ prev = 'divina_comedia/paraiso/canto15'
 next = 'divina_comedia/paraiso/canto17'
 +++
 
-_O poeta orgulha-se da nobreza da sua família. Cacciaguida continua falando a respeito da própria família e da antiga Florença. Deplora a chegada em Florença de cidadãos de outras terras. Lembra as maiores famílias da cidade, muitas das quais, no tempo de Dante, estavam empobrecidas ou maculadas de infâmia._
+> Neste canto, Cacciaguida continua sua narrativa sobre a história de Florença e sua família, expressando orgulho de sua nobre linhagem. Ele descreve a pureza dos costumes da Florença antiga, quando a população era homogênea e virtuosa, e lamenta a chegada de estrangeiros que trouxeram corrupção e costumes estranhos. Cacciaguida enumera as grandes famílias florentinas de seu tempo, muitas das quais, na época de Dante, estavam em decadência, extintas ou manchadas pela infâmia. Ele menciona o casamento fracassado de Buondelmonte como ponto de virada que desencadeou a violência que marcaria Florença. O canto serve como lamento pela corrupção presente e nostalgia por uma idade de ouro perdida.
 
 ---
+
+> **Nobreza familiar:** Dante expressa orgulho de sua ascendência, estabelecendo sua legitimidade como crítico moral e político de Florença.
+> 
+> **Florença antiga vs moderna:** O contraste entre a Florença pura do passado e a corrupta do presente é tema central na crítica social de Dante.
+> 
+> **Famílias nobres:** A enumeração de famílias como Ughi, Catellini, Filippi, Greci estabelece a continuidade histórica e a decadência da nobreza florentina.
+> 
+> **Buondelmonte:** Referência a Buondelmonte de' Buondelmonti, cujo casamento fracassado em 1215 desencadeou a guerra entre guelfos e gibelinos.
+> 
+> **Estrangeiros em Florença:** A crítica à chegada de forasteiros reflete o xenofobismo medieval e a preocupação com a corrupção dos costumes locais.
+> 
+> **Lírio florentino:** O símbolo de Florença, "nunca manchado" no passado, agora está corrompido, representando a decadência moral da cidade.
+> 
+> **Cidades desaparecidas:** As menções a cidades como Luni, Orbisaglia, Chiusi e Sinigaglia ilustram como tudo no mundo é passageiro.
+> 
+> **530 anos:** O período desde a Anunciação até o nascimento de Cacciaguida estabelece sua posição na história sagrada.
 
 Enquanto caminhava pelas esferas luminosas, guiado pela presença etérea de Beatriz, meu espírito oscilava entre um sentimento de reverência e a curiosidade insaciável que me impelia a saber mais sobre as origens de minha linhagem. As almas que habitavam esse espaço celestial carregavam uma serenidade tão sublime que o próprio tempo parecia se dissolver diante de suas existências. Aqui, onde o desejo não se desvia da justiça divina, onde a glória é uma constante, senti uma profunda conexão com a minha ancestralidade. 
 

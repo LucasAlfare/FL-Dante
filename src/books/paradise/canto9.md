@@ -10,9 +10,25 @@ prev = 'divina_comedia/paraiso/canto8'
 next = 'divina_comedia/paraiso/canto10'
 +++
 
-_Depois de Carlos Martelo, fala a Dante Cunizza de Romano, irmã do tirano Ezzelino. Prediz-lhe iminentes desventuras na Marca de Treviso e em Pádua, e uma negra traição do bispo de Feltre. Folco de Marselha manifesta-se a Dante e lhe indica a alma resplendente de Raab, que favoreceu os hebreus na conquista da Terra Santa. Invectiva contra Florença e contra a Cúria Romana._
+> Neste canto, continuando no céu de Vênus, Dante encontra Cunizza de Romano, irmã do tirano Ezzelino, que faz profecias sobre desventuras iminentes na região italiana. Em seguida, Folco de Marselha se manifesta, indicando a alma de Raab, a prostituta que ajudou os hebreus na conquista de Jericó. O canto contém veementes críticas de Dante contra Florença e a corrupção da Cúria Romana. As almas de Vênus, marcadas por paixões amorosas terrenas, agora transformadas em amor divino, oferecem uma perspectiva crítica sobre a corrupção política e religiosa de sua época, demonstrando como o amor mal direcionado pode ser redimido e transformado em força profética.
 
 ---
+
+> **Cunizza de Romano:** Irmã do tirano Ezzelino III da Romano, conhecida por sua vida amorosa e posterior conversão religiosa. Sua presença mostra como o amor terreno pode ser transformado em amor divino.
+> 
+> **Folco de Marselha:** Trovador provençal que se tornou bispo, sua vida exemplifica a transição do amor cortês para o amor divino, tema central do céu de Vênus.
+> 
+> **Raab:** A prostituta cananeia que ajudou os espiões hebreus em Jericó, tornando-se ancestral de Cristo. Sua presença simboliza como Deus pode redimir até os mais pecadores.
+> 
+> **Profecias políticas:** As predições sobre desastres na Marca de Treviso e Pádua refletem as turbulências políticas da Itália medieval e a visão profética de Dante.
+> 
+> **Crítica a Florença:** A invectiva contra Florença continua a crítica de Dante à sua cidade natal, culpando-a por corrupção moral e política.
+> 
+> **Cúria Romana:** A crítica à corrupção eclesiástica antecipa temas que serão desenvolvidos mais amplamente no Canto XIX.
+> 
+> **Rios italianos:** As referências geográficas (Tagliamento, Adige, Sile, Cagnan) situam as profecias no contexto político específico do norte da Itália.
+> 
+> **Amor transformado:** O canto demonstra como as paixões terrenas, quando redimidas, podem se tornar fontes de sabedoria e visão profética.
 
 Enquanto eu me encontrava diante da luz vibrante e inebriante, as palavras de Carlo, claras como o próprio destino, ecoavam em minha mente. Ele havia me revelado os enganos que a sua descendência sofreria, mas com uma sabedoria amarga, sussurrara: "Taci e deixa o tempo seguir seu curso." A aflição inevitável do futuro estava selada, e por mais que me incomodasse, eu sabia que não havia mais nada a ser dito. Tudo o que restava era esperar pela justiça que seguiria os infortúnios que ele mencionara, e que, como lágrimas inevitáveis, um dia viria.
 

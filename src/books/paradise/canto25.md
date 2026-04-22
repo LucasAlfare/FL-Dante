@@ -10,9 +10,25 @@ prev = 'divina_comedia/paraiso/canto24'
 next = 'divina_comedia/paraiso/canto26'
 +++
 
-_São Tiago examina o Poeta sobre a Esperança, perguntando em que ela consiste, se ele a possui e de onde veio nele. À segunda pergunta responde Beatriz; às outras duas responde Dante. Aproxima-se S. João Evangelista e diz a Dante que o seu corpo, apesar da comum opinião, morrendo, ficara na Terra._
+> Neste canto, São Tiago examina Dante sobre a esperança, fazendo três perguntas: em que consiste a esperança, se Dante a possui, e de onde veio. Beatriz responde à segunda pergunta, afirmando que Dante é o filho com maior esperança da Igreja militante. Dante responde às outras perguntas, definindo a esperança como "expectativa certa da glória futura" produzida pela graça divina e mérito precedente. Ele cita Isaías sobre a dupla veste que as almas receberão. Em seguida, São João Evangelista se aproxima e corrige a crença comum de que seu corpo foi levado ao céu, esclarecendo que seu corpo permanece na Terra enquanto apenas sua alma ascendeu.
 
 ---
+
+> **São Tiago Maior:** Irmão de João e primeiro mártir entre os apóstolos, sua presença representa a virtude da esperança na teologia cristã.
+> 
+> **Esperança como virtude teologal:** A definição de Dante estabelece a esperança como segunda das três virtudes teologais, após a fé examinada por Pedro.
+> 
+> **Dupla veste de Isaías:** A referência a Isaías 61:10 simboliza a glória futura e a ressurreição dos corpos.
+> 
+> **Beatriz como intercessora:** Sua resposta em nome de Dante estabelece seu papel como mediadora e defensora da alma de Dante.
+> 
+> **São João Evangelista:** O "discípulo amado" representa a virtude da caridade, completando o trio das virtudes teologais.
+> 
+> **Corpo de João na Terra:** A correção sobre o destino do corpo de João estabelece a doutrina da ressurreição final e combate superstições.
+> 
+> **Graça e mérito:** A explicação de Dante sobre a origem da esperança reflete a teologia medieval sobre a cooperação entre graça divina e mérito humano.
+> 
+> **Igreja militante vs triunfante:** A distinção estabelecida por Beatriz reflete a visão medieval da Igreja na Terra versus a Igreja no céu.
 
 Tudo ao meu redor parecia girar lentamente enquanto a luz celestial me envolvia. As palavras de Beatriz, doces como o som do vento que acaricia as folhas de uma árvore, ainda ecoavam na minha mente. Ela estava ao meu lado, sorrindo com uma serenidade que só aqueles que transcenderam os tormentos do mundo podem expressar. Sua presença era um lembrete constante de que eu estava além dos limites terrenos, em um reino onde as emoções mais profundas encontravam seus significados verdadeiros. O ar estava carregado com uma energia que eu mal conseguia entender, mas que me preenchia de esperança e uma curiosidade insaciável.
 

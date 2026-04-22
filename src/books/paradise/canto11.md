@@ -10,9 +10,25 @@ prev = 'divina_comedia/paraiso/canto10'
 next = 'divina_comedia/paraiso/canto12'
 +++
 
-_Dante elogia a vida contemplativa. As palavras proferidas no canto anterior por S. Tomás criam duas dúvidas no ânimo do poeta. O santo, tratando de resolver a primeira, esboça a vida de S. Francisco de Assis._
+> Neste canto, São Tomás de Aquino resolve as dúvidas de Dante sobre a sabedoria e a superioridade da vida contemplativa, usando a vida de São Francisco de Assis como exemplo. Tomás explica que Deus providenciou dois guias para a Igreja: Francisco, representando a caridade apostólica como um serafim, e Domingos, representando a sabedoria como um querubim. O canto narra a vida de Francisco desde seu nascimento em Assis, seu casamento com a Senhora Pobreza, a fundação da ordem franciscana, sua viagem ao Oriente em busca do martírio, e o recebimento dos estigmas. A história serve como paradigma da vida contemplativa e da renúncia ao mundo em favor do amor divino.
 
 ---
+
+> **Vida contemplativa vs ativa:** O canto estabelece a superioridade da contemplação sobre a ação, tema central na teologia medieval e na própria vida de Dante.
+> 
+> **Francisco e Domingos:** Os dois pilares da Igreja medieval representam as duas vias perfeitas: Francisco (caridade/serafim) e Domingos (sabedoria/querubim).
+> 
+> **Senhora Pobreza:** A personificação da pobreza como dama celestial reflete a visão franciscana da pobreza como virtude e esposa espiritual.
+> 
+> **Assis como "Oriente":** A cidade natal de Francisco é chamada de Oriente simbolicamente, pois daí surgiu a luz que iluminaria a Igreja.
+> 
+> **Os primeiros seguidores:** Bernardo, Egídio e Silvestre representam os primeiros discípulos que abandonaram tudo para seguir Francisco, exemplificando a renúncia radical.
+> 
+> **Inocêncio III:** A aprovação papal da ordem franciscana representa o reconhecimento institucional do movimento franciscano pela Igreja.
+> 
+> **Viagem ao Sultão:** A tentativa de Francisco de pregar ao Sultão demonstra seu zelo missionário e seu desejo de martírio.
+> 
+> **Estigmas:** As chagas de Cristo recebidas por Francisco representam o ápice da identificação mística com Cristo e a perfeição da vida contemplativa.
 
 A escuridão de minha ignorância se dissipava enquanto subíamos, Beatriz me guiava através do céu, e cada camada de luz que ultrapassávamos parecia dar mais clareza ao que antes era obscurecido. A vastidão celestial era deslumbrante, e a sensação de elevação não era apenas física, mas também espiritual, como se meu próprio ser estivesse sendo purificado a cada instante. No entanto, a mente humana é teimosa, e dúvidas persistiam em minha cabeça. Havia algo que eu ainda não compreendia completamente, algo que me inquietava. 
 

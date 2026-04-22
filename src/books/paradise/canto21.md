@@ -10,9 +10,25 @@ prev = 'divina_comedia/paraiso/canto20'
 next = 'divina_comedia/paraiso/canto22'
 +++
 
-_Dante sobe do céu de Júpiter ao de Saturno, onde encontra as almas dos que se dedicaram na vida à celeste contemplação. Ele vê uma escada altíssima pela qual uma multidão de almas resplendentes vai subindo e descendo. São Pedro Damião vai ao encontro do poeta e lhe fala do dogma da predestinação._
+> Neste canto, Dante ascende do céu de Júpiter ao de Saturno, onde encontram-se as almas dos contemplativos, aqueles que se dedicaram à vida de meditação e oração profunda. Lá ele testemunha uma escada dourada pela qual inúmeras almas sobem e descem em movimento constante. São Pedro Damião desce para encontrar Dante e explica o mistério da predestinação, advertindo sobre os limites do conhecimento humano. Pedro Damião critica a corrupção da Igreja contemporânea, contrastando a humildade dos apóstolos com o luxo dos eclesiásticos de seu tempo. O canto estabelece Saturno como o céu da contemplação silenciosa, onde a alegria divina é tão intensa que não pode ser expressa através do canto.
 
 ---
+
+> **Saturno e a contemplação:** O céu de Saturno abriga os contemplativos, representando a virtude mais elevada da vida espiritual dedicada à meditação divina.
+> 
+> **Escada celestial:** A escada dourada simboliza a ascensão espiritual e a conexão entre o céu e a terra, reminiscente da escada de Jacó.
+> 
+> **São Pedro Damião:** Monge beneditino (1007-1072), reformador da Igreja, conhecido por seu ascetismo rigoroso e críticas à corrupção eclesiástica.
+> 
+> **Silêncio celestial:** A ausência de canto em Saturno deve à intensidade da alegria divina que transcende a expressão musical humana.
+> 
+> **Predestinação:** Pedro Damião explica que os mistérios da predestinação estão além da compreensão humana, advertindo contra a presunção intelectual.
+> 
+> **Crítica à Igreja:** A comparação entre a humildade dos apóstolos e o luxo dos eclesiásticos medievais continua a crítica de Dante à corrupção religiosa.
+> 
+> **Vida contemplativa:** A ênfase na contemplação como forma superior de vida espiritual estabelece a hierarquia das virtudes cristãs.
+> 
+> **Beleza de Beatriz:** A advertência sobre a beleza crescente de Beatriz estabelece a progressão da iluminação divina à medida que se ascende aos céus superiores.
 
 Eu já estava profundamente concentrado no rosto de Beatriz, meus olhos fixos em cada detalhe de sua expressão, enquanto minha mente também se entregava inteiramente a ela, incapaz de pensar em qualquer outra coisa. Havia algo nela que me prendia de uma forma indescritível, mas, desta vez, Beatriz não sorria. "Se eu sorrisse", ela começou, quebrando o silêncio com sua voz celestial, "você se tornaria como Semele, que se transformou em cinzas ao ver a verdadeira forma de Júpiter."
 

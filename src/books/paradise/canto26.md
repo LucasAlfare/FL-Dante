@@ -10,9 +10,25 @@ prev = 'divina_comedia/paraiso/canto25'
 next = 'divina_comedia/paraiso/canto27'
 +++
 
-_O apóstolo São João interroga Dante a respeito da terceira virtude teologal, a Caridade. Responde Dante, e seus conceitos são aplaudidos por toda a corte celeste. Beatriz reaviva no poeta a vista que estava ofuscada. Aproxima-se Adão, que lhe fala e esclarece alguns pontos duvidosos de Dante._
+> Neste canto, São João Evangelista examina Dante sobre a terceira virtude teologal, a caridade. Dante explica que o amor a Deus é guiado tanto por argumentos filosóficos quanto pela autoridade divina, e que todos os estímulos do mundo convergem para fortalecer seu amor pelo bem supremo. Suas respostas são aplaudidas pela corte celestial com o cântico "Santo, santo, santo!". Beatriz restaura a visão de Dante, que havia sido ofuscada pelo esplendor de João. Em seguida, Adão se aproxima como a "alma primordial" e se apresenta para responder às dúvidas de Dante sobre sua criação, tempo no Éden, expulsão e o idioma original que falava.
 
 ---
+
+> **Caridade como virtude teologal:** O exame sobre caridade completa o trio das virtudes teologais (fé, esperança e caridade) examinadas pelos apóstolos.
+> 
+> **Argumentos filosóficos e autoridade divina:** Dante estabelece que o amor a Deus se baseia tanto na razão humana quanto na revelação divina.
+> 
+> **Trisagion:** O cântico "Santo, santo, santo" representa a adoração da Trindade e aprovação divina das respostas de Dante.
+> 
+> **Adão como alma primordial:** Sua presença como primeiro homem representa a origem da humanidade e a fonte da linguagem original.
+> 
+> **Restauração da visão:** A intervenção de Beatriz simboliza o poder da sabedoria divina para restaurar a compreensão humana.
+> 
+> **Espelho da verdade divina:** Adão explica que pode ver os desejos de Dante refletidos na verdade divina, que não distorce a realidade.
+> 
+> **Amor como atração natural:** A explicação de Dante sobre como o bem naturalmente atrai amor reflete a teologia medieval do amor.
+> 
+> **Cristo e a redenção:** A menção à morte de Cristo como estímulo para o amor divino estabelece a centralidade da redenção.
 
 Enquanto eu ainda lutava para recuperar a visão, turvada pelo esplendor da chama que me havia ofuscado, algo inesperado aconteceu. Um sopro suave, vindo daquela mesma luz, atraiu minha atenção, como um chamado sutil, e a voz que emergiu do fogo foi clara e compassiva. "Enquanto tu te recuperas da cegueira que te sobreveio ao olhar para mim, é bom que o teu entendimento substitua a visão temporariamente perdida", disse a voz, e aquelas palavras, de algum modo, aliviaram minha inquietação. "Fala, portanto, e diz-me para onde tua alma está se voltando. Pensa que teus olhos estão apenas temporariamente sem luz, mas não sem vida, pois a mulher que te guia através deste reino tem o poder de restaurá-los, assim como a mão de Ananias curou os cegos."
 

@@ -10,9 +10,25 @@ prev = 'divina_comedia/paraiso/canto11'
 next = 'divina_comedia/paraiso/canto13'
 +++
 
-_Acabando São Tomás de falar, ajunta-se à primeira coroa de doze espíritos resplendentes mais uma coroa de igual número de espíritos. Um destes, São Boaventura, franciscano, tece louvores a São Domingos. Depois, dá notícia acerca dos seus companheiros._
+> Neste canto, uma segunda coroa de doze espíritos se une à primeira, formando dois círculos concêntricos que dançam em harmonia celestial. São Boaventura, franciscano, emerge como porta-voz da segunda coroa e faz um elogio a São Domingos, estabelecendo o equilíbrio entre as duas grandes ordens mendicantes. Boaventura narra a vida de Domingos, seu nascimento em Calaroga, sua luta contra as heresias e sua dedicação à vinha de Cristo. O canto também critica indiretamente a decadência das ordens religiosas, mencionando como os franciscanos se desviaram de seu caminho original. A harmonia entre as duas coroas simboliza a unidade entre caridade (Francisco) e sabedoria (Domingos) na Igreja.
 
 ---
+
+> **São Boaventura:** Teólogo franciscano (1221-1274), contemporâneo de Tomás de Aquino. Sua presença equilibra a homenagem a Domingos com a de Francisco feita por Tomás.
+> 
+> **Duas coroas concêntricas:** Representam as duas ordens mendicantes (dominicanos e franciscanos) e as duas vias de perfeição (sabedoria e caridade) que se complementam.
+> 
+> **Calaroga:** Local de nascimento de Domingos, na Espanha. O "grande escudo com leão" refere-se ao brasão de sua família.
+> 
+> **Luta contra heresias:** Domingos combateu os cátaros e outras heresias medievais, estabelecendo os dominicanos como defensores da ortodoxia.
+> 
+> **Crítica às ordens:** A menção à decadência das ordens religiosas reflete a preocupação de Dante com a corrupção eclesiástica de seu tempo.
+> 
+> **Casale e Acquasparta:** Referências a líderes franciscanos que, segundo Dante, desviaram-se dos ensinamentos originais.
+> 
+> **Arco-íris e Noé:** A imagem dos arcos de luz como arco-íris conecta com a aliança divina, simbolizando a paz e a reconciliação.
+> 
+> **Harmonia celestial:** A dança das duas coroas representa a perfeita harmonia que deve existir entre diferentes formas de serviço a Deus.
 
 Enquanto avançava pelo caminho divino, mal tive tempo de digerir as palavras da chama sagrada que acabara de se calar, quando, de repente, um movimento surpreendente se desenrolou diante de mim. Um círculo de luz começou a girar ao meu redor, como se o próprio cosmos estivesse orquestrando uma dança celestial. A velocidade e o ritmo eram tão precisos, tão belos, que me senti envolvido por aquela energia, e antes que pudesse sequer compreender o alcance do fenômeno, um segundo círculo surgiu, fechando-se ao redor do primeiro. Cada movimento dos dois círculos estava perfeitamente alinhado, como se um espelhando o outro, em sincronia completa, suas melodias entrelaçadas em uma harmonia que ultrapassava qualquer som que já tivesse ouvido na Terra. 
 

@@ -10,9 +10,25 @@ prev = 'divina_comedia/paraiso/canto13'
 next = 'divina_comedia/paraiso/canto15'
 +++
 
-_Beatriz pergunta a um espírito celeste, em nome de Dante, se depois da ressurreição dos corpos permanecerá a luz que emana de suas almas e se essa luz não prejudicará a sua vista. O espírito responde que, depois da ressurreição, a vista dos espíritos aumentará. Aparecem novos espíritos. Sem perceber, Dante encontra-se no planeta Marte, onde estão aqueles que defenderam com as armas a religião cristã. Aí, o aspecto do céu vence toda beleza passada, porque quanto mais se sobe, mais cresce o esplendor dos céus._
+> Neste canto, Beatriz questiona um espírito celestial sobre a natureza da luz gloriosa das almas após a ressurreição dos corpos. A resposta revela que, após a ressurreição, a visão dos espíritos aumentará e a luz das almas se intensificará sem prejudicar os corpos glorificados. Dante então ascende ao céu de Marte, onde encontram-se as almas dos combatentes pela fé cristã. Lá, ele testemunha uma visão espetacular: as almas dispostas em forma de cruz luminosa, símbolo do martírio e da vitória cristã. O esplendor de Marte supera toda beleza anterior, estabelecendo o princípio de que, quanto mais se eleva nos céus, maior é a glória experimentada.
 
 ---
+
+> **Ressurreição dos corpos:** A discussão teológica sobre a natureza dos corpos glorificados após a ressurreição final, tema central na escatologia cristã medieval.
+> 
+> **Luz e visão:** A explicação de que a luz das almas aumentará após a ressurreição e que a visão dos espíritos se intensificará estabelece a perfeição final do corpo e alma unidos.
+> 
+> **Marte e os combatentes:** O céu de Marte abriga aqueles que lutaram e morreram pela fé, representando a virtude da fortaleza e do martírio.
+> 
+> **Cruz luminosa:** A formação das almas em cruz simboliza tanto o martírio de Cristo quanto a vitória cristã achieved através do sacrifício.
+> 
+> **Hierarquia da beleza:** O princípio de que a beleza aumenta à medida que se ascende estabelece a estrutura hierárquica do Paraíso.
+> 
+> **"Resurgi" e "Vinci":** As palavras que Dante ouve na música celestial referem-se à ressurreição e vitória de Cristo sobre a morte.
+> 
+> **Corpos glorificados:** A capacidade dos corpos ressuscitados de suportar a intensidade da luz divina sem sofrimento demonstra a perfeição da natureza humana restaurada.
+> 
+> **Progressão celestial:** A ascensão contínua de Dante pelos céus representa sua própria elevação espiritual e compreensão progressiva das verdades divinas.
 
 Os raios de luz se moviam em círculos à nossa volta, como ondas em um lago calmo quando uma pedra o toca. Cada alma brilhava intensamente, sua luz refletindo a pura essência do Paraíso. O som das palavras de Tomás ainda ressoava em minha mente, assim como as lições de Beatriz que, com a mesma suavidade e força, continuava a guiar meus pensamentos. Era como se suas palavras tivessem sido tecidas em harmonia, fazendo com que a verdade se desvelasse de maneira ainda mais clara para mim.
 

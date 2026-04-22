@@ -10,9 +10,25 @@ prev = 'divina_comedia/paraiso/canto19'
 next = 'divina_comedia/paraiso/canto21'
 +++
 
-_A Águia louva alguns reis antigos que foram justos e virtuosos. Depois, resolve a Dante uma dúvida: como podem estar no Céu alguns espíritos que, na sua opinião, quando em vida não tinham tido fé cristã?_
+> Neste canto, a Águia continua seu diálogo com Dante, louvando reis justos do passado e explicando como pagãos virtuosos como Trajano e Rifeu podem estar no Paraíso. A Águia revela que Davi, Trajano, Ezequias e Constantino estão entre as almas mais brilhantes em seus olhos. O mistério da salvação dos não-cristãos é explicado através do conceito de que o amor ardente e a esperança viva podem "vencer" a Deus, não pela força, mas porque Deus deseja ser vencido pelo amor. O canto estabelece que a predestinação é um mistério insondável e que os próprios santos não conhecem todos os eleitos, enfatizando a humildade diante dos desígnios divinos.
 
 ---
+
+> **Davi:** O rei salmista que transportou a Arca da Aliança, representando a união entre poder real e devoção divina.
+> 
+> **Trajano:** Imperador romano (98-117 d.C.) famoso por sua justiça. Segundo a lenda, foi salvo pelas orações de São Gregório, exemplificando como a virtude pode levar à salvação mesmo sem conhecimento explícito de Cristo.
+> 
+> **Rifeu:** Personagem da Eneida, troiano que se converteu ao cristianismo antes de morrer, simbolizando como a graça pode alcançar até os pagãos.
+> 
+> **Ezequias e Constantino:** Reis que demonstraram fé e justiça, representando diferentes épocas de virtude governamental.
+> 
+> **Amor que vence a Deus:** Conceito teológico de que Deus se deixa "vencer" pelo amor humano sincero, estabelecendo a importância da intenção sobre o conhecimento formal.
+> 
+> **Predestinação mistério:** A ideia de que nem mesmo os santos conhecem todos os eleitos reflete a transcendência dos desígnios divinos.
+> 
+> **Arrependimento e tempo:** A explicação de que o arrependimento verdadeiro pode alterar o destino da alma estabelece a importância da conversão sincera.
+> 
+> **Humildade celestial:** A atitude dos santos diante do mistério divino serve como modelo para a postura humana adequada.
 
 Enquanto caminhávamos mais fundo no Paraíso, senti o calor suave e radiante que envolvia tudo ao nosso redor, como o sol ao se pôr, que aquece gentilmente o mundo antes de desaparecer além do horizonte. O brilho celestial era onipresente, mas, de repente, o céu mudou. O que antes parecia calmo e sereno começou a se encher de uma luz viva, intensa, como se milhões de estrelas começassem a acender ao mesmo tempo. Eu sabia que algo grandioso estava prestes a se revelar. A lembrança desse fenômeno celeste, o espetáculo da luz se espalhando pelo firmamento, trouxe à minha mente um pensamento inevitável: o quanto o destino dos líderes mundiais, mesmo os mais abençoados, estava nas mãos do divino. E, enquanto eu refletia sobre isso, o brilho ao nosso redor aumentava, e a canção angelical que ecoava ao longe se tornava mais forte, mas, ao mesmo tempo, inefável, quase impossível de ser capturada completamente pela minha memória.
 

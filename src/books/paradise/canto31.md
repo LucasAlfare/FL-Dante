@@ -10,9 +10,25 @@ prev = 'divina_comedia/paraiso/canto30'
 next = 'divina_comedia/paraiso/canto32'
 +++
 
-_Enquanto Dante contempla a rosa do Paraíso, Beatriz sobe e vai ocupar o lugar que lhe pertence, no meio dos bem-aventurados. São Bernardo é o último guia de Dante. Ele lhe indica a Virgem Maria, toda brilhante de luz celeste._
+> Neste canto, enquanto Dante contempla a rosa celestial do Paraíso, Beatriz ascende para ocupar seu lugar entre os bem-aventurados. São Bernardo de Claraval se torna o último guia de Dante, indicando-lhe a Virgem Maria, que resplandece com luz celestial. Dante expressa sua gratidão a Beatriz por tê-lo guiado desde o Inferno até o Empíreo. Bernardo instrui Dante a dirigir seus olhos para a rosa celestial e prepará-lo para a visão final de Deus. O canto estabelece a transição final de guia, com Beatriz alcançando seu lugar de glória e São Bernardo assumindo o papel de mediador para a visão beatífica final, enquanto Maria é apresentada como a intercessora suprema.
 
 ---
+
+> **Beatriz no Empíreo:** Sua ascensão ao seu lugar definitivo representa a conclusão de sua missão como guia e sua entrada na glória eterna.
+> 
+> **São Bernardo de Claraval:** Monge cisterciense (1090-1153), conhecido por sua devoção a Maria e seus escritos místicos, assume o papel de guia final.
+> 
+> **Virgem Maria:** Apresentada como a rainha dos céus e intercessora suprema, brilhando com luz celestial no centro da rosa.
+> 
+> **Anjos como abelhas:** A metáfora dos anjos que descem como abelhas simboliza sua função de distribuir a graça divina.
+> 
+> **Rosa celestial:** A visão da Igreja triunfante como rosa branca representa a comunhão perfeita dos santos com Deus.
+> 
+> **Transição de guias:** A mudança de Beatriz para Bernardo representa a progressão da sabedoria divina para a devoção mariana.
+> 
+> **Visão preparatória:** Bernardo prepara Dante para a visão final de Deus através da contemplação de Maria.
+> 
+> **Gratidão a Beatriz:** O discurso de Dante a Beatriz representa o reconhecimento de sua importância como mediadora da salvação.
 
 Enquanto eu caminhava pelas profundezas dos meus pensamentos, o Paraíso começou a se revelar diante de mim como uma rosa branca imaculada, com cada pétala irradiando uma luz celestial, onde a hoste santa que Cristo escolheu como sua esposa vibrava em um esplendor que eu mal podia descrever. Era como se toda a criação estivesse unida ali, em um só movimento de devoção e adoração, em uma harmonia que transcende o que qualquer alma poderia imaginar.
 

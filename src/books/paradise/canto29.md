@@ -10,9 +10,25 @@ prev = 'divina_comedia/paraiso/canto28'
 next = 'divina_comedia/paraiso/canto30'
 +++
 
-_Beatriz esclarece a Dante que os anjos foram criados por Deus no mesmo tempo em que foram criados os céus. Fala-lhe dos anjos fiéis e dos anjos rebeldes, os quais foram precipitados no Inferno. Censura os falsos filósofos e os padres mentirosos que esquecem que o escopo da pregação é persuadir os homens a serem cristãos e vendem indulgências para obter bens materiais._
+> Neste canto, Beatriz esclarece a Dante sobre a criação dos anjos, explicando que foram criados simultaneamente com os céus no ato do amor divino. Ela descreve como os anjos fiéis permaneceram em comunhão com Deus enquanto os rebeldes, liderados por Lúcifer em seu orgulho, caíram e foram precipitados no Inferno. Beatriz critica os falsos filósofos que erram em suas especulações sobre a natureza angélica e denuncia os padres mentirosos que vendem indulgências e se afastam do verdadeiro propósito da pregação, que é converter os homens ao cristianismo. O canto estabelece a doutrina sobre a criação simultânea, a queda dos anjos e a corrupção da Igreja medieval.
 
 ---
+
+> **Criação simultânea:** A doutrina de que anjos e céus foram criados ao mesmo tempo reflete a teologia medieval sobre a criação instantânea.
+> 
+> **Queda dos anjos:** A rebelião de Lúcifer e a queda dos anjos rebeldes estabelece a origem do mal e a existência do Inferno.
+> 
+> **Livre arbítrio angélico:** A capacidade dos anjos de escolher entre Deus e o orgulho demonstra a existência de livre arbítrio nos seres puros.
+> 
+> **Visão beatífica contínua:** Os anjos fiéis, uma vez que viram a face de Deus, nunca mais se desviam, não necessitando de memória como os humanos.
+> 
+> **Crítica aos filósofos:** A censura aos especuladores terrenos reflete a preocupação de Dante com erros teológicos sobre a natureza angélica.
+> 
+> **Venda de indulgências:** A denúncia da comercialização das indulgências representa uma das críticas mais severas de Dante à corrupção eclesiástica.
+> 
+> **Número dos anjos:** A referência a Daniel sobre o número oculto entre milhares estabelece a infinitude da criação angélica.
+> 
+> **Multiplicidade na unidade:** A reflexão final sobre como a luz divina se multiplica em espelhos sem perder unidade representa o mistério da Trindade.
 
 O horizonte estava pintado com as cores do crepúsculo, quando Beatriz, à minha frente, manteve seu olhar fixo e misterioso, sua face iluminada por um sorriso que parecia conter segredos profundos. Ficamos em silêncio por um momento, enquanto eu, ainda tomado pela grandiosidade do que havia testemunhado, mal conseguia conter a agitação de meus pensamentos. Ela sabia o que eu buscava, o que queria compreender. E, como se pudesse ler diretamente em minha alma, começou a falar, sua voz suave mas firme, cortando a atmosfera celestial ao nosso redor.
 

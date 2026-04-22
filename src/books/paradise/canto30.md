@@ -10,9 +10,25 @@ prev = 'divina_comedia/paraiso/canto29'
 next = 'divina_comedia/paraiso/canto31'
 +++
 
-_Os nove coros angélicos vão desaparecendo aos poucos. Dante volta os olhos novamente para Beatriz, cuja beleza é agora tão maravilhosa que ele renuncia a descrevê-la. Eles estão no Empíreo, e Dante vê um rio de luz, cujas ribas estão esmaltadas com flores. Do rio saem centelhas que formam flores e depois voltam para as ondas. Por fim, vê uma grande rosa de luz, na qual aparecem anjos e os bem-aventurados. No meio, há um trono preparado para o imperador Henrique VII._
+> Neste canto, os nove coros angélicos desaparecem gradualmente e Dante se volta para Beatriz, cuja beleza agora transcende qualquer capacidade de descrição. Eles chegam ao Empíreo, onde Dante contempla um rio de luz cujas margens estão adornadas com flores. Do rio emanam centelhas que formam flores e retornam às águas. Beatriz instrui Dante a beber das águas do rio, o que lhe permite ver mais claramente a rosa celestial do Paraíso, onde se encontram anjos e almas bem-aventuradas. No centro da rosa, Dante vê um trono preparado para o imperador Henrique VII, que corrigirá os erros da Itália. O canto representa a entrada no céu supremo e a visão da Igreja triunfante.
 
 ---
+
+> **Empíreo:** O décimo céu, morada de Deus e da Igreja triunfante, representando o estado final de glória e união divina.
+> 
+> **Rio de luz:** Simboliza a graça divina que flui eternamente e purifica a visão espiritual de quem dela bebe.
+> 
+> **Rosa celestial:** A rosa branca representa a Igreja como esposa de Cristo, com suas pétalas simbolizando as almas dos bem-aventurados.
+> 
+> **Beleza indescritível de Beatriz:** Sua transcendência representa a perfeição final da sabedoria divina que supera a linguagem humana.
+> 
+> **Henrique VII:** O imperador (1275-1313) representa a esperança de Dante em um governante justo que restaurará a ordem na Itália.
+> 
+> **Anjos como abelhas:** A metáfora dos anjos como abelhas simboliza sua função de polinizar as almas com o mel divino.
+> 
+> **Luz intelectual:** A luz do Empíreo representa a sabedoria divina pura, não mais filtrada através dos céus planetários.
+> 
+> **Trono vazio:** O trono preparado para Henrique representa a esperança na restauração da justiça imperial.
 
 Eu me encontrava perdido em pensamentos, refletindo sobre os milhares de passos que havia dado para chegar até ali. Era como se o mundo à minha volta estivesse imerso em sombras suaves, e o sol, alto no céu, começava a ceder à sua força. A luz tornava-se mais fraca, e as estrelas, antes cintilantes no firmamento, pareciam ser consumidas por uma escuridão pacífica. O céu, antes límpido, agora parecia fechar-se em camadas, ocultando os segredos mais profundos, conforme uma após a outra as visões se desvaneciam diante dos meus olhos.
 

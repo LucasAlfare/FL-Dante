@@ -10,9 +10,25 @@ prev = 'divina_comedia/paraiso/canto17'
 next = 'divina_comedia/paraiso/canto19'
 +++
 
-_Beatriz conforta o Poeta. Cacciaguida mostra-lhe outros espíritos que combateram pela fé cristã. Sobem depois a Júpiter, onde estão as almas dos príncipes que governaram com justiça. Os espíritos se dispõem de maneira a desenhar palavras de conselho aos que governam; por último, se compõem na forma de uma águia._
+> Neste canto, Beatriz conforta Dante após as profecias sobre seu exílio, e Cacciaguida apresenta outros espíritos de combatentes pela fé, incluindo Josué, Macabeu, Carlos Magno, Orlando e outros heróis cristãos. Em seguida, Dante e Beatriz ascendem ao céu de Júpiter, onde encontram as almas dos príncipes e governantes justos. As almas se organizam para formar palavras divinas: primeiro "DILIGITE IUSTITIAM" (Amai a justiça) e depois "QUI IUDICATIS TERRAM" (Vós que julgais a Terra). Finalmente, as almas se reorganizam na forma de uma águia luminosa, símbolo do poder imperial e da justiça divina, estabelecendo uma conexão entre o governo justo e a ordem celestial.
 
 ---
+
+> **Heróis cristãos:** A menção a Josué (conquistador da Terra Prometida), Macabeu (líder dos macabeus), Carlos Magno (imperador carolíngio) e Orlando (paladino de Carlos Magno) estabelece a continuidade da luta pela fé através dos séculos.
+> 
+> **Júpiter e os governantes justos:** O céu de Júpiter abriga aqueles que exerceram a justiça em suas posições de poder, representando a virtude da justiça governamental.
+> 
+> **Palavras divinas:** As formações "DILIGITE IUSTITIAM" e "QUI IUDICATIS TERRAM" são extraídas do Livro da Sabedoria, servindo como conselho direto aos governantes terrestres.
+> 
+> **Águia imperial:** A formação final em águia simboliza tanto o Império Romano quanto a justiça divina, conectando o poder secular com a autoridade celestial.
+> 
+> **Justiça vs corrupção:** O canto estabelece um contraste entre os governantes justos do céu e a corrupção dos governantes terrestres, tema central na crítica política de Dante.
+> 
+> **Ordem cósmica:** A capacidade das almas de se organizar em palavras e figuras demonstra a harmonia do céu e a ordem divina.
+> 
+> **Missão profética:** A mensagem aos governantes terrestres estabelece a função profética da Divina Comédia como guia moral para a sociedade.
+> 
+> **Hierarquia celestial:** A progressão de Marte (combatentes) para Júpiter (governantes justos) estabelece a hierarquia das virtudes celestiais.
 
 Eu estava imerso na majestade do paraíso, meu espírito flutuando entre a vastidão do cosmos e o amor divino que fluía de todas as direções. Cada palavra proferida por aqueles espíritos abençoados parecia carregar um peso incomensurável, e eu, com o coração ainda tomado pelo sabor agridoce da minha jornada, tentava equilibrar as emoções. Beatrice, sempre presente, sempre guiando, me alertou com suavidade para que eu mudasse meus pensamentos. "Pensa em mim, pois estamos próximos daquele que desfaz todas as injustiças", ela disse, sua voz como uma melodia celestial, um chamado suave, mas firme. 
 

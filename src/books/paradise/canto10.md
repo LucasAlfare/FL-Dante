@@ -10,9 +10,25 @@ prev = 'divina_comedia/paraiso/canto9'
 next = 'divina_comedia/paraiso/canto11'
 +++
 
-_Depois de admirar a infinita sabedoria de Deus na criação do universo, narra o poeta como, sem se aperceber, achou-se elevado ao Sol, onde estão as almas dos doutos na teologia. Doze espíritos mais reluzentes o circundam e um deles, São Tomás de Aquino, revela o nome dos seus companheiros._
+> Neste canto, Dante ascende ao céu do Sol, onde encontram-se as almas dos teólogos e doutores da Igreja. Tomás de Aquino emerge como porta-voz, apresentando os onze espíritos que formam uma coroa ao redor de Beatriz. Entre eles estão figuras como Alberto Magno, Salomão, Sigério de Brabant, e outros grandes pensadores cristãos. O canto celebra a sabedoria divina manifestada através do intelecto humano, estabelecendo o Sol como símbolo da iluminação teológica e da contemplação da verdade divina. A presença de Salomão destaca a sabedoria como dom supremo, enquanto a organização das almas em círculo reflete a harmonia do conhecimento divino.
 
 ---
+
+> **São Tomás de Aquino:** O maior teólogo da Igreja Católica (1225-1274), sua presença como guia no céu do Sol valida a importância da teologia escolástica e da síntese entre fé e razão.
+> 
+> **Os doze espíritos:** Representam o ápice do conhecimento humano orientado para Deus. Incluem Alberto Maglo (mestre de Tomás), Salomão (sabedoria bíblica), e outros luminares do pensamento cristão.
+> 
+> **Sigério de Brabant:** Filósofo averroista, sua presença surpreendente mostra como até mesmo os desviados podem encontrar seu lugar no Paraíso através da busca da verdade.
+> 
+> **Ordem Dominicana:** Tomás menciona ser "cordeiro do rebanho de Domingos", estabelecendo a importância dos dominicanos na defesa da fé através do intelecto.
+> 
+> **Salomão:** Sua presença como a luz mais brilhante destaca a sabedoria como virtude suprema, reconhecida tanto na tradição judaica quanto cristã.
+> 
+> **O Sol como símbolo:** Representa não apenas o astro físico, mas a iluminação divina que permite ao intelecto humano contemplar as verdades eternas.
+> 
+> **Harmonia do conhecimento:** A organização circular das almas reflete como diferentes formas de sabedoria convergem para a mesma verdade divina.
+> 
+> **Vida contemplativa:** O canto estabelece a superioridade da contemplação sobre a ação, tema que será desenvolvido no canto seguinte.
 
 A luz do sol refletia sobre minha pele, aquecendo-me enquanto me encontrava no ponto exato em que o movimento celeste e o terrestre se tocavam. A sensação era indescritível, uma mistura de paz e reverência, como se cada fibra do meu ser estivesse conectada a algo muito maior. Eu estava subindo, mas não percebia o movimento. Não como alguém que sobe degrau por degrau, mas como uma mudança sutil, quase imperceptível, que só se reconhece quando já se está em um novo estado. Ao meu lado, Beatriz, com seu olhar que sempre parecia enxergar além do horizonte, guiava-me mais uma vez pelas esferas celestiais. Ela, que era ao mesmo tempo minha guia e a personificação de algo divino, olhava para mim, e seu sorriso era como uma brisa suave que dissolvia qualquer preocupação.
 

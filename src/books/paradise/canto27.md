@@ -10,9 +10,25 @@ prev = 'divina_comedia/paraiso/canto26'
 next = 'divina_comedia/paraiso/canto28'
 +++
 
-_São Pedro exprobra os maus pastores da Igreja, e todos os santos manifestam a sua aprovação às palavras do Apóstolo. Novamente, o Poeta contempla a Terra e, depois, com Beatriz, eleva-se ao Primeiro Móvel._
+> Neste canto, São Pedro exprobra veementemente os maus pastores da Igreja, denunciando a corrupção do papado e a transformação de seu santuário em "fossa de sangue e podridão". Ele critica aqueles que usam as chaves do Reino para fins comerciais e militares, e lamenta os "lobos em pele de pastor" que exploram o rebanho de Deus. Todos os santos manifestam sua aprovação às palavras de Pedro com uma mudança celestial. Em seguida, Dante contempla novamente a Terra de uma perspectiva cósmica, avistando além dos Pilares de Hércules e a costa da Europa. Finalmente, com Beatriz, ele ascende ao Primeiro Móvel, o céu mais alto dos planetas, onde Beatriz explica a estrutura do cosmos e lamenta a corrupção humana causada pela cobiça.
 
 ---
+
+> **Crítica ao papado:** A denúncia de Pedro representa uma das críticas mais severas de Dante à corrupção da Igreja medieval e ao papado de seu tempo.
+> 
+> **Lobos em pele de pastor:** Metáfora bíblica usada para criticar os líderes eclesiásticos corruptos que exploram os fiéis.
+> 
+> **Chaves do Reino:** Referência às chaves dadas a Pedro, agora usadas indevidamente para ganho comercial e poder político.
+> 
+> **Pilares de Hércules:** O limite do mundo conhecido, simbolizando a fronteira entre o mundo familiar e o desconhecido.
+> 
+> **Europa e Júpiter:** A menção a Europa carregada por Júpiter refere-se ao mito do rapto de Europa, estabelecendo a origem mítica do continente.
+> 
+> **Primeiro Móvel:** O nono céu, que move todos os outros, representando o nível mais alto da criação antes do Empíreo.
+> 
+> **Cosmologia ptolomaica:** A explicação de Beatriz sobre o movimento dos céus reflete o modelo geocêntrico medieval.
+> 
+> **Cobiça como corrupção:** A lamentação de Beatriz sobre a cobiça humana estabelece esta como a raiz de toda corrupção moral.
 
 A escuridão do espaço se desfez em luz. Um canto de glória, em uníssono, ressoou pelos céus, reverberando nas esferas acima e ao redor, "Glória ao Pai, ao Filho e ao Espírito Santo." Cada nota do cântico inundava minha alma como vinho, embriagando não apenas meus ouvidos, mas também meus olhos. Ao redor, eu via o próprio universo sorrindo para mim, como se cada partícula de luz e som estivesse sintonizada em uma harmonia que eu nunca havia experimentado. A visão que se desdobrava diante de mim era de uma alegria inenarrável, uma paz que transcendia qualquer desejo terreno. Ali, cercado de amor e plenitude, eu senti que possuía uma riqueza que não poderia ser comprada ou medida, segura de qualquer ameaça.
 

@@ -10,11 +10,25 @@ prev = 'divina_comedia/paraiso/canto4'
 next = 'divina_comedia/paraiso/canto6'
 +++
 
-_Continuando o discurso do canto anterior, Beatriz explica a Dante que o voto é um pacto entre o homem e Deus. A matéria do voto pode ser mudada, mas deve ser substituída por oferendas de maior mérito. Beatriz lamenta a leviandade dos cristãos._
-
-_Beatriz e Dante voam, então, para a esfera de Mercúrio, onde estão as almas dos homens que viveram uma vida digna e adquiriram fama no mundo. Um espírito fala ao Poeta._
+> Neste canto, Beatriz continua sua explanação sobre a natureza dos votos, estabelecendo que um voto é um pacto sagrado entre homem e Deus no qual a própria vontade é oferecida. Ela explica que, embora o conteúdo específico de um voto possa ser alterado com permissão divina, a substituição deve ser por algo de maior mérito. Beatritz critica duramente a leviandade dos cristãos ao tratar seus compromissos sagrados. Em seguida, Dante e Beatriz ascendem ao céu de Mercúrio, onde encontram as almas daqueles que buscaram fama e glória terrena, mas a direcionaram para fins justos. O imperador Justiniano emerge para explicar a história do Império Romano e sua própria conversão.
 
 ---
+
+> **Natureza do voto:** Beatriz estabelece que o voto é o sacrifício mais precioso que se pode fazer a Deus - a entrega da própria vontade livre, o dom mais divino concedido aos humanos.
+> 
+> **Jefté e Ifigênia:** Exemplos bíblicos de votos imprudentes que tiveram consequências trágicas, servindo como advertência sobre a seriedade dos compromissos com Deus.
+> 
+> **Mercúrio e a busca de fama:** O céu de Mercúrio abriga aqueles que buscaram glória e honra, mas por motivos justos. Mercúrio, deus mensageiro e do comércio, representa a busca por reconhecimento e prestigio.
+> 
+> **Justiniano:** Imperador bizantino (483-565 d.C.) que compilou o Corpus Juris Civilis, o fundamento do direito civil ocidental. Sua presença conecta a história romana com a história da salvação.
+> 
+> **Águia romana:** O símbolo imperial que acompanhou Enéas desde Troia até Roma, representando a continuidade divina do destino romano e seu papel na história cristã.
+> 
+> **Leviandade cristã:** A crítica de Beatriz à superficialidade dos cristãos de sua época reflete a preocupação de Dante com a corrupção moral e religiosa da Florença medieval.
+> 
+> **Direito divino vs humano:** A discussão sobre votos estabelece a primazia da lei divina sobre a humana, tema central na visão política de Dante.
+> 
+> **Fama justificada:** Diferenciação entre a busca vã de glória e a busca de reconhecimento por serviços prestados a Deus e à humanidade.
 
 Quando Beatriz começou a falar, a voz dela tinha uma força que ultrapassava qualquer emoção humana. Era como se o calor do amor dela — algo além de tudo que se pode viver na Terra — tivesse o poder de atravessar minha alma, vencendo até a firmeza do meu olhar. Mal conseguia suportar o impacto da presença dela. Me perguntei, fascinado, de onde vinha tamanha força. Mas logo entendi: estava tudo ali, diante de mim — na perfeição do olhar dela, no modo como captava a luz eterna, e em como isso guiava seu ser naturalmente em direção ao bem.
 

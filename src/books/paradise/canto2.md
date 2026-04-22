@@ -9,9 +9,23 @@ summary = ' '
 weight = 2
 +++
 
-_Sobem à Lua. Exortação aos leitores. Dante pergunta a Beatriz se as manchas da Lua dependem da maior ou menor densidade do astro. Beatriz confuta o erro. Todos os astros são iluminados pela virtude que, do primeiro móvel, se difunde aos céus sotopostos. Na Lua, a virtude é menor que nos outros céus._
+> Neste canto, Dante e Beatriz ascendem ao céu da Lua, onde o poeta faz uma importante exortação aos leitores sobre a dificuldade e o perigo da jornada intelectual que estão empreendendo. Dante questiona Beatriz sobre as manchas lunares, propondo a explicação aristotélica de que seriam causadas por diferenças de densidade. Beatriz refuta cientificamente essa teoria, explicando que as diferenças entre os corpos celestes não se devem à matéria, mas às diferentes virtudes divinas que cada céu recebe do primeiro móvel. O canto estabelece a distinção entre aparência sensorial e verdade filosófica.
 
 ---
+
+> **A exortação aos leitores:** Dante estabelece claramente que sua jornada celestial não é para todos. A metáfora dos "pequenos barcos" versus o "oceano profundo" cria uma distinção entre o conhecimento comum e o conhecimento filosófico-teológico, exigindo preparação intelectual e espiritual.
+> 
+> **As manchas da Lua:** A questão das manchas lunares era um problema científico real na época. Dante apresenta a teoria aristotélica (diferenças de densidade) apenas para refutá-la, demonstrando seu conhecimento científico e filosófico.
+> 
+> **Teoria da luz:** Beatriz explica que todos os corpos celestes são iluminados pela virtude divina que emana do primeiro móvel (Primum Mobile). Cada céu recebe e distribui essa virtude de acordo com sua capacidade, criando a hierarquia celestial.
+> 
+> **Analogia dos espelhos:** O experimento mental com os três espelhos demonstra o método científico de Dante, usando a experiência empírica para refutar argumentos filosóficos incorretos.
+> 
+> **Corpo dentro de corpo:** O paradoxo de Dante estar "corpo dentro de corpo" na Lua antecipa discussões teológicas sobre a natureza da ressurreição e a relação entre corpo material e corpo espiritual.
+> 
+> **Caim e as manchas lunares:** A referência a Caim conecta as manchas lunares à tradição popular medieval, que via nessas marcas o sangue de Abel ou a figura de Caim carregando os espinhos, mostrando como Dante dialoga com o conhecimento popular de sua época.
+> 
+> **A virtude celestial:** Cada céu tem sua própria virtude específica, que determina as características dos espíritos que ali habitam. Na Lua, a virtude é menor, correspondendo àqueles que falharam em seus votos (os inconstantes).
 
 O leitor que se aventura em minhas pegadas precisa entender uma coisa: o que estou prestes a descrever não é para qualquer um. Vocês, que navegam em pequenos barcos, ávidos por escutar minha travessia, faria melhor voltando para suas praias seguras. Não se arrisquem neste oceano profundo — podem se perder, e eu não estarei lá para resgatá-los. As águas que agora sulco nunca foram navegadas. Mas tenho guias: Minerva sopra meus ombros, Apolo conduz meu rumo, e as nove Musas apontam as constelações.
 
