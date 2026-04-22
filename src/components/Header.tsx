@@ -97,10 +97,10 @@ const Header: React.FC = () => {
       {/* Mobile menu dropdown */}
       <div
         ref={menuRef}
-        className={`lg:hidden absolute top-16 left-0 right-0 border-b shadow-lg z-50 transition-all duration-300 ease-in-out origin-top ${
+        className={`lg:hidden absolute top-16 left-0 right-0 border-b shadow-lg z-50 transition-all duration-300 ease-in-out ${
           isMobileMenuOpen
-            ? 'opacity-100 scale-y-100 translate-y-0'
-            : 'opacity-0 scale-y-95 -translate-y-2 pointer-events-none'
+            ? 'opacity-100 translate-y-0'
+            : 'opacity-0 -translate-y-2 pointer-events-none'
         }`}
       >
         <div className="py-2">

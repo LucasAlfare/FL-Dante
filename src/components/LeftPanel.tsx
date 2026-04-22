@@ -76,8 +76,9 @@ const LeftPanel: React.FC = () => {
         </svg>
       </button>
       
-      {isExpanded && (
-        <nav className="flex-1 px-4 py-2 overflow-y-auto">
+      <nav className={`flex-1 px-4 py-2 overflow-y-auto transition-all duration-300 ease-in-out ${
+        isExpanded ? 'opacity-100' : 'opacity-0 pointer-events-none'
+      }`}>
           <h2 className="text-lg font-bold mb-4 text-gray-800">Sumário</h2>
           
           <div className="space-y-2">
@@ -130,7 +131,6 @@ const LeftPanel: React.FC = () => {
             ))}
           </div>
         </nav>
-      )}
     </aside>
   );
 };
