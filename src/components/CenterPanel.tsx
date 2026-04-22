@@ -4,9 +4,9 @@ import { getBookFontStyle, bookFontFamily } from '../utils/fontStyles';
 import { useReading } from '../context/ReadingContext';
 
 const CenterPanel: React.FC = () => {
-  const { content } = useReading();
+  const { state } = useReading();
 
-  if (content.loading) {
+  if (state.loading) {
     return (
       <main className="flex-1 h-full flex items-center justify-center">
         <span className="text-gray-600 font-medium text-lg">Carregando...</span>
@@ -14,10 +14,10 @@ const CenterPanel: React.FC = () => {
     );
   }
 
-  if (content.error) {
+  if (state.error) {
     return (
       <main className="flex-1 h-full flex items-center justify-center">
-        <span className="text-red-600 font-medium text-lg">Erro: {content.error}</span>
+        <span className="text-red-600 font-medium text-lg">Erro: {state.error}</span>
       </main>
     );
   }
@@ -40,7 +40,7 @@ const CenterPanel: React.FC = () => {
             h6: () => null,
             p: ({ children }) => {
               const text = Array.isArray(children) ? children.join('') : children as string;
-              const isFirstParagraph = text === content.content.split('\n\n')[0];
+              const isFirstParagraph = text === state.content.split('\n\n')[0];
 
               if (isFirstParagraph && text.length > 0) {
                 const firstLetter = text[0];
@@ -91,7 +91,7 @@ const CenterPanel: React.FC = () => {
             }
           }}
         >
-          {content.content}
+          {state.content}
         </ReactMarkdown>
       </div>
     </main>

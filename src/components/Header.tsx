@@ -5,12 +5,13 @@ import MailIcon from './icons/MailIcon';
 import MenuIcon from './icons/MenuIcon';
 import SearchIcon from './icons/SearchIcon';
 import SettingsIcon from './icons/SettingsIcon';
-import { useBookInfo } from '../context/ReadingContext';
+import { useReading } from '../context/ReadingContext';
 
 const Header: React.FC = () => {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const menuRef = useRef<HTMLDivElement>(null);
-  const { currentBook, currentChapter } = useBookInfo();
+  const { state } = useReading();
+  const { currentBook, currentChapter } = state;
 
   // Helper function to get book name in Portuguese
   const getBookName = (book: string): string => {

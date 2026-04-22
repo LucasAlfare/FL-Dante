@@ -1,9 +1,22 @@
 import React from 'react';
-import { useReading, useBookInfo } from '../context/ReadingContext';
+import { useReading } from '../context/ReadingContext';
 
 const Footer: React.FC = () => {
-  const { previousChapter, nextChapter } = useReading();
-  const { currentChapter, totalChapters, isFirstChapter, isLastChapter } = useBookInfo();
+  const { previousChapter, nextChapter, state } = useReading();
+  
+  const getTotalChapters = (book: string): number => {
+    switch (book) {
+      case 'inferno': return 34;
+      case 'purgatory': return 33;
+      case 'paradise': return 33;
+      default: return 34;
+    }
+  };
+  
+  const totalChapters = getTotalChapters(state.currentBook);
+  const isFirstChapter = state.globalChapter === 1;
+  const isLastChapter = state.globalChapter === 100;
+  const currentChapter = state.currentChapter;
 
   return (
     <footer className="w-full h-14 flex items-center justify-evenly px-4 border-t">
