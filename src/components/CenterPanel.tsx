@@ -1,55 +1,36 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import ReactMarkdown from 'react-markdown';
-import ChapterProvider from '../services/ChapterProvider';
 import { getBookFontStyle, bookFontFamily } from '../utils/fontStyles';
+import { useReading } from '../context/ReadingContext';
 
 const CenterPanel: React.FC = () => {
-  const [content, setContent] = useState<string>('');
-  const [loading, setLoading] = useState<boolean>(true);
-  const [error, setError] = useState<string | null>(null);
+  const { content } = useReading();
 
-  useEffect(() => {
-    const loadChapter = async () => {
-      try {
-        const chapterProvider = new ChapterProvider();
-        // Hardcoded chapter 1 for testing (Inferno Canto 1)
-        const chapterContent = await chapterProvider.getChapterByNumber(1);
-        setContent(chapterContent);
-      } catch (err) {
-        setError(err instanceof Error ? err.message : 'Failed to load chapter');
-      } finally {
-        setLoading(false);
-      }
-    };
-
-    loadChapter();
-  }, []);
-
-  if (loading) {
+  if (content.loading) {
     return (
-      <main className="flex-1 h-full bg-green-400 flex items-center justify-center">
-        <span className="text-white font-medium text-lg">Carregando...</span>
+      <main className="flex-1 h-full flex items-center justify-center">
+        <span className="text-gray-600 font-medium text-lg">Carregando...</span>
       </main>
     );
   }
 
-  if (error) {
+  if (content.error) {
     return (
-      <main className="flex-1 h-full bg-green-400 flex items-center justify-center">
-        <span className="text-white font-medium text-lg">Erro: {error}</span>
+      <main className="flex-1 h-full flex items-center justify-center">
+        <span className="text-red-600 font-medium text-lg">Erro: {content.error}</span>
       </main>
     );
   }
 
   return (
-    <main className="flex-1 h-full bg-green-400 p-8" style={{overflow: 'auto', scrollbarWidth: 'none', msOverflowStyle: 'none'}}>
-      <div 
-        className="max-w-4xl mx-auto text-white"
+    <main className="flex-1 h-full p-8" style={{ overflow: 'auto', scrollbarWidth: 'none', msOverflowStyle: 'none' }}>
+      <div
+        className="max-w-4xl mx-auto text-gray-800"
         style={{
           ...getBookFontStyle('20px'),
         }}
       >
-        <ReactMarkdown 
+        <ReactMarkdown
           components={{
             h1: () => null,
             h2: () => null,
@@ -57,16 +38,16 @@ const CenterPanel: React.FC = () => {
             h4: () => null,
             h5: () => null,
             h6: () => null,
-            p: ({children}) => {
+            p: ({ children }) => {
               const text = Array.isArray(children) ? children.join('') : children as string;
-              const isFirstParagraph = text === content.split('\n\n')[0];
-              
+              const isFirstParagraph = text === content.content.split('\n\n')[0];
+
               if (isFirstParagraph && text.length > 0) {
                 const firstLetter = text[0];
                 const restOfText = text.slice(1);
-                
+
                 return (
-                  <p 
+                  <p
                     className="mb-4"
                     style={{
                       fontFamily: bookFontFamily,
@@ -76,7 +57,7 @@ const CenterPanel: React.FC = () => {
                       textIndent: '2rem'
                     }}
                   >
-                    <span 
+                    <span
                       style={{
                         fontSize: '4rem',
                         float: 'left',
@@ -92,9 +73,9 @@ const CenterPanel: React.FC = () => {
                   </p>
                 );
               }
-              
+
               return (
-                <p 
+                <p
                   className="mb-4"
                   style={{
                     fontFamily: bookFontFamily,
@@ -110,7 +91,7 @@ const CenterPanel: React.FC = () => {
             }
           }}
         >
-          {content}
+          {content.content}
         </ReactMarkdown>
       </div>
     </main>

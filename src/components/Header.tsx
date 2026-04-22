@@ -5,10 +5,22 @@ import MailIcon from './icons/MailIcon';
 import MenuIcon from './icons/MenuIcon';
 import SearchIcon from './icons/SearchIcon';
 import SettingsIcon from './icons/SettingsIcon';
+import { useBookInfo } from '../context/ReadingContext';
 
 const Header: React.FC = () => {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const menuRef = useRef<HTMLDivElement>(null);
+  const { currentBook, currentChapter } = useBookInfo();
+
+  // Helper function to get book name in Portuguese
+  const getBookName = (book: string): string => {
+    switch (book) {
+      case 'inferno': return 'Inferno';
+      case 'purgatory': return 'Purgatório';
+      case 'paradise': return 'Paraíso';
+      default: return book;
+    }
+  };
 
   const toggleMobileMenu = (): void => {
     setIsMobileMenuOpen(!isMobileMenuOpen);
@@ -53,7 +65,9 @@ const Header: React.FC = () => {
 
         {/* Center: Current canto indicator */}
         <div className="absolute left-1/2 transform -translate-x-1/2">
-          <span className={`${bookFontClasses.base} font-medium`}>Purgatório · Canto 11</span>
+          <span className={`${bookFontClasses.base} font-medium`}>
+            {getBookName(currentBook)} · Canto {currentChapter}
+          </span>
         </div>
 
         {/* Right side: Control buttons - only visible on large screens */}
