@@ -6,7 +6,9 @@ import tailwindcss from '@tailwindcss/vite'
 export default defineConfig({
   plugins: [react(), tailwindcss()],
   base: '/FL-Dante/',
+  assetsInclude: ['**/*.md'],
   build: {
-    outDir: 'dist'
+    outDir: 'dist',
+    copyPublicDir: true
   }
 })
