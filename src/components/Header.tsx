@@ -1,5 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { bookFontClasses } from '../utils/fontStyles';
+import { toRoman } from '../utils/romanNumerals';
 import DanteIcon from './icons/DanteIcon';
 import MailIcon from './icons/MailIcon';
 import MenuIcon from './icons/MenuIcon';
@@ -12,6 +13,9 @@ const Header: React.FC = () => {
   const menuRef = useRef<HTMLDivElement>(null);
   const { state } = useReading();
   const { currentBook, currentChapter } = state;
+  
+  // Calculate Roman numeral once to avoid multiple function calls
+  const currentChapterRoman = toRoman(currentChapter);
 
   // Helper function to get book name in Portuguese
   const getBookName = (book: string): string => {
@@ -67,7 +71,7 @@ const Header: React.FC = () => {
         {/* Center: Current canto indicator */}
         <div className="absolute left-1/2 transform -translate-x-1/2">
           <span className={`${bookFontClasses.base} font-medium`}>
-            {getBookName(currentBook)} · Canto {currentChapter}
+            {getBookName(currentBook)} · Canto {currentChapterRoman}
           </span>
         </div>
 

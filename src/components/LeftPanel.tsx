@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { useReading } from '../context/ReadingContext';
-import type { BookType } from '../context/ReadingContext';
+import { toRoman } from '../utils/romanNumerals';
+import type { BookType } from '../utils/markdownParser';
 
 interface BookStructure {
   book: BookType;
@@ -18,6 +19,15 @@ const LeftPanel: React.FC = () => {
   const [isExpanded, setIsExpanded] = useState(false);
   const [expandedBooks, setExpandedBooks] = useState<Set<BookType>>(new Set());
   const { state, goToChapter } = useReading();
+  
+  // Pre-calculate Roman numerals for all chapters to avoid multiple function calls
+  const romanNumeralsCache = React.useMemo(() => {
+    const cache: Record<number, string> = {};
+    for (let i = 1; i <= 34; i++) {
+      cache[i] = toRoman(i);
+    }
+    return cache;
+  }, []);
 
   const togglePanel = () => {
     setIsExpanded(!isExpanded);
@@ -122,7 +132,7 @@ const LeftPanel: React.FC = () => {
                             : 'text-gray-600 hover:bg-gray-50 hover:text-gray-800'
                         }`}
                       >
-                        Canto {chapter}
+                        Canto {romanNumeralsCache[chapter]}
                       </button>
                     ))}
                   </div>
