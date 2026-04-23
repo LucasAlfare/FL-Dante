@@ -13,7 +13,7 @@ const Header: React.FC = () => {
   const menuRef = useRef<HTMLDivElement>(null);
   const { state } = useReading();
   const { currentBook, currentChapter } = state;
-  
+
   // Calculate Roman numeral once to avoid multiple function calls
   const currentChapterRoman = toRoman(currentChapter);
 
@@ -35,7 +35,7 @@ const Header: React.FC = () => {
     const handleClickOutside = (event: MouseEvent): void => {
       const target = event.target as Node;
       const menuButton = document.querySelector('[aria-label="Menu"]');
-      
+
       if (
         menuRef.current &&
         !menuRef.current.contains(target) &&
@@ -70,7 +70,8 @@ const Header: React.FC = () => {
 
         {/* Center: Current canto indicator */}
         <div className="absolute left-1/2 transform -translate-x-1/2">
-          <span className={`${bookFontClasses.base} font-medium`}>
+          {/* quero uma fonte maior e mais forte aqui, sem ser negrito tosco*/}
+          <span className={`${bookFontClasses.base}`}>
             {getBookName(currentBook)} · Canto {currentChapterRoman}
           </span>
         </div>
@@ -101,11 +102,10 @@ const Header: React.FC = () => {
       {/* Mobile menu dropdown */}
       <div
         ref={menuRef}
-        className={`lg:hidden absolute top-16 left-0 right-0 border-b shadow-lg z-50 transition-all duration-300 ease-in-out ${
-          isMobileMenuOpen
+        className={`lg:hidden absolute top-16 left-0 right-0 border-b shadow-lg z-50 transition-all duration-300 ease-in-out ${isMobileMenuOpen
             ? 'opacity-100 translate-y-0'
             : 'opacity-0 -translate-y-2 pointer-events-none'
-        }`}
+          }`}
       >
         <div className="py-2">
           <button className="w-full px-4 py-3 flex items-center space-x-3 transition-colors">
