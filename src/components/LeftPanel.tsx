@@ -86,7 +86,7 @@ const LeftPanel: React.FC = () => {
         </svg>
       </button>
       
-      <nav className={`flex-1 px-4 py-2 overflow-y-auto transition-all duration-300 ease-in-out ${
+      <nav className={`flex-1 px-4 py-2 overflow-y-auto transition-all duration-300 ease-in-out scrollbar-hide ${
         isExpanded ? 'opacity-100' : 'opacity-0 pointer-events-none'
       }`}>
           <h2 className="text-lg font-bold mb-4">Sumário</h2>

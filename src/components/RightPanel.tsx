@@ -32,7 +32,7 @@ const RightPanel: React.FC = () => {
         </svg>
       </button>
       
-      <div className={`flex-1 px-4 py-2 overflow-y-auto transition-all duration-300 ease-in-out ${
+      <div className={`flex-1 px-4 py-2 overflow-y-auto transition-all duration-300 ease-in-out scrollbar-hide ${
         isExpanded ? 'opacity-100' : 'opacity-0 pointer-events-none'
       }`}>
           <div className="space-y-4">
