@@ -5,7 +5,6 @@ import DanteIcon from './icons/DanteIcon';
 import MailIcon from './icons/MailIcon';
 import MenuIcon from './icons/MenuIcon';
 import SearchIcon from './icons/SearchIcon';
-import SettingsIcon from './icons/SettingsIcon';
 import ThemeIcon from './icons/ThemeIcon';
 import { useReading } from '../context/ReadingContext';
 import { useTheme } from '../context/ThemeContext';
@@ -89,9 +88,6 @@ const Header: React.FC = () => {
           >
             <ThemeIcon />
           </button>
-          <button className="p-2 rounded-lg transition-colors" aria-label="Configurações">
-            <SettingsIcon />
-          </button>
           <button className="p-2 rounded-lg transition-colors" aria-label="Pesquisar">
             <SearchIcon />
           </button>
@@ -127,10 +123,6 @@ const Header: React.FC = () => {
             <span className={bookFontClasses.base}>
               {variant === 'light' ? 'Tema Escuro' : 'Tema Claro'}
             </span>
-          </button>
-          <button className="w-full px-4 py-3 flex items-center space-x-3 transition-colors">
-            <SettingsIcon />
-            <span className={bookFontClasses.base}>Configurações</span>
           </button>
           <button className="w-full px-4 py-3 flex items-center space-x-3 transition-colors">
             <SearchIcon />
