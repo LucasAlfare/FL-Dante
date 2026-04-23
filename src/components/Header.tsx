@@ -8,6 +8,7 @@ import SearchIcon from './icons/SearchIcon';
 import ThemeIcon from './icons/ThemeIcon';
 import { useReading } from '../context/ReadingContext';
 import { useTheme } from '../context/ThemeContext';
+import { useSearch } from '../context/SearchContext';
 
 const Header: React.FC = () => {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
@@ -16,6 +17,7 @@ const Header: React.FC = () => {
   const { currentBook, currentChapter } = state;
   const { state: themeState, toggleVariant } = useTheme();
   const { variant } = themeState;
+  const { openSearch } = useSearch();
 
   // Calculate Roman numeral once to avoid multiple function calls
   const currentChapterRoman = toRoman(currentChapter);
@@ -88,7 +90,7 @@ const Header: React.FC = () => {
           >
             <ThemeIcon />
           </button>
-          <button className="p-2 rounded-lg transition-colors" aria-label="Pesquisar">
+          <button className="p-2 rounded-lg transition-colors" aria-label="Pesquisar" onClick={openSearch}>
             <SearchIcon />
           </button>
           <button className="p-2 rounded-lg transition-colors" aria-label="Mensagens">
@@ -124,7 +126,7 @@ const Header: React.FC = () => {
               {variant === 'light' ? 'Tema Escuro' : 'Tema Claro'}
             </span>
           </button>
-          <button className="w-full px-4 py-3 flex items-center space-x-3 transition-colors">
+          <button className="w-full px-4 py-3 flex items-center space-x-3 transition-colors" onClick={openSearch}>
             <SearchIcon />
             <span className={bookFontClasses.base}>Pesquisar</span>
           </button>
