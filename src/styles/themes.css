@@ -1,0 +1,199 @@
+/* Theme CSS Variables - Applied dynamically by ThemeContext */
+
+:root {
+  /* Default theme variables - will be overridden by theme context */
+  --color-primary: #DC2626;
+  --color-secondary: #EF4444;
+  --color-accent: #FCA5A5;
+  --color-background: #FEF2F2;
+  --color-surface: #FEE2E2;
+  --color-text: #7F1D1D;
+  --color-text-secondary: #991B1B;
+  --color-border: #FCA5A5;
+  --color-shadow: rgba(220, 38, 38, 0.1);
+}
+
+/* Theme-specific body styles with smooth transitions */
+body {
+  background-color: var(--color-background);
+  color: var(--color-text);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Theme-specific classes */
+.theme-inferno {
+  /* Inferno specific styles if needed */
+}
+
+.theme-purgatory {
+  /* Purgatory specific styles if needed */
+}
+
+.theme-paradise {
+  /* Paradise specific styles if needed */
+}
+
+/* Component theme styles with smooth transitions */
+header {
+  background-color: var(--color-surface);
+  border-color: var(--color-border);
+  color: var(--color-text);
+  transition: background-color 0.3s ease, border-color 0.3s ease, color 0.3s ease;
+}
+
+header button {
+  color: var(--color-text);
+  background-color: transparent;
+  border-color: var(--color-border);
+  transition: color 0.3s ease, background-color 0.3s ease, border-color 0.3s ease;
+}
+
+header button:hover {
+  background-color: var(--color-accent);
+  transition: background-color 0.2s ease;
+}
+
+/* LeftPanel theme styling with smooth transitions */
+aside {
+  background-color: var(--color-surface);
+  border-color: var(--color-border);
+  color: var(--color-text);
+  transition: background-color 0.3s ease, border-color 0.3s ease, color 0.3s ease;
+}
+
+aside button {
+  color: var(--color-text);
+  transition: color 0.3s ease;
+}
+
+aside button:hover {
+  background-color: var(--color-accent);
+  transition: background-color 0.2s ease;
+}
+
+aside h2 {
+  color: var(--color-text);
+  transition: color 0.3s ease;
+}
+
+aside .border-l-2 {
+  border-color: var(--color-border);
+  transition: border-color 0.3s ease;
+}
+
+aside .font-medium {
+  color: var(--color-text);
+  transition: color 0.3s ease;
+}
+
+aside .font-semibold {
+  color: var(--color-primary);
+  transition: color 0.3s ease;
+}
+
+/* Drop cap theme styling with smooth transitions */
+.drop-cap-first-letter-custom p:first-of-type::first-letter {
+  color: var(--color-primary);
+  transition: color 0.3s ease;
+}
+
+/* Global theme transitions for text and background colors only */
+* {
+  transition: color 0.3s ease, background-color 0.3s ease, border-color 0.3s ease !important;
+}
+
+/* Preserve existing transitions for layout animations */
+aside {
+  transition: background-color 0.3s ease, border-color 0.3s ease, color 0.3s ease, width 0.3s ease !important;
+}
+
+aside button {
+  transition: color 0.3s ease, background-color 0.3s ease, border-color 0.3s ease, transform 0.3s ease !important;
+}
+
+aside div[class*="transition"] {
+  transition: opacity 0.3s ease, transform 0.3s ease, max-width 0.3s ease !important;
+}
+
+header {
+  transition: background-color 0.3s ease, border-color 0.3s ease, color 0.3s ease !important;
+}
+
+header button {
+  transition: color 0.3s ease, background-color 0.3s ease, border-color 0.3s ease, transform 0.3s ease !important;
+}
+
+footer {
+  transition: background-color 0.3s ease, border-color 0.3s ease, color 0.3s ease !important;
+}
+
+footer button {
+  transition: color 0.3s ease, background-color 0.3s ease, border-color 0.3s ease, opacity 0.3s ease !important;
+}
+
+/* Mobile menu transitions */
+div[class*="absolute"][class*="top-16"] {
+  transition: opacity 0.3s ease, transform 0.3s ease !important;
+}
+
+/* Exception for hover effects to keep them responsive */
+*:hover {
+  transition-duration: 0.2s !important;
+}
+
+/* Specific transitions for different element types */
+button {
+  transition: color 0.3s ease, background-color 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease !important;
+}
+
+input, textarea, select {
+  transition: color 0.3s ease, background-color 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease !important;
+}
+
+.main-content, .content-area {
+  transition: color 0.3s ease, background-color 0.3s ease !important;
+}
+
+/* CenterPanel content theme styling */
+main {
+  color: var(--color-text);
+  transition: color 0.3s ease;
+}
+
+main .max-w-4xl {
+  color: var(--color-text);
+  transition: color 0.3s ease;
+}
+
+/* Footer theme styling */
+footer {
+  background-color: var(--color-surface);
+  border-color: var(--color-border);
+  color: var(--color-text);
+  transition: background-color 0.3s ease, border-color 0.3s ease, color 0.3s ease;
+}
+
+footer button {
+  color: var(--color-text);
+  transition: color 0.3s ease, opacity 0.2s ease;
+}
+
+footer p {
+  color: var(--color-text);
+  transition: color 0.3s ease;
+}
+
+/* Main component theme styling */
+main.main {
+  background-color: var(--color-background);
+  transition: background-color 0.3s ease;
+}
+
+/* Loading and error states theme styling */
+.text-gray-600 {
+  color: var(--color-text-secondary) !important;
+}
+
+.text-red-600 {
+  color: var(--color-primary) !important;
+}

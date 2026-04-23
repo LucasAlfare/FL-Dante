@@ -6,13 +6,17 @@ import MailIcon from './icons/MailIcon';
 import MenuIcon from './icons/MenuIcon';
 import SearchIcon from './icons/SearchIcon';
 import SettingsIcon from './icons/SettingsIcon';
+import ThemeIcon from './icons/ThemeIcon';
 import { useReading } from '../context/ReadingContext';
+import { useTheme } from '../context/ThemeContext';
 
 const Header: React.FC = () => {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const menuRef = useRef<HTMLDivElement>(null);
   const { state } = useReading();
   const { currentBook, currentChapter } = state;
+  const { state: themeState, toggleVariant } = useTheme();
+  const { variant } = themeState;
 
   // Calculate Roman numeral once to avoid multiple function calls
   const currentChapterRoman = toRoman(currentChapter);
@@ -78,6 +82,13 @@ const Header: React.FC = () => {
 
         {/* Right side: Control buttons - only visible on large screens */}
         <div className="hidden lg:flex items-center space-x-2">
+          <button 
+            className="p-2 rounded-lg transition-colors" 
+            aria-label={variant === 'light' ? 'Alternar para tema escuro' : 'Alternar para tema claro'}
+            onClick={toggleVariant}
+          >
+            <ThemeIcon />
+          </button>
           <button className="p-2 rounded-lg transition-colors" aria-label="Configurações">
             <SettingsIcon />
           </button>
@@ -108,6 +119,15 @@ const Header: React.FC = () => {
           }`}
       >
         <div className="py-2">
+          <button 
+            className="w-full px-4 py-3 flex items-center space-x-3 transition-colors"
+            onClick={toggleVariant}
+          >
+            <ThemeIcon />
+            <span className={bookFontClasses.base}>
+              {variant === 'light' ? 'Tema Escuro' : 'Tema Claro'}
+            </span>
+          </button>
           <button className="w-full px-4 py-3 flex items-center space-x-3 transition-colors">
             <SettingsIcon />
             <span className={bookFontClasses.base}>Configurações</span>

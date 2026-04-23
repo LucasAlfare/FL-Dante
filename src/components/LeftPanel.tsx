@@ -65,10 +65,10 @@ const LeftPanel: React.FC = () => {
   }, [isExpanded, state.currentBook]);
 
   return (
-    <aside className={`h-full border-r border-gray-200 transition-all duration-300 ease-in-out ${isExpanded ? 'w-[300px]' : 'w-[40px]'} flex flex-col`}>
+    <aside className={`h-full border-r transition-all duration-300 ease-in-out ${isExpanded ? 'w-[300px]' : 'w-[40px]'} flex flex-col`}>
       <button
         onClick={togglePanel}
-        className="p-2 hover:bg-gray-100 transition-colors duration-200 rounded-r-lg self-start"
+        className="p-2 transition-colors duration-200 rounded-r-lg self-start"
         aria-label={isExpanded ? 'Collapse left panel' : 'Expand left panel'}
       >
         <svg
@@ -89,18 +89,18 @@ const LeftPanel: React.FC = () => {
       <nav className={`flex-1 px-4 py-2 overflow-y-auto transition-all duration-300 ease-in-out ${
         isExpanded ? 'opacity-100' : 'opacity-0 pointer-events-none'
       }`}>
-          <h2 className="text-lg font-bold mb-4 text-gray-800">Sumário</h2>
+          <h2 className="text-lg font-bold mb-4">Sumário</h2>
           
           <div className="space-y-2">
             {booksData.map((bookData) => (
-              <div key={bookData.book} className="border-l-2 border-gray-300 pl-2">
+              <div key={bookData.book} className="border-l-2 pl-2">
                 <button
                   onClick={() => toggleBook(bookData.book)}
-                  className={`w-full text-left flex items-center justify-between p-2 rounded hover:bg-gray-100 transition-colors ${
-                    isCurrentBook(bookData.book) ? 'bg-gray-200 font-semibold' : ''
+                  className={`w-full text-left flex items-center justify-between p-2 rounded transition-colors ${
+                    isCurrentBook(bookData.book) ? 'font-semibold' : ''
                   }`}
                 >
-                  <span className="text-sm font-medium text-gray-700">
+                  <span className="text-sm font-medium">
                     {bookData.title}
                   </span>
                   <svg
@@ -128,8 +128,8 @@ const LeftPanel: React.FC = () => {
                         onClick={() => handleChapterClick(bookData.book, chapter)}
                         className={`w-full text-left p-1 pl-4 rounded text-sm transition-colors ${
                           isCurrentChapter(bookData.book, chapter)
-                            ? 'bg-blue-100 text-blue-700 font-medium'
-                            : 'text-gray-600 hover:bg-gray-50 hover:text-gray-800'
+                            ? 'font-medium'
+                            : 'hover:opacity-80'
                         }`}
                       >
                         Canto {romanNumeralsCache[chapter]}

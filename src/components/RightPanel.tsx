@@ -11,10 +11,10 @@ const RightPanel: React.FC = () => {
   };
 
   return (
-    <aside className={`h-full border-l border-gray-200 transition-all duration-300 ease-in-out ${isExpanded ? 'w-[300px]' : 'w-[40px]'} flex flex-col`}>
+    <aside className={`h-full border-l transition-all duration-300 ease-in-out ${isExpanded ? 'w-[300px]' : 'w-[40px]'} flex flex-col`}>
       <button 
         onClick={togglePanel}
-        className="p-2 hover:bg-gray-100 transition-colors duration-200 rounded-l-lg self-end"
+        className="p-2 transition-colors duration-200 rounded-l-lg self-end"
         aria-label={isExpanded ? 'Collapse right panel' : 'Expand right panel'}
       >
         <svg 
@@ -39,11 +39,11 @@ const RightPanel: React.FC = () => {
             {/* Seção Resumo do Canto */}
             {state.summary && (
               <section>
-                <h3 className="text-sm font-bold text-gray-800 mb-2 uppercase tracking-wide">
+                <h3 className="text-sm font-bold mb-2 uppercase tracking-wide">
                   Resumo do Canto
                 </h3>
-                <div className="border-b border-gray-300 mb-3"></div>
-                <div className="text-sm text-gray-600 leading-relaxed">
+                <div className="border-b mb-3"></div>
+                <div className="text-sm leading-relaxed">
                   <ReactMarkdown
                     components={{
                       p: ({ children }) => (
@@ -66,11 +66,11 @@ const RightPanel: React.FC = () => {
             {/* Seção Notas */}
             {state.notes && (
               <section>
-                <h3 className="text-sm font-bold text-gray-800 mb-2 uppercase tracking-wide">
+                <h3 className="text-sm font-bold mb-2 uppercase tracking-wide">
                   Notas
                 </h3>
-                <div className="border-b border-gray-300 mb-3"></div>
-                <div className="text-sm text-gray-600 leading-relaxed">
+                <div className="border-b mb-3"></div>
+                <div className="text-sm leading-relaxed">
                   <ReactMarkdown
                     components={{
                       p: ({ children }) => (
