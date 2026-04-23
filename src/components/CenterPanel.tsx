@@ -28,6 +28,7 @@ const CenterPanel: React.FC = () => {
         className="max-w-4xl mx-auto drop-cap-first-letter-custom"
         style={{
           ...getBookFontStyle('20px'),
+          textIndent: '2em',
         }}
       >
         <ReactMarkdown
