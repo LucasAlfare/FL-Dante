@@ -84,7 +84,7 @@ export const parseMarkdownContent = (content: string): ParsedChapter => {
  * Load chapter content from file and parse it
  */
 export const loadChapterContent = async (book: BookType, chapter: number): Promise<ParsedChapter> => {
-  const filePath = `/books/${book}/canto${chapter}.md`;
+  const filePath = `/FL-Dante/books/${book}/canto${chapter}.md`;
   const response = await fetch(filePath);
 
   if (!response.ok) {
