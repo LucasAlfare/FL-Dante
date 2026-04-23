@@ -1,4 +1,3 @@
-import React from 'react';
 import RootContainer from './components/RootContainer';
 
 function App() {
