@@ -30,8 +30,6 @@ weight = 15
 
 > **A limitação do movimento**: Os condenados não podem parar de caminhar sob pena de ficarem imóveis por cem anos, simbolizando a natureza perpétua do castigo.
 
-# Canto Quinze
-
 A fumaça do riacho subia como um dossel sobre as margens duras, protegendo a água e as bordas do fogo que caía em cascata. Caminhávamos por ali, meu guia e eu, quando percebi que aquelas muralhas de terra não eram obra da natureza.
 
 *Parecem os diques da Flandres*, pensei, lembrando das histórias que ouvira sobre os flamengos entre Guizante e Bruges, construindo barreiras contra o mar que ameaçava engolir suas terras. Ou as defesas que os paduanos erguiam ao longo da Brenta para proteger vilas e castelos, antes que o calor da primavera derretesse as neves de Carentana. Assim eram feitos aqueles parapeitos — não tão altos nem tão grossos, mas na mesma imagem. O mestre que os construíra, fosse quem fosse, entendia de desespero.

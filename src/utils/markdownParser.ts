@@ -18,15 +18,15 @@ export const parseMarkdownContent = (content: string): ParsedChapter => {
   // Remove TOML header
   const headerStart = content.indexOf('+++');
   const headerEnd = content.indexOf('+++', headerStart + 3);
-  
+
   let afterHeader = content;
   if (headerStart !== -1 && headerEnd !== -1) {
     afterHeader = content.slice(headerEnd + 3).trim();
   }
-  
+
   // Find the separator ---
   const separatorIndex = afterHeader.indexOf('\n---\n');
-  
+
   if (separatorIndex === -1) {
     // No separator found, treat everything after header as content
     return {
@@ -35,23 +35,23 @@ export const parseMarkdownContent = (content: string): ParsedChapter => {
       content: afterHeader
     };
   }
-  
+
   const beforeSeparator = afterHeader.substring(0, separatorIndex);
   const afterSeparator = afterHeader.substring(separatorIndex + 5); // +5 to skip \n---\n
-  
+
   // Extract summary (first > block before separator)
   const summaryMatch = beforeSeparator.match(/^>\s*(.+)$/m);
   const summary = summaryMatch ? summaryMatch[1].trim() : '';
-  
+
   // Split after separator into notes and content
   const linesAfterSeparator = afterSeparator.split('\n');
   let notesLines: string[] = [];
   let contentLines: string[] = [];
   let inNotesSection = true;
-  
+
   for (const line of linesAfterSeparator) {
     const trimmedLine = line.trim();
-    
+
     if (inNotesSection) {
       if (trimmedLine.startsWith('>')) {
         // Still in notes section
@@ -69,10 +69,10 @@ export const parseMarkdownContent = (content: string): ParsedChapter => {
       contentLines.push(line);
     }
   }
-  
+
   const notes = notesLines.join('\n');
   const mainContent = contentLines.join('\n').trim();
-  
+
   return {
     summary,
     notes,
@@ -86,7 +86,7 @@ export const parseMarkdownContent = (content: string): ParsedChapter => {
 export const loadChapterContent = async (book: BookType, chapter: number): Promise<ParsedChapter> => {
   const filePath = `/src/books/${book}/canto${chapter}.md`;
   const response = await fetch(filePath);
-  
+
   if (!response.ok) {
     throw new Error(`Failed to load chapter: ${book} canto ${chapter}`);
   }
