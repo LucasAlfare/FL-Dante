@@ -6,12 +6,14 @@ import MailIcon from './icons/MailIcon';
 import MenuIcon from './icons/MenuIcon';
 import SearchIcon from './icons/SearchIcon';
 import ThemeIcon from './icons/ThemeIcon';
+import ContactsPanel from './ContactsPanel';
 import { useReading } from '../context/ReadingContext';
 import { useTheme } from '../context/ThemeContext';
 import { useSearch } from '../context/SearchContext';
 
 const Header: React.FC = () => {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+  const [isContactsPanelOpen, setIsContactsPanelOpen] = useState(false);
   const menuRef = useRef<HTMLDivElement>(null);
   const { state } = useReading();
   const { currentBook, currentChapter } = state;
@@ -34,6 +36,10 @@ const Header: React.FC = () => {
 
   const toggleMobileMenu = (): void => {
     setIsMobileMenuOpen(!isMobileMenuOpen);
+  };
+
+  const toggleContactsPanel = (): void => {
+    setIsContactsPanelOpen(!isContactsPanelOpen);
   };
 
   useEffect(() => {
@@ -93,7 +99,11 @@ const Header: React.FC = () => {
           <button className="p-2 rounded-lg transition-colors" aria-label="Pesquisar" onClick={openSearch}>
             <SearchIcon />
           </button>
-          <button className="p-2 rounded-lg transition-colors" aria-label="Mensagens">
+          <button 
+            className="p-2 rounded-lg transition-colors" 
+            aria-label="Contatos"
+            onClick={toggleContactsPanel}
+          >
             <MailIcon />
           </button>
         </div>
@@ -130,12 +140,17 @@ const Header: React.FC = () => {
             <SearchIcon />
             <span className={bookFontClasses.base}>Pesquisar</span>
           </button>
-          <button className="w-full px-4 py-3 flex items-center space-x-3 transition-colors">
+          <button 
+            className="w-full px-4 py-3 flex items-center space-x-3 transition-colors"
+            onClick={toggleContactsPanel}
+          >
             <MailIcon />
-            <span className={bookFontClasses.base}>Mensagens</span>
+            <span className={bookFontClasses.base}>Contatos</span>
           </button>
         </div>
       </div>
+      
+      <ContactsPanel isOpen={isContactsPanelOpen} onClose={() => setIsContactsPanelOpen(false)} />
     </>
   );
 };

@@ -1,0 +1,33 @@
+{
+  "name": "Francisco Lucas",
+  "contacts": [
+    {
+      "id": "github",
+      "name": "GitHub",
+      "url": "https://github.com/LucasAlfare",
+      "icon": "github",
+      "username": "LucasAlfare"
+    },
+    {
+      "id": "email",
+      "name": "Email",
+      "url": "mailto:god-lucas@hotmail.com",
+      "icon": "mail",
+      "address": "god-lucas@hotmail.com"
+    },
+    {
+      "id": "youtube",
+      "name": "YouTube",
+      "url": "https://youtube.com/@LucasAlfare",
+      "icon": "youtube",
+      "username": "@LucasAlfare"
+    },
+    {
+      "id": "instagram",
+      "name": "Instagram",
+      "url": "https://instagram.com/lucas.alfare",
+      "icon": "instagram",
+      "username": "lucas.alfare"
+    }
+  ]
+}
