@@ -101,7 +101,16 @@ export const ReadingProvider: React.FC<{ children: ReactNode }> = ({ children })
     const loadContent = () => {
       setState(prev => ({ ...prev, loading: true, error: null }));
       try {
-        const bookData = booksData.find(book => book.slug === state.currentBook);
+        // Find book by inferring slug from name
+        const bookData = booksData.find(book => {
+          const slug = book.name
+            .toLowerCase()
+            .normalize('NFD')
+            .replace(/[\u0300-\u036f]/g, '') // Remove accents
+            .replace(/[^a-z0-9]/g, ''); // Keep only letters and numbers
+          return slug === state.currentBook;
+        });
+        
         if (!bookData) {
           throw new Error(`Book not found: ${state.currentBook}`);
         }

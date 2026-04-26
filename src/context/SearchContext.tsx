@@ -1,5 +1,5 @@
 import React, { createContext, useContext, useState, useEffect } from 'react';
-import searchIndexData from '../data/search-index.json';
+import booksData from '../data/books.json';
 import { useReading } from './ReadingContext';
 
 // Normalize text for search: remove accents and convert to lowercase
@@ -18,6 +18,17 @@ interface SearchResult {
   summary: string;
   content: string;
   path: string;
+}
+
+interface BookData {
+  name: string;
+  chapters: ChapterData[];
+}
+
+interface ChapterData {
+  summary: string;
+  notes: string[];
+  body: string;
 }
 
 interface SearchContextType {
@@ -53,8 +64,36 @@ export const SearchProvider: React.FC<SearchProviderProps> = ({ children }) => {
   const { goToChapter } = useReading();
 
   useEffect(() => {
-    // Load search index on mount
-    setSearchIndex(searchIndexData as SearchResult[]);
+    // Transform books.json into search index
+    const transformBooksToSearchIndex = (): SearchResult[] => {
+      const books = booksData as BookData[];
+      const searchIndex: SearchResult[] = [];
+      
+      books.forEach((book) => {
+        // Infer slug from name: convert to lowercase and replace spaces/accents
+        const slug = book.name
+          .toLowerCase()
+          .normalize('NFD')
+          .replace(/[\u0300-\u036f]/g, '') // Remove accents
+          .replace(/[^a-z0-9]/g, ''); // Keep only letters and numbers
+        
+        book.chapters.forEach((chapter, index) => {
+          searchIndex.push({
+            id: `${slug}-canto${index + 1}`,
+            book: slug,
+            chapter: index + 1,
+            title: `Canto ${index + 1}`,
+            summary: chapter.summary,
+            content: chapter.body,
+            path: `/${slug}/canto${index + 1}`
+          });
+        });
+      });
+      
+      return searchIndex;
+    };
+    
+    setSearchIndex(transformBooksToSearchIndex());
   }, []);
 
   const performSearch = (query: string) => {

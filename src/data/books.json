@@ -1,7 +1,6 @@
 [
   {
     "name": "Inferno",
-    "slug": "inferno",
     "chapters": [
       {
         "summary": "Dante se encontra perdido em uma selva escura aos 35 anos, simbolizando sua crise espiritual no meio da vida. Encontra três feras que bloqueiam seu caminho (pantera, leão e loba) representando os pecados de luxúria, orgulho e avareza. Encontra Virgílio, que se oferece para guiá-lo através do Inferno para alcançar a salvação, revelando que foi enviado por Beatriz.",
@@ -475,7 +474,6 @@
   },
   {
     "name": "Paraíso",
-    "slug": "paradise",
     "chapters": [
       {
         "summary": "Neste canto inaugural do Paraíso, Dante inicia sua jornada celestial através das esferas celestes, acompanhado por Beatriz. O poeta é transportado do Purgatório para o céu da Lua, onde experimenta uma transformação espiritual e física. O canto estabelece a estrutura cosmológica da obra, baseada no modelo ptolomaico, e apresenta as dificuldades da linguagem humana para descrever as experiências divinas. Dante invoca a inspiração de Apolo e enfrenta suas primeiras dúvidas sobre a natureza de sua ascensão, sendo instruído por Beatriz sobre a ordem divina que governa o universo.",
@@ -712,7 +710,6 @@
   },
   {
     "name": "Purgatório",
-    "slug": "purgatory",
     "chapters": [
       {
         "summary": "Após escapar do Inferno, Dante e Virgílio chegam à ilha do Purgatório, onde encontram o guardião Catão. O canto estabelece a atmosfera de esperança e renovação, contrastando com a escuridão do abismo anterior. Dante é purificado com um junco milagroso que renasce instantaneamente, simbolizando o início da redenção e a natureza regenerativa do Purgatório.",
