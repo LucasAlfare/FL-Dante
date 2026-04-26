@@ -1,14 +1,7 @@
 import React, { createContext, useContext, useState, useEffect } from 'react';
 import booksData from '../data/books.json';
 import { useReading } from './ReadingContext';
-
-// Normalize text for search: remove accents and convert to lowercase
-const normalizeText = (text: string): string => {
-  return text
-    .toLowerCase()
-    .normalize('NFD')
-    .replace(/[\u0300-\u036f]/g, ''); // Remove accents
-};
+import { normalizeText, getBookKey } from '../utils/constants';
 
 interface SearchResult {
   id: string;
@@ -70,22 +63,17 @@ export const SearchProvider: React.FC<SearchProviderProps> = ({ children }) => {
       const searchIndex: SearchResult[] = [];
       
       books.forEach((book) => {
-        // Infer slug from name: convert to lowercase and replace spaces/accents
-        const slug = book.name
-          .toLowerCase()
-          .normalize('NFD')
-          .replace(/[\u0300-\u036f]/g, '') // Remove accents
-          .replace(/[^a-z0-9]/g, ''); // Keep only letters and numbers
+        const bookKey = getBookKey(book.name);
         
         book.chapters.forEach((chapter, index) => {
           searchIndex.push({
-            id: `${slug}-canto${index + 1}`,
-            book: slug,
+            id: `${bookKey}-canto${index + 1}`,
+            book: bookKey,
             chapter: index + 1,
             title: `Canto ${index + 1}`,
             summary: chapter.summary,
             content: chapter.body,
-            path: `/${slug}/canto${index + 1}`
+            path: `/${bookKey}/canto${index + 1}`
           });
         });
       });

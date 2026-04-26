@@ -1,19 +1,11 @@
 import React from 'react';
 import { useReading } from '../context/ReadingContext';
+import { BOOK_CHAPTERS } from '../utils/constants';
 
 const Footer: React.FC = () => {
   const { previousChapter, nextChapter, state } = useReading();
   
-  const getTotalChapters = (book: string): number => {
-    switch (book) {
-      case 'inferno': return 34;
-      case 'purgatory': return 33;
-      case 'paradise': return 33;
-      default: return 34;
-    }
-  };
-  
-  const totalChapters = getTotalChapters(state.currentBook);
+  const totalChapters = BOOK_CHAPTERS[state.currentBook];
   const isFirstChapter = state.globalChapter === 1;
   const isLastChapter = state.globalChapter === 100;
   const currentChapter = state.currentChapter;

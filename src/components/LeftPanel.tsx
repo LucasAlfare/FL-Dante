@@ -21,15 +21,6 @@ const LeftPanel: React.FC = () => {
   const [expandedBooks, setExpandedBooks] = useState<Set<BookType>>(new Set());
   const { state, goToChapter } = useReading();
   
-  // Pre-calculate Roman numerals for all chapters to avoid multiple function calls
-  const romanNumeralsCache = React.useMemo(() => {
-    const cache: Record<number, string> = {};
-    for (let i = 1; i <= 34; i++) {
-      cache[i] = toRoman(i);
-    }
-    return cache;
-  }, []);
-
   const togglePanel = () => {
     setIsExpanded(!isExpanded);
   };
@@ -59,7 +50,6 @@ const LeftPanel: React.FC = () => {
   };
 
   useEffect(() => {
-    // Auto-expand current book only when panel is first opened
     if (isExpanded && expandedBooks.size === 0) {
       setExpandedBooks(prev => new Set(prev).add(state.currentBook));
     }
@@ -133,7 +123,7 @@ const LeftPanel: React.FC = () => {
                             : 'hover:opacity-80'
                         }`}
                       >
-                        Canto {romanNumeralsCache[chapter]}
+                        Canto {toRoman(chapter)}
                       </button>
                     ))}
                   </div>

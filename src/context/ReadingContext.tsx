@@ -1,20 +1,20 @@
 import React, { createContext, useContext, useState, useEffect } from 'react';
 import type { ReactNode } from 'react';
 import booksData from '../data/books.json';
+import { BOOK_CHAPTERS, getBookName } from '../utils/constants';
 
 type BookType = 'inferno' | 'purgatory' | 'paradise';
 
-// Helper functions
 const globalToBookChapter = (globalChapter: number): { book: BookType; chapter: number } => {
-  if (globalChapter <= 34) return { book: 'inferno', chapter: globalChapter };
-  if (globalChapter <= 67) return { book: 'purgatory', chapter: globalChapter - 34 };
-  return { book: 'paradise', chapter: globalChapter - 67 };
+  if (globalChapter <= BOOK_CHAPTERS.inferno) return { book: 'inferno', chapter: globalChapter };
+  if (globalChapter <= BOOK_CHAPTERS.inferno + BOOK_CHAPTERS.purgatory) return { book: 'purgatory', chapter: globalChapter - BOOK_CHAPTERS.inferno };
+  return { book: 'paradise', chapter: globalChapter - BOOK_CHAPTERS.inferno - BOOK_CHAPTERS.purgatory };
 };
 
 const bookChapterToGlobal = (book: BookType, chapter: number): number => {
   if (book === 'inferno') return chapter;
-  if (book === 'purgatory') return 34 + chapter;
-  if (book === 'paradise') return 67 + chapter;
+  if (book === 'purgatory') return BOOK_CHAPTERS.inferno + chapter;
+  if (book === 'paradise') return BOOK_CHAPTERS.inferno + BOOK_CHAPTERS.purgatory + chapter;
   return 1;
 };
 
@@ -101,15 +101,9 @@ export const ReadingProvider: React.FC<{ children: ReactNode }> = ({ children })
     const loadContent = () => {
       setState(prev => ({ ...prev, loading: true, error: null }));
       try {
-        // Find book by inferring slug from name
-        const bookData = booksData.find(book => {
-          const slug = book.name
-            .toLowerCase()
-            .normalize('NFD')
-            .replace(/[\u0300-\u036f]/g, '') // Remove accents
-            .replace(/[^a-z0-9]/g, ''); // Keep only letters and numbers
-          return slug === state.currentBook;
-        });
+        // Find book by matching the exact name from JSON
+        const expectedBookName = getBookName(state.currentBook);
+        const bookData = booksData.find(book => book.name === expectedBookName);
         
         if (!bookData) {
           throw new Error(`Book not found: ${state.currentBook}`);

@@ -10,6 +10,7 @@ import ContactsPanel from './ContactsPanel';
 import { useReading } from '../context/ReadingContext';
 import { useTheme } from '../context/ThemeContext';
 import { useSearch } from '../context/SearchContext';
+import { getBookName } from '../utils/constants';
 
 const Header: React.FC = () => {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
@@ -21,18 +22,7 @@ const Header: React.FC = () => {
   const { variant } = themeState;
   const { openSearch } = useSearch();
 
-  // Calculate Roman numeral once to avoid multiple function calls
   const currentChapterRoman = toRoman(currentChapter);
-
-  // Helper function to get book name in Portuguese
-  const getBookName = (book: string): string => {
-    switch (book) {
-      case 'inferno': return 'Inferno';
-      case 'purgatory': return 'Purgatório';
-      case 'paradise': return 'Paraíso';
-      default: return book;
-    }
-  };
 
   const toggleMobileMenu = (): void => {
     setIsMobileMenuOpen(!isMobileMenuOpen);
