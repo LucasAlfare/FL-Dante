@@ -12,7 +12,7 @@ const RootContainer: React.FC = () => {
     <ReadingProvider>
       <ThemeProvider>
         <SearchProvider>
-          <div className="w-screen h-screen overflow-hidden flex flex-col">
+          <div className="w-screen h-[100dvh] overflow-hidden flex flex-col">
             <Header />
             <Main />
             <Footer />
