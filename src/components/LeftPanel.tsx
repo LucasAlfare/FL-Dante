@@ -1,7 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import { useReading } from '../context/ReadingContext';
 import { toRoman } from '../utils/romanNumerals';
-import type { BookType } from '../utils/markdownParser';
+
+type BookType = 'inferno' | 'purgatory' | 'paradise';
 
 interface BookStructure {
   book: BookType;

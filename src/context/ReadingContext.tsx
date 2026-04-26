@@ -1,11 +1,22 @@
 import React, { createContext, useContext, useState, useEffect } from 'react';
 import type { ReactNode } from 'react';
-import { 
-  type BookType, 
-  loadChapterContent, 
-  globalToBookChapter, 
-  bookChapterToGlobal 
-} from '../utils/markdownParser';
+import booksData from '../data/books.json';
+
+type BookType = 'inferno' | 'purgatory' | 'paradise';
+
+// Helper functions
+const globalToBookChapter = (globalChapter: number): { book: BookType; chapter: number } => {
+  if (globalChapter <= 34) return { book: 'inferno', chapter: globalChapter };
+  if (globalChapter <= 67) return { book: 'purgatory', chapter: globalChapter - 34 };
+  return { book: 'paradise', chapter: globalChapter - 67 };
+};
+
+const bookChapterToGlobal = (book: BookType, chapter: number): number => {
+  if (book === 'inferno') return chapter;
+  if (book === 'purgatory') return 34 + chapter;
+  if (book === 'paradise') return 67 + chapter;
+  return 1;
+};
 
 interface ReadingState {
   currentBook: BookType;
@@ -87,15 +98,24 @@ export const ReadingProvider: React.FC<{ children: ReactNode }> = ({ children })
   };
 
   useEffect(() => {
-    const loadContent = async () => {
+    const loadContent = () => {
       setState(prev => ({ ...prev, loading: true, error: null }));
       try {
-        const { summary, notes, content } = await loadChapterContent(state.currentBook, state.currentChapter);
+        const bookData = booksData.find(book => book.slug === state.currentBook);
+        if (!bookData) {
+          throw new Error(`Book not found: ${state.currentBook}`);
+        }
+        
+        const chapterData = bookData.chapters[state.currentChapter - 1];
+        if (!chapterData) {
+          throw new Error(`Chapter not found: ${state.currentBook} canto ${state.currentChapter}`);
+        }
+        
         setState(prev => ({
           ...prev,
-          summary,
-          notes,
-          content,
+          summary: chapterData.summary,
+          notes: chapterData.notes.join('\n\n'),
+          content: chapterData.body,
           loading: false,
           error: null,
         }));
