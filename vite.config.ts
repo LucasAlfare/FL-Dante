@@ -7,6 +7,10 @@ export default defineConfig({
   plugins: [react(), tailwindcss()],
   base: '/FL-Dante/',
   assetsInclude: ['**/*.md'],
+  server: {
+    host: '0.0.0.0',
+    port: 5173
+  },
   build: {
     outDir: 'dist',
     copyPublicDir: true
