@@ -1,5 +1,5 @@
 export const bookTypography = {
-  fontFamily: '"Bembo", Georgia, "Times New Roman", serif',
+  fontFamily: '"HaboroContrast", Georgia, "Times New Roman", serif',
   scales: {
     xs: '14px',
     sm: '16px', 

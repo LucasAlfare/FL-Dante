@@ -1,8 +1,8 @@
 @import "tailwindcss";
 
 @font-face {
-  font-family: 'Bembo';
-  src: url('./fonts/bembo_regular.otf') format('opentype');
+  font-family: 'HaboroContrast';
+  src: url('./fonts/HaboroContrast-NorReg.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
