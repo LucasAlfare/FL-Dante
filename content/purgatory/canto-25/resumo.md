@@ -1,0 +1,1 @@
+No sétimo terraço, Dante pergunta sobre como as almas podem emagrecer sem necessidade de alimento. Estácio explica a teoria medieval da formação das sombras após a morte, descrevendo como o espírito assume forma virtual. Eles chegam ao terraço da luxúria, onde almas caminham entre fogo e abismo, cantando hinos de castidade e exemplos de pureza.

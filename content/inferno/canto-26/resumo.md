@@ -1,0 +1,1 @@
+Na oitava bolgia, Dante encontra os conselheiros fraudulentos envoltos em chamas. Ele vê Ulisses e Diomedes em uma única chama bifurcada. Ulisses narra sua última viagem além dos Pilares de Hércules, onde ele e seus companheiros buscaram conhecimento e virtude, mas foram destruídos por uma tempestade ao avistar o Purgatório.

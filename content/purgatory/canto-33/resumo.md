@@ -1,0 +1,1 @@
+Beatrice faz profecias sobre a redenção da Igreja, predizendo que um "mensageiro de Deus" (o DXV - 515) destruirá a corrupção. Ela explica a justiça divina na árvore do conhecimento e instrui Dante a beber das águas do Eunoe para restaurar sua memória do bem. Dante se purifica completamente, preparado para ascender ao Paraíso.

@@ -1,0 +1,1 @@
+Na terceira bolgia, Dante encontra os simoníacos (clérigos que venderam cargos eclesiásticos) presos de cabeça para baixo em buracos com os pés em chamas. Um papa confunde Dante com Bonifácio VIII e profetiza a vinda de Clemente V. Dante critica duramente a corrupção da Igreja e a Doação de Constantino.

@@ -1,0 +1,1 @@
+Os Malebranche guiam Dante e Virgílio pela quinta bolgia. Um pecador navarrês é capturado e revela nomes de outros corruptos, incluindo Frei Gomita. O navarrês engana os demônios e escapa para o pez, enquanto dois demônios (Alichino e Calcabrina) brigam e caem no pez fervente.

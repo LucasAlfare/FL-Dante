@@ -1,0 +1,1 @@
+No terceiro terraço, Dante e Virgílio caminham através de uma fumaça densa que representa a cegueira da ira. Eles encontram Marco Lombardo, que explica a corrupção do mundo como resultado do mau uso do livre-arbítrio e da confusão entre poder espiritual e temporal. Marco critica a Igreja por unir os dois poderes e lamenta a decadência dos valores corteses.

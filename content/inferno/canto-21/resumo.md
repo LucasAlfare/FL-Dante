@@ -1,0 +1,1 @@
+Na quinta bolgia, Dante encontra os corruptos (barratários) imersos em pez fervente, guardados por demônios chamados Malebranche. Um demônio traz um pecador de Lucca, que é torturado pelos outros. Virgílio negocia com Malacoda, o líder dos demônios, que concorda em guiá-los até a próxima ponte, revelando que uma ponte está quebrada desde a época de Cristo.

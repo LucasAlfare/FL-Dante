@@ -1,0 +1,1 @@
+Dante e Virgílio deixam Malebolge e encontram gigantes acorrentados no poço central. Virgílio identifica Nembrot (causador da confusão das línguas), Fialte (que desafiou Júpiter), e Anteu (que os ajuda a descer até o lago gelado de Cocito). Anteu os deposita suavemente no fundo do Inferno.

@@ -1,0 +1,1 @@
+Em Malebolge, Dante explora as primeiras duas bolgias dos fraudulentos. Na primeira, os rufiões e sedutores são chicoteados por demônios. Ele encontra Venedico Caccianemico e Jasão. Na segunda bolgia, os aduladores estão imersos em excrementos, incluindo Alessio Interminei e a cortesã Taís.

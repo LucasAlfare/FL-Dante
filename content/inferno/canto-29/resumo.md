@@ -1,0 +1,1 @@
+Na décima bolgia, Dante encontra os falsificadores sofrendo de doenças horríveis. Ele vê Geri del Bello, parente morto não vingado. Encontra dois alquimistas: um aretino que foi queimado por falsificar metais, e Capocchio, falsificador de moedas. Eles sofrem de doenças de pele que os fazem se coçar incessantemente.

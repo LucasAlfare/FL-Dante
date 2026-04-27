@@ -1,0 +1,1 @@
+Dante conversa com Farinata degli Uberti, líder gibelino sepultado em túmulo em chamas por heresia. Farinata revela que os condenados podem ver o futuro mas não o presente. Cavalcante dei Cavalcanti, pai de Guido, surge desesperado perguntando pelo filho, e desmaia ao pensar que ele está morto. Farinata menciona outros hereges como Frederico II.

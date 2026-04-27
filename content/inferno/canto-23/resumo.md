@@ -1,0 +1,1 @@
+Dante e Virgílio escapam dos Malebranche deslizando para a sexta bolgia. Encontram os hipócritas usando capas douradas por fora mas de chumbo por dentro. Conhecem os frades Catalano e Loderingo, que traíram sua missão de paz. Também veem Caifás crucificado no chão, e descobrem que foram enganados pelos demônios sobre a ponte quebrada.

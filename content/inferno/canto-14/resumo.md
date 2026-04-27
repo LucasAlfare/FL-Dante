@@ -1,0 +1,1 @@
+No terceiro anel do sétimo círculo, Dante encontra a areia ardente onde são punidos os violentos contra Deus. Encontra Capaneu, um gigante blasfemo que desafia Júpiter mesmo no Inferno. Virgílio explica a origem dos rios do Inferno através das lágrimas do Velho de Creta, uma estátua simbólica que representa as idades da humanidade.

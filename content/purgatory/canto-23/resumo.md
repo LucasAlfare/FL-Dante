@@ -1,0 +1,1 @@
+No sexto terraço, Dante encontra os gulosos que purificam seu pecado através da fome extrema. Ele reconhece Forese Donati, que explica como as orações de sua esposa Nella aceleraram sua purificação. Forese critica as mulheres de Florença e profetiza punições futuras. Dante revela sua identidade e sua jornada guiada por Virgílio e Estácio.

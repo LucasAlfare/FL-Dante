@@ -1,0 +1,1 @@
+Dante continua conversando com Forese Donati, que apresenta outros gulosos incluindo Bonagiunta de Luca. Bonagiunta reconhece Dante como o poeta do "dolce stil novo" e compara seu estilo com o dos poetas anteriores. Forese faz uma profecia enigmática sobre a corrupção de Florença. Eles encontram outra árvore mística e um anjo que os guia ao sétimo terraço.

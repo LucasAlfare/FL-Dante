@@ -1,0 +1,1 @@
+Dante conversa com os invejosos Guido del Duca e Rinieri da Calboli, que lamentam a decadência moral de suas regiões. Guido faz uma profecia sobre a corrupção do vale do Arno, descrevendo seus habitantes como porcos, cães e lobos. Vozes exemplares de generosidade são ouvidas, e Virgílio explica como o amor mal direcionado leva à inveja e outros pecados.

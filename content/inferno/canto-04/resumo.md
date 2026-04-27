@@ -1,0 +1,1 @@
+Dante desperta no Limbo, o primeiro círculo do Inferno, onde encontram as almas virtuosas que não conheceram Cristo. Virgílio explica que este é seu próprio círculo e apresenta a Dante os grandes poetas clássicos (Homero, Horácio, Ovídio, Lucano) e filósofos, incluindo Aristóteles, em um nobre castelo.

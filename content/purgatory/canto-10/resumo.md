@@ -1,0 +1,1 @@
+Dante entra no primeiro terraço do Purgatório, onde os soberbos purificam seu orgulho carregando pesos enormes que os curvam. A parede é decorada com exemplares de humildade: a Anunciação, Davi dançando perante a arca, e o imperador Trajano atendendo uma viúva. As esculturas são tão perfeitas que enganam os sentidos, mostrando como a virtude deve superar a vaidade.

@@ -1,0 +1,1 @@
+No terceiro círculo, Dante encontra os gulosos sob uma chuva eterna de granizo, neve e água suja. O monstro Cerberus, cão de três cabeças, atormenta as almas na lama. Dante conversa com Ciacco, um florentino que profetiza as lutas políticas entre facções de Florença e revela o destino de outros cidadãos importantes.

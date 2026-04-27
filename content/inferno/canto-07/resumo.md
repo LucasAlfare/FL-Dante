@@ -1,0 +1,1 @@
+No quarto círculo, Dante encontra os avarentos e pródigos empurrando pesos enormes em direções opostas. Virgílio explica o conceito de Fortuna como ministra divina. No quinto círculo (rio Estige), encontram os coléricos na superfície e os iracundos debaixo d'água, culminando na chegada a uma torre que marca a cidade de Dite.

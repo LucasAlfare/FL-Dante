@@ -1,0 +1,1 @@
+No sexto terraço, Estácio explica a Virgílio que purifica o pecado da prodigalidade (gastança excessiva), oposto da avareza. Ele revela como foi convertido ao cristianismo pela poesia de Virgílio, mas praticou a fé secretamente por medo. Os poetas discutem sobre outros escritores clássicos no Limbo. Encontram uma árvore mística que adverte sobre a gula com exemplos de temperança.

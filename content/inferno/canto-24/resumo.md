@@ -1,0 +1,1 @@
+Dante e Virgílio escalam as rochas para chegar à sétima bolgia. Encontram os ladrões punidos com serpentes. Vanni Fucci de Pistóia é mordido por uma serpente, se transforma em cinzas e renasce como a fênix. Ele profetiza a derrota dos Brancos em Florença e blasfema contra Deus, sendo punido por uma serpente.

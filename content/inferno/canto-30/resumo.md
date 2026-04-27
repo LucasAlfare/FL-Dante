@@ -1,0 +1,1 @@
+Na décima bolgia, Dante vê Gianni Schicchi e Mirra mordendo as pessoas como porcos. Encontra mestre Adão, um falsificador de moedas com hidropisia, que briga com Sinon, o grego traidor. Virgílio repreende Dante por assistir à briga com curiosidade.

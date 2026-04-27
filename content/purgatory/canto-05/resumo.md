@@ -1,0 +1,1 @@
+Dante encontra as almas dos que morreram violentamente mas se arrependeram no último momento. Seus corpos projetam sombras, revelando sua natureza física, e eles pedem a Dante que leve suas mensagens ao mundo dos vivos. Entre eles estão Jacopo del Cassero, Buonconte da Montefeltro e Pia dei Tolomei, cada um contando histórias trágicas de mortes violentas e arrependimento final.

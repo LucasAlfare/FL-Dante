@@ -1,0 +1,1 @@
+Dante e Virgílio cruzam o rio Estige com o barqueiro Flegiás. Encontram Filippo Argenti, um florentino orgulhoso que é atacado pelas outras almas. Chegam às portas da cidade de Dite (Dis), onde demônios se recusam a deixar Dante entrar. Virgílio vai sozinho negociar, mas é rejeitado, deixando Dante em desespero até o retorno do guia.

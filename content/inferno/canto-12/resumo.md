@@ -1,0 +1,1 @@
+Descendo para o sétimo círculo, Dante e Virgílio encontram o Minotauro, que é dominado por Virgílio. Descem por um deslizamento de rochas e encontram centauros que guardam o rio de sangue fervente onde são punidos os violentos contra o próximo. Nesso os guia, mostrando tiranos como Alexandre, Dionísio e outros submersos no sangue segundo sua gravidade.

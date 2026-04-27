@@ -1,0 +1,1 @@
+Beatrice desce do carro celestial em uma nuvem de flores, revelando-se a Dante. Ele chora por emoção e pela ausência de Virgílio, que partiu. Beatrice repreende Dante por ter se desviado do caminho certo após sua morte, seguindo falsos bens. Ela explica como tentou chamá-lo de volta através de inspirações e sonhos, e finalmente interveio diretamente para salvá-lo.

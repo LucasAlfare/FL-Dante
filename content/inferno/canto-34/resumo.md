@@ -1,0 +1,1 @@
+No centro do Inferno, Dante encontra Lúcifer preso no gelo da Judeia (zona dos traidores de benfeitores). Lúcifer tem três faces e três bocas que devoram Judas, Bruto e Cássio. Virgílio desce pelas costas de Lúcifer, passando pelo centro da Terra, e emerge no outro hemisfério, onde começam a ver as estrelas do Purgatório.

@@ -1,0 +1,1 @@
+Na quarta bolgia, Dante encontra os adivinhos e magos com as cabeças viradas para trás, forçados a caminhar para trás. Entre eles estão Tiresias, Aronta, Manto e outros. Virgílio conta a verdadeira origem de Mântua e critica outras versões. Dante chora de piedade, mas é repreendido por Virgílio.

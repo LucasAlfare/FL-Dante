@@ -1,0 +1,1 @@
+Após escapar do Inferno, Dante e Virgílio chegam à ilha do Purgatório, onde encontram o guardião Catão. O canto estabelece a atmosfera de esperança e renovação, contrastando com a escuridão do abismo anterior. Dante é purificado com um junco milagroso que renasce instantaneamente, simbolizando o início da redenção e a natureza regenerativa do Purgatório.

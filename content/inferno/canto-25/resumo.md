@@ -1,0 +1,1 @@
+Vanni Fucci é punido por sua blasfêmia com serpentes que o amarram. Aparece Caco, um ladrão mítico coberto de serpentes. Três ladrões florentinos chegam, incluindo Cianfa. Uma serpente de seis patas ataca Agnello, e os dois se fundem em uma criatura híbrida. Outra serpente ataca Buoso, e eles se transformam um no outro.

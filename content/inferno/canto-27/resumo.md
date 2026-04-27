@@ -1,0 +1,1 @@
+Uma chama fala com Dante, revelando ser Guido de Montefeltro, que deu conselhos fraudulentos ao Papa Bonifácio VIII. Ele narra como o papa o persuadiu a aconselhar a destruição de Palestrina com falsa promessa de absolvição. No momento da morte, São Francisco foi impedido por um demônio de levá-lo, pois não se pode arrepender e pecar simultaneamente.

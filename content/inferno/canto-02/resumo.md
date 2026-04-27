@@ -1,0 +1,1 @@
+Dante expressa suas dúvidas e medos sobre a jornada, sentindo-se indigno comparado a figuras como Enéias e Paulo. Virgílio revela como foi enviado por Beatriz, que por sua vez foi movida por Lúcia e pela Virgem Maria para ajudar Dante. A intervenção divina restaura a coragem de Dante, que aceita seguir Virgílio na jornada.

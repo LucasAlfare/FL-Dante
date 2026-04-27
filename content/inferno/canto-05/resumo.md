@@ -1,0 +1,1 @@
+No segundo círculo, Dante e Virgílio encontram Minos, o juiz que determina o círculo de cada alma. Chegam ao círculo dos luxuriosos, onde as almas são arrastadas por uma tempestade eterna. Dante conversa com Francesca da Rimini, que conta sua trágica história de amor com Paolo e como foram levados ao adultério pela leitura de Lancelote.

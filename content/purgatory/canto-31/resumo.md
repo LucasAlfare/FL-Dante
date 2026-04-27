@@ -1,0 +1,1 @@
+Beatrice interroga Dante sobre sua culpa, forçando-o a confessar que se desviou do caminho certo após sua morte, seduzido pelos prazeres terrenos. Ela repreende sua fraqueza e o faz beber das águas do Letes para esquecer seus pecados. As virtudes cardeais o levam diante do grifo, onde Beatrice revela sua beleza divina. Dante desmaia de emoção e arrependimento.

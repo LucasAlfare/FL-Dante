@@ -1,0 +1,1 @@
+Continuando pela areia ardente, Dante encontra seu antigo mestre Brunetto Latini entre os sodomitas. Brunetto profetiza o exílio de Dante e critica os florentinos. Ele menciona outros clérigos e literatos condenados pelo mesmo pecado, e pede a Dante que preserve sua obra "Tesouro". A conversa termina com Brunetto fugindo de nova fumaça.

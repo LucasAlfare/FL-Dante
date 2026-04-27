@@ -1,0 +1,1 @@
+Ugolino narra a história de sua traição pelo Arcebispo Ruggieri e como ele e seus filhos foram deixados para morrer de fome na torre da Muda. Ele descreve a morte terrível de seus filhos, que se ofereceram como alimento. Dante encontra Frei Alberigo e Branca Doria na zona Tolomeia (traidores de convidados), cujas almas estão no Inferno enquanto seus corpos ainda vivem.

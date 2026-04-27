@@ -1,0 +1,1 @@
+Na nona bolgia, Dante encontra os semeadores de discórdia horrivelmente mutilados. Maomé aparece com o corpo rasgado, Ali com o rosto fendido. Maomé adverte Frei Dolcino. Pier da Medicina profetiza a morte de Guido e Angiolello. Mosca, que disse "Coisa feita tem cabeça", aparece sem mãos. Bertram de Born carrega sua própria cabeça decepada.

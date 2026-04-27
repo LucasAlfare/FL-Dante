@@ -47,6 +47,9 @@ jobs:
       - name: Install dependencies
         run: pnpm install
 
+      - name: Build content from raw markdown content
+        run: pnpm run build:content
+
       - name: Build
         run: pnpm run build
 

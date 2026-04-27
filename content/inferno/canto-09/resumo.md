@@ -1,0 +1,1 @@
+Dante está em desespero após a rejeição de Virgílio pelas portas de Dite. Três Fúrias aparecem e ameaçam chamar Medusa para transformá-lo em pedra, mas Virgílio protege seus olhos. Um mensageiro celestial chega e abre as portas com autoridade divina. Dante entra na cidade de Dite e vê túmulos em chamas onde estão sepultados os hereges.

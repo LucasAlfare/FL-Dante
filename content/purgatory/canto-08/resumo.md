@@ -1,0 +1,1 @@
+Ao anoitecer no vale dos governantes, dois anjos guardiões descem para proteger o local contra uma serpente. Dante encontra o juiz Nino Visconti e Conrado Malaspina, que fazem pedidos sobre suas famílias. O canto explora a proteção divina, a fidelidade conjugal e a honra familiar, estabelecendo conexões entre o Purgatório e o mundo dos vivos através das orações e da memória.

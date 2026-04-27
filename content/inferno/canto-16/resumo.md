@@ -1,0 +1,1 @@
+Três florentinos nobres - Guido Guerra, Tegghiaio Aldobrandi e Iacopo Rusticucci - abordam Dante na areia ardente. Eles perguntam sobre a situação de Florença e Dante critica a corrupção dos "novos ricos". Os três pedem que Dante fale sobre eles quando retornar ao mundo dos vivos. Virgílio então joga uma corda no abismo, e uma figura misteriosa começa a subir.

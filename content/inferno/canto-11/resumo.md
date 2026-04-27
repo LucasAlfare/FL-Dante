@@ -1,0 +1,1 @@
+Dante e Virgílio param na beira do abismo para se acostumar com o fedor. Virgílio explica a estrutura do Inferno: os pecados são divididos em incontinência (círculos superiores), violência (próximos círculos) e fraude (círculos inferiores). Ele detalha as subdivisões e explica por que a usura ofende a ordem natural divina.

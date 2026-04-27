@@ -1,0 +1,1 @@
+Dante sonha com uma águia que o carrega para o céu de fogo, simbolizando sua elevação espiritual. Ao despertar, descobre que foi transportado por Lúcia até a entrada do Purgatório. O anjo guardião marca sua testa com sete 'P' (pecados) e abre a porta com as chaves de ouro e prata de Pedro. Dante finalmente entra no Purgatório propriamente dito, ouvindo o *Te Deum*.

@@ -1,0 +1,1 @@
+Dante observa o chão esculpido com exemplos de soberba punida: a queda de Lúcifer, os gigantes atingidos por Júpiter, Níobe chorando seus filhos mortos, Saul suicidando-se, e outros. Um anjo os guia para o segundo terraço, apagando a primeira letra 'P' da testa de Dante com sua asa. A subida se torna mais fácil, simbolizando como a purificação alivia o fardo espiritual.

@@ -1,0 +1,1 @@
+Dante e Virgílio chegam ao portão do Inferno, onde leem a famosa inscrição "Deixai toda esperança, vós que entrais". Encontram as almas dos neutros e covardes no Ante-Inferno, perseguidas por vespas, e depois testemunham a travessia do rio Aqueronte com Caronte, o barqueiro dos mortos. Dante desmaia ao final.

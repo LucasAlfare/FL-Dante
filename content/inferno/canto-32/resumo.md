@@ -1,0 +1,1 @@
+No nono círculo, Cocito, um lago de gelo onde são punidos os traidores. Na zona Caina (traidores de parentes), Dante encontra Camicion de' Pazzi e outros. Na zona Antenora (traidores da pátria), ele pisa em Bocca degli Abati, que o insulta. Dante descobre outros traidores como Ugolino, que devora o crânio de Ruggieri.

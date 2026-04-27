@@ -1,0 +1,1 @@
+Virgílio apresenta Gerião, a personificação da fraude com rosto humano e corpo de serpente. Dante encontra os usurários sentados na areia, cada um com uma bolsa marcada com brasão familiar. Gerião os transporta em uma descida aterrorizante até Malebolge, o oitavo círculo dos fraudulentos.

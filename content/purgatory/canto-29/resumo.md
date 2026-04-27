@@ -1,0 +1,1 @@
+Matelda guia Dante através do Paraíso Terrestre para testemunhar uma procissão divina. Sete candelabros dourados, vinte e quatro anciãos, quatro seres viventes (como em Ezequiel), um carro triunfal puxado por um grifo, e várias figuras simbólicas avançam em uma cerimônia celestial. O canto descreve uma visão apocalíptica que prepara o encontro de Dante com Beatrice.

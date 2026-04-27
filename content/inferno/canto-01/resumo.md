@@ -1,0 +1,1 @@
+Dante se encontra perdido em uma selva escura aos 35 anos, simbolizando sua crise espiritual no meio da vida. Encontra três feras que bloqueiam seu caminho (pantera, leão e loba) representando os pecados de luxúria, orgulho e avareza. Encontra Virgílio, que se oferece para guiá-lo através do Inferno para alcançar a salvação, revelando que foi enviado por Beatriz.

@@ -1,0 +1,1 @@
+No segundo anel do sétimo círculo, Dante encontra a floresta dos suicidas, onde almas transformadas em árvores são atormentadas pelas Harpias. Ele conversa com Pier della Vigna, que explica como os suicidas se tornam árvores e terão seus corpos pendurados nos galhos no Juízo Final. Testemunha também a perseguição de pródigos por cadelas famintas.

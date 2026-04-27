@@ -1,0 +1,1 @@
+No segundo terraço do Purgatório, Dante encontra os invejosos, que têm os olhos costurados com fio de ferro. Eles ouvem vozes que exemplificam o amor e a generosidade, contrastando com seu pecado. Entre eles está Sapìa de Siena, que se alegra com o mal alheio e narra sua história de arrependimento. O canto explora a natureza da inveja e a cegueira espiritual que ela provoca.
