@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import ReactMarkdown from 'react-markdown';
 import { useReading } from '../context/ReadingContext';
+import LineSeparatorOrnamentIcon from './icons/LineSeparatorOrnamentIcon';
 
 const RightPanel: React.FC = () => {
   const [isExpanded, setIsExpanded] = useState(false);
@@ -42,7 +43,7 @@ const RightPanel: React.FC = () => {
                 <h3 className="text-sm font-bold mb-2 uppercase tracking-wide">
                   Resumo do Canto
                 </h3>
-                <div className="border-b mb-3"></div>
+                {/* <div className="border-b mb-3"></div> */}
                 <div className="text-sm leading-relaxed">
                   <ReactMarkdown
                     components={{
@@ -63,13 +64,20 @@ const RightPanel: React.FC = () => {
               </section>
             )}
 
+            {/* Separador ornamental */}
+            {state.summary && state.notes && (
+              <div className="flex justify-center h-20 w-60">
+                <LineSeparatorOrnamentIcon />
+              </div>
+            )}
+
             {/* Seção Notas */}
             {state.notes && (
               <section>
                 <h3 className="text-sm font-bold mb-2 uppercase tracking-wide">
                   Notas
                 </h3>
-                <div className="border-b mb-3"></div>
+                {/* <div className="border-b mb-3"></div> */}
                 <div className="text-sm leading-relaxed">
                   <ReactMarkdown
                     components={{

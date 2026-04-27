@@ -11,6 +11,27 @@ import { useReading } from '../context/ReadingContext';
 import { useTheme } from '../context/ThemeContext';
 import { useSearch } from '../context/SearchContext';
 import { getBookName } from '../utils/constants';
+import LeftIndicatorIcon from './icons/LeftIndicatorIcon';
+
+const CenterIndicator: React.FC<{ currentBook: 'inferno' | 'purgatory' | 'paradise'; currentChapter: number }> = ({ currentBook, currentChapter }) => {
+  const currentChapterRoman = toRoman(currentChapter);
+
+  return (
+    <div className="flex justify-between items-center">
+      <div className="-translate-x-5 -translate-y-1 scale-3 w-3 h-3">
+        <LeftIndicatorIcon />
+      </div>
+
+      <span className={bookFontClasses.base}>
+        {getBookName(currentBook)} · Canto {currentChapterRoman}
+      </span>
+
+      <div className="translate-x-5 -translate-y-1 -scale-x-3 scale-y-3 w-3 h-3">
+        <LeftIndicatorIcon />
+      </div>
+    </div>
+  );
+};
 
 const Header: React.FC = () => {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
@@ -21,8 +42,6 @@ const Header: React.FC = () => {
   const { state: themeState, toggleVariant } = useTheme();
   const { variant } = themeState;
   const { openSearch } = useSearch();
-
-  const currentChapterRoman = toRoman(currentChapter);
 
   const toggleMobileMenu = (): void => {
     setIsMobileMenuOpen(!isMobileMenuOpen);
@@ -72,15 +91,13 @@ const Header: React.FC = () => {
         {/* Center: Current canto indicator */}
         <div className="absolute left-1/2 transform -translate-x-1/2">
           {/* quero uma fonte maior e mais forte aqui, sem ser negrito tosco*/}
-          <span className={`${bookFontClasses.base}`}>
-            {getBookName(currentBook)} · Canto {currentChapterRoman}
-          </span>
+          <CenterIndicator currentBook={currentBook} currentChapter={currentChapter} />
         </div>
 
         {/* Right side: Control buttons - only visible on large screens */}
         <div className="hidden lg:flex items-center space-x-2">
-          <button 
-            className="p-2 rounded-lg transition-colors" 
+          <button
+            className="p-2 rounded-lg transition-colors"
             aria-label={variant === 'light' ? 'Alternar para tema escuro' : 'Alternar para tema claro'}
             onClick={toggleVariant}
           >
@@ -89,8 +106,8 @@ const Header: React.FC = () => {
           <button className="p-2 rounded-lg transition-colors" aria-label="Pesquisar" onClick={openSearch}>
             <SearchIcon />
           </button>
-          <button 
-            className="p-2 rounded-lg transition-colors" 
+          <button
+            className="p-2 rounded-lg transition-colors"
             aria-label="Contatos"
             onClick={toggleContactsPanel}
           >
@@ -112,12 +129,12 @@ const Header: React.FC = () => {
       <div
         ref={menuRef}
         className={`lg:hidden absolute top-16 left-0 right-0 border-b shadow-lg z-50 transition-all duration-300 ease-in-out ${isMobileMenuOpen
-            ? 'opacity-100 translate-y-0'
-            : 'opacity-0 -translate-y-2 pointer-events-none'
+          ? 'opacity-100 translate-y-0'
+          : 'opacity-0 -translate-y-2 pointer-events-none'
           }`}
       >
         <div className="py-2">
-          <button 
+          <button
             className="w-full px-4 py-3 flex items-center space-x-3 transition-colors"
             onClick={toggleVariant}
           >
@@ -130,7 +147,7 @@ const Header: React.FC = () => {
             <SearchIcon />
             <span className={bookFontClasses.base}>Pesquisar</span>
           </button>
-          <button 
+          <button
             className="w-full px-4 py-3 flex items-center space-x-3 transition-colors"
             onClick={toggleContactsPanel}
           >
@@ -139,7 +156,7 @@ const Header: React.FC = () => {
           </button>
         </div>
       </div>
-      
+
       <ContactsPanel isOpen={isContactsPanelOpen} onClose={() => setIsContactsPanelOpen(false)} />
     </>
   );
