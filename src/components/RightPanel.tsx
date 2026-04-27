@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import ReactMarkdown from 'react-markdown';
 import { useReading } from '../context/ReadingContext';
 import LineSeparatorOrnamentIcon from './icons/LineSeparatorOrnamentIcon';
@@ -7,6 +7,13 @@ import { getBookFontStyleByScale } from '../utils/fontStyles';
 const RightPanel: React.FC = () => {
   const [isExpanded, setIsExpanded] = useState(false);
   const { state } = useReading();
+  const scrollContainerRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    if (scrollContainerRef.current) {
+      scrollContainerRef.current.scrollTop = 0;
+    }
+  }, [state.currentBook, state.currentChapter]);
 
   const togglePanel = () => {
     setIsExpanded(!isExpanded);
@@ -34,7 +41,7 @@ const RightPanel: React.FC = () => {
         </svg>
       </button>
       
-      <div className={`flex-1 px-4 py-2 overflow-y-auto transition-all duration-300 ease-in-out scrollbar-hide ${
+      <div ref={scrollContainerRef} className={`flex-1 px-4 py-2 overflow-y-auto transition-all duration-300 ease-in-out scrollbar-hide ${
         isExpanded ? 'opacity-100' : 'opacity-0 pointer-events-none'
       }`}>
           <div className="space-y-4">
