@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import ReactMarkdown from 'react-markdown';
 import { useReading } from '../context/ReadingContext';
 import LineSeparatorOrnamentIcon from './icons/LineSeparatorOrnamentIcon';
+import { getBookFontStyleByScale } from '../utils/fontStyles';
 
 const RightPanel: React.FC = () => {
   const [isExpanded, setIsExpanded] = useState(false);
@@ -40,11 +41,11 @@ const RightPanel: React.FC = () => {
             {/* Seção Resumo do Canto */}
             {state.summary && (
               <section>
-                <h3 className="text-sm font-bold mb-2 uppercase tracking-wide">
+                <h3 className="text-sm font-bold mb-2 uppercase tracking-wide" style={getBookFontStyleByScale('sm')}>
                   Resumo do Canto
                 </h3>
                 {/* <div className="border-b mb-3"></div> */}
-                <div className="text-sm leading-relaxed">
+                <div className="text-sm leading-relaxed" style={getBookFontStyleByScale('sm')}>
                   <ReactMarkdown
                     components={{
                       p: ({ children }) => (
@@ -74,11 +75,11 @@ const RightPanel: React.FC = () => {
             {/* Seção Notas */}
             {state.notes && (
               <section>
-                <h3 className="text-sm font-bold mb-2 uppercase tracking-wide">
+                <h3 className="text-sm font-bold mb-2 uppercase tracking-wide" style={getBookFontStyleByScale('sm')}>
                   Notas
                 </h3>
                 {/* <div className="border-b mb-3"></div> */}
-                <div className="text-sm leading-relaxed">
+                <div className="text-sm leading-relaxed" style={getBookFontStyleByScale('sm')}>
                   <ReactMarkdown
                     components={{
                       p: ({ children }) => (

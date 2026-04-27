@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { useReading } from '../context/ReadingContext';
 import { toRoman } from '../utils/romanNumerals';
+import { getBookFontStyleByScale } from '../utils/fontStyles';
 
 type BookType = 'inferno' | 'purgatory' | 'paradise';
 
@@ -80,7 +81,7 @@ const LeftPanel: React.FC = () => {
       <nav className={`flex-1 px-4 py-2 overflow-y-auto transition-all duration-300 ease-in-out scrollbar-hide ${
         isExpanded ? 'opacity-100' : 'opacity-0 pointer-events-none'
       }`}>
-          <h2 className="text-lg font-bold mb-4">Sumário</h2>
+          <h2 className="text-lg font-bold mb-4" style={getBookFontStyleByScale('lg')}>Sumário</h2>
           
           <div className="space-y-2">
             {booksData.map((bookData) => (
@@ -91,7 +92,7 @@ const LeftPanel: React.FC = () => {
                     isCurrentBook(bookData.book) ? 'font-semibold' : ''
                   }`}
                 >
-                  <span className="text-sm font-medium">
+                  <span className="text-sm font-medium" style={getBookFontStyleByScale('sm')}>
                     {bookData.title}
                   </span>
                   <svg
@@ -122,6 +123,7 @@ const LeftPanel: React.FC = () => {
                             ? 'font-medium'
                             : 'hover:opacity-80'
                         }`}
+                        style={getBookFontStyleByScale('sm')}
                       >
                         Canto {toRoman(chapter)}
                       </button>

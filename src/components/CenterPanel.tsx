@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactMarkdown from 'react-markdown';
-import { getBookFontStyle } from '../utils/fontStyles';
+import { getBookFontStyleByScale, bookTypography } from '../utils/fontStyles';
 import { useReading } from '../context/ReadingContext';
 
 const CenterPanel: React.FC = () => {
@@ -27,8 +27,8 @@ const CenterPanel: React.FC = () => {
       <div
         className="max-w-4xl mx-auto drop-cap-first-letter-custom"
         style={{
-          ...getBookFontStyle('20px'),
-          textIndent: '2em',
+          ...getBookFontStyleByScale('lg'),
+          textIndent: bookTypography.paragraphIndent,
         }}
       >
         <ReactMarkdown

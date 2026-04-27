@@ -11,26 +11,35 @@
   --color-text-secondary: #991B1B;
   --color-border: #FCA5A5;
   --color-shadow: rgba(220, 38, 38, 0.1);
+  
+  /* Typography variables */
+  --font-family-book: 'Georgia', 'Times New Roman', serif;
+  --font-line-height-book: 1.8;
 }
 
 /* Theme-specific body styles with smooth transitions */
 body {
   background-color: var(--color-background);
   color: var(--color-text);
+  font-family: var(--font-family-book);
+  line-height: var(--font-line-height-book);
   transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 /* Theme-specific classes */
 .theme-inferno {
   /* Inferno specific styles if needed */
+  font-family: var(--font-family-book);
 }
 
 .theme-purgatory {
   /* Purgatory specific styles if needed */
+  font-family: var(--font-family-book);
 }
 
 .theme-paradise {
   /* Paradise specific styles if needed */
+  font-family: var(--font-family-book);
 }
 
 /* Component theme styles with smooth transitions */

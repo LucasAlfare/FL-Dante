@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { bookFontClasses } from '../utils/fontStyles';
+import { getBookFontStyleByScale } from '../utils/fontStyles';
 import { toRoman } from '../utils/romanNumerals';
 import DanteIcon from './icons/DanteIcon';
 import MailIcon from './icons/MailIcon';
@@ -22,7 +22,7 @@ const CenterIndicator: React.FC<{ currentBook: 'inferno' | 'purgatory' | 'paradi
         <LeftIndicatorIcon />
       </div>
 
-      <span className={bookFontClasses.base}>
+      <span style={getBookFontStyleByScale('xs')} className="font-semibold text-center">
         {getBookName(currentBook)} · Canto {currentChapterRoman}
       </span>
 
@@ -83,7 +83,7 @@ const Header: React.FC = () => {
           <div className="scale-75">
             <DanteIcon />
           </div>
-          <span className={`${bookFontClasses.base} text-xs font-light italic text-center leading-tight mt-1`}>
+          <span className="text-xs font-light italic text-center leading-tight mt-1" style={getBookFontStyleByScale('xs')}>
             A Divina<br />Comédia
           </span>
         </div>
@@ -139,20 +139,20 @@ const Header: React.FC = () => {
             onClick={toggleVariant}
           >
             <ThemeIcon />
-            <span className={bookFontClasses.base}>
+            <span style={getBookFontStyleByScale('base')}>
               {variant === 'light' ? 'Tema Escuro' : 'Tema Claro'}
             </span>
           </button>
           <button className="w-full px-4 py-3 flex items-center space-x-3 transition-colors" onClick={openSearch}>
             <SearchIcon />
-            <span className={bookFontClasses.base}>Pesquisar</span>
+            <span style={getBookFontStyleByScale('base')}>Pesquisar</span>
           </button>
           <button
             className="w-full px-4 py-3 flex items-center space-x-3 transition-colors"
             onClick={toggleContactsPanel}
           >
             <MailIcon />
-            <span className={bookFontClasses.base}>Contatos</span>
+            <span style={getBookFontStyleByScale('base')}>Contatos</span>
           </button>
         </div>
       </div>
