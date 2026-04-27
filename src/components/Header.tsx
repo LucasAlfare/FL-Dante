@@ -83,7 +83,7 @@ const Header: React.FC = () => {
           <div className="scale-75">
             <DanteIcon />
           </div>
-          <span className="text-xs font-light italic text-center leading-tight mt-1" style={getBookFontStyleByScale('xs')}>
+          <span className="text-xs font-light italic text-center leading-tight mt-1" style={{...getBookFontStyleByScale('xs'), lineHeight: '1'}}>
             A Divina<br />Comédia
           </span>
         </div>
