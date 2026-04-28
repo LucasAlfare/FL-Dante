@@ -13,6 +13,14 @@ import { useSearch } from '../context/SearchContext';
 import { getBookName } from '../utils/constants';
 import LeftIndicatorIcon from './icons/LeftIndicatorIcon';
 
+/**
+ * Center indicator component displaying current book and chapter.
+ * Shows decorative indicators on both sides with Roman numeral chapter display.
+ * 
+ * @param {'inferno' | 'purgatory' | 'paradise'} currentBook - Current book being read
+ * @param {number} currentChapter - Current chapter number
+ * @component
+ */
 const CenterIndicator: React.FC<{ currentBook: 'inferno' | 'purgatory' | 'paradise'; currentChapter: number }> = ({ currentBook, currentChapter }) => {
   const currentChapterRoman = toRoman(currentChapter);
 
@@ -33,6 +41,20 @@ const CenterIndicator: React.FC<{ currentBook: 'inferno' | 'purgatory' | 'paradi
   );
 };
 
+/**
+ * Header component with navigation, theme controls, and mobile menu.
+ * 
+ * Features:
+ * - Dante logo and title
+ * - Current book and chapter indicator with Roman numerals
+ * - Theme toggle button
+ * - Search button
+ * - Contacts panel trigger
+ * - Responsive mobile menu with slide-down animation
+ * - Click outside to close mobile menu functionality
+ * 
+ * @component
+ */
 const Header: React.FC = () => {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const [isContactsPanelOpen, setIsContactsPanelOpen] = useState(false);
@@ -43,14 +65,24 @@ const Header: React.FC = () => {
   const { variant } = themeState;
   const { openSearch } = useSearch();
 
+  /**
+   * Toggles mobile menu open/closed state
+   */
   const toggleMobileMenu = (): void => {
     setIsMobileMenuOpen(!isMobileMenuOpen);
   };
 
+  /**
+   * Toggles contacts panel open/closed state
+   */
   const toggleContactsPanel = (): void => {
     setIsContactsPanelOpen(!isContactsPanelOpen);
   };
 
+  /**
+   * Handles clicking outside mobile menu to close it
+   * Adds event listener when menu is open, removes when closed
+   */
   useEffect(() => {
     const handleClickOutside = (event: MouseEvent): void => {
       const target = event.target as Node;
@@ -83,7 +115,7 @@ const Header: React.FC = () => {
           <div className="scale-75">
             <DanteIcon />
           </div>
-          <span className="text-xs font-light italic text-center leading-tight mt-1" style={{...getBookFontStyleByScale('xs'), lineHeight: '1'}}>
+          <span className="text-xs font-light italic text-center leading-tight mt-1" style={{ ...getBookFontStyleByScale('xs'), lineHeight: '1' }}>
             A Divina<br />Comédia
           </span>
         </div>

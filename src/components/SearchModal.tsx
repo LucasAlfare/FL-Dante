@@ -4,17 +4,38 @@ import { bookFontClasses } from '../utils/fontStyles';
 import { toRoman } from '../utils/romanNumerals';
 import XIcon from './icons/XIcon';
 
+/**
+ * Search modal component for searching across all Divine Comedy content.
+ * 
+ * Features:
+ * - Full-screen modal overlay
+ * - Real-time search with debounced input
+ * - Search results with book and chapter information
+ * - Keyboard navigation (Escape to close)
+ * - Click outside to close functionality
+ * - Auto-focus input when modal opens
+ * - Empty state and no results messaging
+ * 
+ * @component
+ * @returns {JSX.Element | null} Search modal or null when closed
+ */
 const SearchModal: React.FC = () => {
   const { isSearchOpen, searchQuery, searchResults, closeSearch, setSearchQuery, performSearch, selectResult } = useSearch();
   const inputRef = useRef<HTMLInputElement>(null);
   const modalRef = useRef<HTMLDivElement>(null);
 
+  /**
+   * Auto-focuses search input when modal opens
+   */
   useEffect(() => {
     if (isSearchOpen && inputRef.current) {
       inputRef.current.focus();
     }
   }, [isSearchOpen]);
 
+  /**
+   * Handles keyboard and mouse events for modal closing
+   */
   useEffect(() => {
     const handleEscape = (e: KeyboardEvent) => {
       if (e.key === 'Escape') {
@@ -40,12 +61,21 @@ const SearchModal: React.FC = () => {
     };
   }, [isSearchOpen, closeSearch]);
 
+  /**
+   * Handles search input changes with real-time search
+   * @param {React.ChangeEvent<HTMLInputElement>} e - Input change event
+   */
   const handleInputChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     const query = e.target.value;
     setSearchQuery(query);
     performSearch(query);
   };
 
+  /**
+   * Converts book key to display name
+   * @param {string} book - Book key to convert
+   * @returns {string} Display name for the book
+   */
   const getBookName = (book: string): string => {
     switch (book) {
       case 'inferno': return 'Inferno';

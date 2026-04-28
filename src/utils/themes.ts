@@ -1,3 +1,6 @@
+/**
+ * Interface defining a book theme with colors and metadata
+ */
 export interface BookTheme {
   name: string;
   description: string;
@@ -14,120 +17,146 @@ export interface BookTheme {
   };
 }
 
+/**
+ * Interface defining theme variants (light/dark) for a book
+ */
 export interface ThemeVariants {
   light: BookTheme;
   dark: BookTheme;
 }
 
+/**
+ * Interface defining all book themes
+ */
 export interface BookThemes {
   inferno: ThemeVariants;
   purgatory: ThemeVariants;
   paradise: ThemeVariants;
 }
 
-// Inferno Theme - Brutal, sanguinolento, desesperador
-// Tons predominantes: vermelhos
+/**
+ * Inferno Light Theme - Brutal, sanguine, despairing
+ * Predominant colors: reds
+ */
 const infernoLight: BookTheme = {
-  name: 'Inferno - Claro',
-  description: 'Tema brutal e sanguinolento do Inferno em tons claros',
+  name: 'Inferno - Light',
+  description: 'Brutal and sanguine theme of Inferno in light tones',
   colors: {
-    primary: '#DC2626',      // vermelho forte
-    secondary: '#EF4444',    // vermelho vibrante
-    accent: '#FCA5A5',       // vermelho claro
-    background: '#FEF2F2',   // fundo vermelho muito claro
-    surface: '#FEE2E2',      // superfície vermelha clara
-    text: '#7F1D1D',         // texto vermelho escuro
-    textSecondary: '#991B1B', // texto secundário vermelho
-    border: '#FCA5A5',       // borda vermelha clara
-    shadow: 'rgba(220, 38, 38, 0.1)' // sombra vermelha
+    primary: '#DC2626',      // strong red
+    secondary: '#EF4444',    // vibrant red
+    accent: '#FCA5A5',       // light red
+    background: '#FEF2F2',   // very light red background
+    surface: '#FEE2E2',      // light red surface
+    text: '#7F1D1D',         // dark red text
+    textSecondary: '#991B1B', // secondary red text
+    border: '#FCA5A5',       // light red border
+    shadow: 'rgba(220, 38, 38, 0.1)' // red shadow
   }
 };
 
+/**
+ * Inferno Dark Theme - Brutal, sanguine, despairing
+ * Predominant colors: dark reds
+ */
 const infernoDark: BookTheme = {
-  name: 'Inferno - Escuro',
-  description: 'Tema brutal e sanguinolento do Inferno em tons escuros',
+  name: 'Inferno - Dark',
+  description: 'Brutal and sanguine theme of Inferno in dark tones',
   colors: {
-    primary: '#7F1D1D',      // vermelho muito escuro
-    secondary: '#991B1B',    // vermelho escuro
-    accent: '#DC2626',       // vermelho médio
-    background: '#1A0505',   // fundo preto com vermelho
-    surface: '#2D0A0A',     // superfície vermelha muito escura
-    text: '#FCA5A5',         // texto vermelho claro
-    textSecondary: '#F87171', // texto secundário vermelho
-    border: '#7F1D1D',       // borda vermelha escura
-    shadow: 'rgba(127, 29, 29, 0.3)' // sombra vermelha escura
+    primary: '#7F1D1D',      // very dark red
+    secondary: '#991B1B',    // dark red
+    accent: '#DC2626',       // medium red
+    background: '#1A0505',   // black background with red
+    surface: '#2D0A0A',     // very dark red surface
+    text: '#FCA5A5',         // light red text
+    textSecondary: '#F87171', // secondary red text
+    border: '#7F1D1D',       // dark red border
+    shadow: 'rgba(127, 29, 29, 0.3)' // dark red shadow
   }
 };
 
-// Purgatory Theme - Triste, parado, neutro
-// Tons predominantes: verdes
+/**
+ * Purgatory Light Theme - Sad, static, neutral
+ * Predominant colors: greens
+ */
 const purgatoryLight: BookTheme = {
-  name: 'Purgatório - Claro',
-  description: 'Tema triste e neutro do Purgatório em tons claros',
+  name: 'Purgatory - Light',
+  description: 'Sad and neutral theme of Purgatory in light tones',
   colors: {
-    primary: '#059669',      // verde floresta
-    secondary: '#10B981',    // verde esmeralda
-    accent: '#6EE7B7',       // verde claro
-    background: '#F0FDF4',   // fundo verde muito claro
-    surface: '#DCFCE7',      // superfície verde clara
-    text: '#064E3B',         // texto verde escuro
-    textSecondary: '#047857', // texto secundário verde
-    border: '#6EE7B7',       // borda verde clara
-    shadow: 'rgba(5, 150, 105, 0.1)' // sombra verde
+    primary: '#059669',      // forest green
+    secondary: '#10B981',    // emerald green
+    accent: '#6EE7B7',       // light green
+    background: '#F0FDF4',   // very light green background
+    surface: '#DCFCE7',      // light green surface
+    text: '#064E3B',         // dark green text
+    textSecondary: '#047857', // secondary green text
+    border: '#6EE7B7',       // light green border
+    shadow: 'rgba(5, 150, 105, 0.1)' // green shadow
   }
 };
 
+/**
+ * Purgatory Dark Theme - Sad, static, neutral
+ * Predominant colors: dark greens
+ */
 const purgatoryDark: BookTheme = {
-  name: 'Purgatório - Escuro',
-  description: 'Tema triste e neutro do Purgatório em tons escuros',
+  name: 'Purgatory - Dark',
+  description: 'Sad and neutral theme of Purgatory in dark tones',
   colors: {
-    primary: '#064E3B',      // verde muito escuro
-    secondary: '#047857',    // verde escuro
-    accent: '#059669',       // verde médio
-    background: '#0A1F1A',   // fundo preto com verde
-    surface: '#1A2E2A',      // superfície verde muito escura
-    text: '#6EE7B7',         // texto verde claro
-    textSecondary: '#34D399', // texto secundário verde
-    border: '#064E3B',       // borda verde escura
-    shadow: 'rgba(6, 78, 59, 0.3)' // sombra verde escura
+    primary: '#064E3B',      // very dark green
+    secondary: '#047857',    // dark green
+    accent: '#059669',       // medium green
+    background: '#0A1F1A',   // black background with green
+    surface: '#1A2E2A',      // very dark green surface
+    text: '#6EE7B7',         // light green text
+    textSecondary: '#34D399', // secondary green text
+    border: '#064E3B',       // dark green border
+    shadow: 'rgba(6, 78, 59, 0.3)' // dark green shadow
   }
 };
 
-// Paradise Theme - Alegre, sublime, celestial
-// Tons predominantes: azuis
+/**
+ * Paradise Light Theme - Joyful, sublime, celestial
+ * Predominant colors: blues
+ */
 const paradiseLight: BookTheme = {
-  name: 'Paraíso - Claro',
-  description: 'Tema alegre e celestial do Paraíso em tons claros',
+  name: 'Paradise - Light',
+  description: 'Joyful and celestial theme of Paradise in light tones',
   colors: {
-    primary: '#2563EB',      // azul céu
-    secondary: '#3B82F6',    // azul brilhante
-    accent: '#93C5FD',       // azul claro
-    background: '#EFF6FF',   // fundo azul muito claro
-    surface: '#DBEAFE',      // superfície azul clara
-    text: '#1E3A8A',         // texto azul escuro
-    textSecondary: '#1D4ED8', // texto secundário azul
-    border: '#93C5FD',       // borda azul clara
-    shadow: 'rgba(37, 99, 235, 0.1)' // sombra azul
+    primary: '#2563EB',      // sky blue
+    secondary: '#3B82F6',    // bright blue
+    accent: '#93C5FD',       // light blue
+    background: '#EFF6FF',   // very light blue background
+    surface: '#DBEAFE',      // light blue surface
+    text: '#1E3A8A',         // dark blue text
+    textSecondary: '#1D4ED8', // secondary blue text
+    border: '#93C5FD',       // light blue border
+    shadow: 'rgba(37, 99, 235, 0.1)' // blue shadow
   }
 };
 
+/**
+ * Paradise Dark Theme - Joyful, sublime, celestial
+ * Predominant colors: dark blues
+ */
 const paradiseDark: BookTheme = {
-  name: 'Paraíso - Escuro',
-  description: 'Tema alegre e celestial do Paraíso em tons escuros',
+  name: 'Paradise - Dark',
+  description: 'Joyful and celestial theme of Paradise in dark tones',
   colors: {
-    primary: '#1E3A8A',      // azul muito escuro
-    secondary: '#1D4ED8',    // azul escuro
-    accent: '#2563EB',       // azul médio
-    background: '#0F172A',   // fundo azul muito escuro
-    surface: '#1E293B',      // superfície azul escuro
-    text: '#93C5FD',         // texto azul claro
-    textSecondary: '#60A5FA', // texto secundário azul
-    border: '#1E3A8A',       // borda azul escura
-    shadow: 'rgba(30, 58, 138, 0.3)' // sombra azul escura
+    primary: '#1E3A8A',      // very dark blue
+    secondary: '#1D4ED8',    // dark blue
+    accent: '#2563EB',       // medium blue
+    background: '#0F172A',   // very dark blue background
+    surface: '#1E293B',      // dark blue surface
+    text: '#93C5FD',         // light blue text
+    textSecondary: '#60A5FA', // secondary blue text
+    border: '#1E3A8A',       // dark blue border
+    shadow: 'rgba(30, 58, 138, 0.3)' // dark blue shadow
   }
 };
 
-// Export all themes
+/**
+ * Export all themes organized by book and variant
+ */
 export const themes: BookThemes = {
   inferno: {
     light: infernoLight,
@@ -143,15 +172,32 @@ export const themes: BookThemes = {
   }
 };
 
-// Helper functions
+/**
+ * Gets theme for specific book and variant
+ * 
+ * @param {keyof BookThemes} book - The book to get theme for
+ * @param {'light' | 'dark'} variant - The theme variant
+ * @returns {BookTheme} The requested theme
+ */
 export const getTheme = (book: keyof BookThemes, variant: 'light' | 'dark'): BookTheme => {
   return themes[book][variant];
 };
 
+/**
+ * Gets all available themes
+ * 
+ * @returns {BookThemes} All themes organized by book
+ */
 export const getAllThemes = (): BookThemes => {
   return themes;
 };
 
-// Type guards
+/**
+ * Type definition for book types
+ */
 export type BookType = 'inferno' | 'purgatory' | 'paradise';
+
+/**
+ * Type definition for theme variants
+ */
 export type ThemeVariant = 'light' | 'dark';

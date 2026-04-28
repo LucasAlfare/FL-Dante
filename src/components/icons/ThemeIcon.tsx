@@ -1,9 +1,20 @@
 import React from 'react';
 
+/**
+ * Props interface for ThemeIcon component
+ */
 interface ThemeIconProps {
   className?: string;
 }
 
+/**
+ * Theme icon component for theme switching functionality.
+ * Moon SVG icon used to toggle between light and dark themes.
+ * 
+ * @param {ThemeIconProps} props - Component props
+ * @component
+ * @returns {JSX.Element} Theme SVG icon
+ */
 const ThemeIcon: React.FC<ThemeIconProps> = ({ className = '' }) => {
   return (
     <svg

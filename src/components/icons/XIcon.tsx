@@ -1,6 +1,12 @@
-// XIcon.tsx
 import React from "react";
 
+/**
+ * X icon component for closing functionality.
+ * Close/X SVG icon used in modals and overlays.
+ * 
+ * @component
+ * @returns {JSX.Element} X SVG icon
+ */
 const XIcon: React.FC<{ className?: string }> = ({ className }) => {
   return (
     <svg

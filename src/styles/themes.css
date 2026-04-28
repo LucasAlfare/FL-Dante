@@ -11,7 +11,7 @@
   --color-text-secondary: #991B1B;
   --color-border: #FCA5A5;
   --color-shadow: rgba(220, 38, 38, 0.1);
-  
+
   /* Typography variables */
   --font-family-book: 'HaboroContrast', 'Georgia', 'Times New Roman', serif;
   --font-line-height-book: 1.8;
@@ -156,11 +156,14 @@ button {
   transition: color 0.3s ease, background-color 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease !important;
 }
 
-input, textarea, select {
+input,
+textarea,
+select {
   transition: color 0.3s ease, background-color 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease !important;
 }
 
-.main-content, .content-area {
+.main-content,
+.content-area {
   transition: color 0.3s ease, background-color 0.3s ease !important;
 }
 

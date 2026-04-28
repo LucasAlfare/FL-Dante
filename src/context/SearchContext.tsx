@@ -3,6 +3,9 @@ import booksData from '../data/books.json';
 import { useReading } from './ReadingContext';
 import { normalizeText, getBookKey } from '../utils/constants';
 
+/**
+ * Interface defining a search result item
+ */
 interface SearchResult {
   id: string;
   book: string;
@@ -13,17 +16,26 @@ interface SearchResult {
   path: string;
 }
 
+/**
+ * Interface defining book data structure from JSON
+ */
 interface BookData {
   name: string;
   chapters: ChapterData[];
 }
 
+/**
+ * Interface defining chapter data structure from JSON
+ */
 interface ChapterData {
   summary: string;
   notes: string[];
   body: string;
 }
 
+/**
+ * Interface defining search context methods and state
+ */
 interface SearchContextType {
   isSearchOpen: boolean;
   searchQuery: string;
@@ -35,8 +47,19 @@ interface SearchContextType {
   selectResult: (result: SearchResult) => void;
 }
 
+/**
+ * React context for managing search functionality.
+ * Handles search state, indexing, and result navigation.
+ */
 const SearchContext = createContext<SearchContextType | undefined>(undefined);
 
+/**
+ * Custom hook for accessing search context.
+ * Provides access to search state and functionality.
+ * 
+ * @returns {SearchContextType} Search context value
+ * @throws {Error} If used outside of SearchProvider
+ */
 export const useSearch = () => {
   const context = useContext(SearchContext);
   if (!context) {
@@ -49,6 +72,18 @@ interface SearchProviderProps {
   children: React.ReactNode;
 }
 
+/**
+ * Search provider component that manages search functionality.
+ * 
+ * This provider handles:
+ * - Search modal state management
+ * - Search indexing of all content
+ * - Text search across titles, summaries, and content
+ * - Result selection and navigation
+ * 
+ * @param {React.ReactNode} children - Child components to wrap with search context
+ * @component
+ */
 export const SearchProvider: React.FC<SearchProviderProps> = ({ children }) => {
   const [isSearchOpen, setIsSearchOpen] = useState(false);
   const [searchQuery, setSearchQuery] = useState('');
@@ -56,15 +91,19 @@ export const SearchProvider: React.FC<SearchProviderProps> = ({ children }) => {
   const [searchIndex, setSearchIndex] = useState<SearchResult[]>([]);
   const { goToChapter } = useReading();
 
+  /**
+   * Initializes search index from books.json data.
+   * Transforms book structure into searchable index with metadata.
+   */
   useEffect(() => {
     // Transform books.json into search index
     const transformBooksToSearchIndex = (): SearchResult[] => {
       const books = booksData as BookData[];
       const searchIndex: SearchResult[] = [];
-      
+
       books.forEach((book) => {
         const bookKey = getBookKey(book.name);
-        
+
         book.chapters.forEach((chapter, index) => {
           searchIndex.push({
             id: `${bookKey}-canto${index + 1}`,
@@ -77,13 +116,19 @@ export const SearchProvider: React.FC<SearchProviderProps> = ({ children }) => {
           });
         });
       });
-      
+
       return searchIndex;
     };
-    
+
     setSearchIndex(transformBooksToSearchIndex());
   }, []);
 
+  /**
+   * Performs search across indexed content.
+   * Searches in titles, summaries, and content with relevance ranking.
+   * 
+   * @param {string} query - Search query string
+   */
   const performSearch = (query: string) => {
     if (!query.trim()) {
       setSearchResults([]);
@@ -104,34 +149,45 @@ export const SearchProvider: React.FC<SearchProviderProps> = ({ children }) => {
     results.sort((a, b) => {
       const aTitleMatch = normalizeText(a.title).includes(normalizedQuery);
       const bTitleMatch = normalizeText(b.title).includes(normalizedQuery);
-      
+
       if (aTitleMatch && !bTitleMatch) return -1;
       if (!aTitleMatch && bTitleMatch) return 1;
-      
+
       const aSummaryMatch = normalizeText(a.summary).includes(normalizedQuery);
       const bSummaryMatch = normalizeText(b.summary).includes(normalizedQuery);
-      
+
       if (aSummaryMatch && !bSummaryMatch) return -1;
       if (!aSummaryMatch && bSummaryMatch) return 1;
-      
+
       return 0;
     });
 
     setSearchResults(results.slice(0, 10)); // Limit to 10 results
   };
 
+  /**
+   * Opens search modal and resets search state
+   */
   const openSearch = () => {
     setIsSearchOpen(true);
     setSearchQuery('');
     setSearchResults([]);
   };
 
+  /**
+   * Closes search modal and clears search state
+   */
   const closeSearch = () => {
     setIsSearchOpen(false);
     setSearchQuery('');
     setSearchResults([]);
   };
 
+  /**
+   * Navigates to selected search result and closes search.
+   * 
+   * @param {SearchResult} result - The selected search result
+   */
   const selectResult = (result: SearchResult) => {
     // Navigate to the selected result
     goToChapter(result.book as 'inferno' | 'purgatory' | 'paradise', result.chapter);

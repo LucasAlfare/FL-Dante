@@ -1,3 +1,11 @@
+/**
+ * Left indicator icon component for navigation elements.
+ * Custom SVG icon with decorative arrow design.
+ * Used in header center indicator and left panel navigation.
+ * 
+ * @component
+ * @returns {JSX.Element} Left indicator SVG icon
+ */
 const LeftIndicatorIcon = () => {
     return (
         <svg version="1.0" xmlns="http://www.w3.org/2000/svg"

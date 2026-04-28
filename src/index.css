@@ -1,5 +1,20 @@
+/**
+ * Main CSS file for FL-Dante Divine Comedy reader application.
+ * 
+ * Features:
+ * - TailwindCSS import for utility classes
+ * - Custom font face definition for HaboroContrast
+ * - Full viewport layout reset
+ * - Custom drop cap styling for first paragraph letter
+ * - Cross-browser scrollbar hiding utility
+ */
+
 @import "tailwindcss";
 
+/**
+ * Custom font face for the application typography
+ * HaboroContrast font for reading experience
+ */
 @font-face {
   font-family: 'HaboroContrast';
   src: url('./fonts/HaboroContrast-NorReg.otf') format('opentype');
@@ -8,7 +23,12 @@
   font-display: swap;
 }
 
-html, body {
+/**
+ * Base HTML and body styling for full viewport coverage
+ * Removes default margins and padding for proper layout
+ */
+html,
+body {
   margin: 0;
   padding: 0;
   overflow: hidden;
@@ -16,13 +36,21 @@ html, body {
   height: 100%;
 }
 
+/**
+ * Root container styling for full viewport coverage
+ * Ensures app takes entire available space
+ */
 #root {
   width: 100%;
   height: 100%;
   overflow: hidden;
 }
 
-/* First letter of first paragraph, mc-gyverism/trick to clean code and solve weird problem problem */
+/**
+ * Drop cap styling for first letter of first paragraph
+ * Creates decorative large first letter for classic book appearance
+ * Applied to paragraphs with .drop-cap-first-letter-custom class
+ */
 .drop-cap-first-letter-custom p:first-of-type::first-letter {
   float: left;
   font-size: 3.5rem;
@@ -31,11 +59,19 @@ html, body {
   margin-right: 0.5rem;
 }
 
-/* Hide scrollbar while maintaining scroll functionality */
+/**
+ * Cross-browser scrollbar hiding utility
+ * Maintains scroll functionality while hiding scrollbar visually
+ * Supports IE10+, Firefox, Safari, and Chrome
+ */
 .scrollbar-hide {
-  -ms-overflow-style: none;  /* Internet Explorer 10+ */
-  scrollbar-width: none;  /* Firefox */
+  -ms-overflow-style: none;
+  /* Internet Explorer 10+ */
+  scrollbar-width: none;
+  /* Firefox */
 }
+
 .scrollbar-hide::-webkit-scrollbar {
-  display: none;  /* Safari and Chrome */
+  display: none;
+  /* Safari and Chrome */
 }

@@ -1,3 +1,10 @@
+/**
+ * Dante icon component representing the Divine Comedy author.
+ * Custom SVG icon with detailed path data.
+ * 
+ * @component
+ * @returns {JSX.Element} Dante SVG icon
+ */
 const DanteIcon = () => {
     return (
         <svg xmlns="http://www.w3.org/2000/svg" version="1.0" width="32" height="32" viewBox="0 0 227.000000 247.000000" preserveAspectRatio="xMidYMid meet" className="w-8 h-8">
